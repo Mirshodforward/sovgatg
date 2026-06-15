@@ -20,7 +20,7 @@ if [ -z "$BOT_TOKEN" ] || [ -z "$SECRET" ]; then
   exit 1
 fi
 
-WEBHOOK_URL="https://starsjoy.uz/api/telegram-webhook?secret=${SECRET}"
+WEBHOOK_URL="https://sovgatg.uz/api/telegram-webhook?secret=${SECRET}"
 
 echo "Webhook o'rnatilmoqda..."
 curl -s "https://api.telegram.org/bot${BOT_TOKEN}/setWebhook?url=${WEBHOOK_URL}" | python3 -m json.tool

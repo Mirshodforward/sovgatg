@@ -1,4 +1,4 @@
-# StarsJoy Blog — Maqola yozish standarti (10 mezon)
+# StarsPaymee Blog — Maqola yozish standarti (10 mezon)
 
 Har bir yangi blog maqolasi quyidagi 10 mezonning **barchasiga** javob berishi shart.
 
@@ -22,10 +22,10 @@ uz (`/blog/`) va ru (`/ru/blog/`) ikkala versiya, hreflang o'zaro bog'lanadi, ik
 Article/BlogPosting + BreadcrumbList + kontentga mos (FAQPage / HowTo / ItemList). datePublished va dateModified to'g'ri.
 
 ## 7. 🔗 Ichki linking + CTA
-Kamida 2–3 ta tegishli mavjud maqolaga link + mahsulot sahifasi (/stars, /premium, /gifts) + @starsjoybot CTA.
+Kamida 2–3 ta tegishli mavjud maqolaga link + mahsulot sahifasi (/stars, /premium, /gifts) + @StarsPaymee_bot CTA.
 
 ## 8. 🛡️ E-E-A-T va brend izchilligi
-Sana ko'rsatiladi, narxlar so'mda, brend **starsjoy.uz** va **@starsjoybot** (eski vitahealth.uz EMAS). To'lov usullari real (Uzcard/Humo/Click/Payme).
+Sana ko'rsatiladi, narxlar so'mda, brend **sovgatg.uz** va **@StarsPaymee_bot** (eski vitahealth.uz EMAS). To'lov usullari real (Uzcard/Humo/Click/Payme).
 
 ## 9. 📐 Struktura va o'qiluvchanlik
 Savol-formatdagi H2, qisqa abzaslar (2–4 qator), jadval/ro'yxat, mobil-friendly. ~1000–1800 so'z, "fluff" yo'q.
@@ -36,7 +36,7 @@ Layout + Navbar/NavbarRu + Footer/FooterRu, sana formati YYYY-MM-DD, tag mavjud 
 ---
 
 ## Yo'l xaritasi — TOP 10 maqola
-1. StarsJoy ishonchlimi? Sharhlar/kafolat — `starsjoy-ishonchli-sharhlar` (Xavfsizlik) — *user input kerak*
+1. StarsPaymee ishonchlimi? Sharhlar/kafolat — `starspaymee-ishonchli-sharhlar` (Xavfsizlik) — *user input kerak*
 2. Eng arzon Stars provayderlar reytingi — `telegram-stars-eng-arzon-provayderlar` (Stars) ⬅️ **BIRINCHI**
 3. Premium'ni boshqaga sovg'a qilish — `telegram-premium-sovga-qilish` (Premium)
 4. Stars refund/qaytarish — `telegram-stars-refund-qaytarish` (Stars)

@@ -14,9 +14,9 @@ const svgOverlay = `
 <svg width="${width}" height="${height}">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="50%" stop-color="#6D28D9"/>
-      <stop offset="100%" stop-color="#5B21B6"/>
+      <stop offset="0%" stop-color="#E11D48"/>
+      <stop offset="50%" stop-color="#BE123C"/>
+      <stop offset="100%" stop-color="#9F1239"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="45%" r="50%">
       <stop offset="0%" stop-color="rgba(255,255,255,0.08)"/>
@@ -28,11 +28,11 @@ const svgOverlay = `
   <text x="${width/2}" y="${height/2 + logoSize/2 + 50}"
     font-family="Arial, Helvetica, sans-serif"
     font-size="52" font-weight="900" fill="white"
-    text-anchor="middle">StarsJoy</text>
+    text-anchor="middle">StarsPaymee</text>
   <text x="${width/2}" y="${height/2 + logoSize/2 + 95}"
     font-family="Arial, Helvetica, sans-serif"
     font-size="22" fill="rgba(255,255,255,0.75)"
-    text-anchor="middle">Telegram Stars, Premium va Gifts</text>
+    text-anchor="middle">Telegram sovg'alari, Stars va Premium</text>
 </svg>`;
 
 const logoPath = path.join(root, 'public', 'logo.png');

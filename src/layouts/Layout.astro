@@ -12,12 +12,12 @@ interface Props {
 
 const {
   title,
-  description = "StarsJoy — Telegram Stars, Premium va Gifts xizmatlari. Tez, ishonchli va arzon narxlarda.",
-  canonical = "https://starsjoy.uz",
-  keywords = "Telegram Stars, Telegram Premium, Telegram Gifts, Stars sotib olish, Premium sotib olish, StarsJoy, Telegram Stars arzon, Telegram Premium O'zbekiston",
+  description = "StarsPaymee — Telegram Stars, Premium va Gifts xizmatlari. Tez, ishonchli va arzon narxlarda.",
+  canonical = "https://sovgatg.uz",
+  keywords = "Telegram Stars, Telegram Premium, Telegram Gifts, Stars sotib olish, Premium sotib olish, StarsPaymee, Telegram Stars arzon, Telegram Premium O'zbekiston",
   lang = "uz",
   ogType = "website",
-  ogImage = "https://starsjoy.uz/og-image.png",
+  ogImage = "https://sovgatg.uz/og-image.png",
   hreflangs = []
 } = Astro.props;
 ---
@@ -29,9 +29,9 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <meta name="keywords" content={keywords} />
-    <meta name="author" content="StarsJoy" />
+    <meta name="author" content="StarsPaymee" />
     <meta name="robots" content="index, follow" />
-    <meta name="theme-color" content="#7C3AED" />
+    <meta name="theme-color" content="#E11D48" />
     <link rel="canonical" href={canonical} />
     {hreflangs.map(hl => (
       <link rel="alternate" hreflang={hl.lang} href={hl.href} />
@@ -48,7 +48,7 @@ const {
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:url" content={canonical} />
-    <meta property="og:site_name" content="StarsJoy" />
+    <meta property="og:site_name" content="StarsPaymee" />
     <meta property="og:locale" content={lang === "ru" ? "ru_RU" : "uz_UZ"} />
 
     <!-- Twitter Card -->

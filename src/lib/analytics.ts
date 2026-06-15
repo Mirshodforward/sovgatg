@@ -216,8 +216,8 @@ export async function getFilteredStats(period: string = 'today', from?: string, 
 }
 
 // Auth
-const ENV_PASS = import.meta.env.ANALYTICS_PASSWORD || 'starsjoy2026';
-const HMAC_SECRET = import.meta.env.HMAC_SECRET || 'starsjoy-hmac-key-2026';
+const ENV_PASS = import.meta.env.ANALYTICS_PASSWORD || 'starspaymee2026';
+const HMAC_SECRET = import.meta.env.HMAC_SECRET || 'starspaymee-hmac-key-2026';
 
 export async function getPassword(): Promise<string> {
   try {
@@ -814,10 +814,10 @@ export async function deleteOrder(id: number) {
   await sql`DELETE FROM orders WHERE id = ${id}`;
 }
 
-// source: 'starsjoy' = stars,gift,premium | 'premium_send' | 'premium_1_12' | 'uzgets' | 'all'
+// source: 'starspaymee' = stars,gift,premium | 'premium_send' | 'premium_1_12' | 'uzgets' | 'all'
 // 'uzgets' alohida silos — 'all' filteriga qo'shilmaydi (foyda va maosh hisobiga ham ta'sir qilmaydi)
 function sourceFilter(source: string): string[] {
-  if (source === 'starsjoy') return ['stars', 'gift', 'premium'];
+  if (source === 'starspaymee') return ['stars', 'gift', 'premium'];
   if (source === 'premium_send') return ['premium_send'];
   if (source === 'premium_1_12') return ['premium_1_12'];
   if (source === 'uzgets') return ['uzgets_stars', 'uzgets_premium'];

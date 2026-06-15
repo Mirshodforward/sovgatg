@@ -7,7 +7,7 @@ import FooterRu from '../../components/FooterRu.astro';
 const faqs = [
   {
     q: "Как купить Telegram Stars?",
-    a: "Откройте нашего бота @starsjoybot в Telegram, выберите раздел Stars, укажите нужное количество и оплатите через Click, Uzcard или Humo. Звёзды поступят на ваш аккаунт в течение 5 минут.",
+    a: "Откройте нашего бота @StarsPaymee_bot в Telegram, выберите раздел Stars, укажите нужное количество и оплатите через Uzcard, Humo, Click, Payme, Uzum или Paynet. Звёзды поступят на ваш аккаунт в течение 5 секунд.",
   },
   {
     q: "Сколько стоит Telegram Premium?",
@@ -23,7 +23,7 @@ const faqs = [
   },
   {
     q: "Что делать, если Stars не пришли?",
-    a: "Если доставка занимает больше 5 минут, мы начисляем 10 Stars в качестве компенсации. Если услуга не была оказана совсем — возвращаем 100% суммы. Обратитесь в поддержку через бота.",
+    a: "Если доставка занимает больше 5 секунд, мы начисляем бонус. Если услуга не была оказана совсем — возвращаем 100% суммы. Обратитесь в поддержку через бота.",
   },
 ];
 
@@ -50,29 +50,29 @@ const testimonials = [
 ---
 
 <Layout
-  title="Telegram Stars, Premium и Gifts — Купить в StarsJoy"
-  description="StarsJoy — купить Telegram Stars, Premium и Gifts быстро и дёшево. Доставка за 5 минут, 100% гарантия возврата. Оплата через Click, Uzcard, Humo."
-  canonical="https://starsjoy.uz/ru"
-  keywords="купить Telegram Stars, Telegram Premium купить, Telegram Gifts, купить звёзды Телеграм, Telegram Premium Узбекистан, StarsJoy"
+  title="Telegram Stars, Premium и Gifts — Купить в StarsPaymee"
+  description="StarsPaymee — купить Telegram Stars, Premium и Gifts быстро и дёшево. Доставка за 5 секунд, 100% гарантия возврата. Оплата через Uzcard, Humo, Click, Payme, Uzum, Paynet."
+  canonical="https://sovgatg.uz/ru"
+  keywords="купить Telegram Stars, Telegram Premium купить, Telegram Gifts, купить звёзды Телеграм, Telegram Premium Узбекистан, StarsPaymee"
   lang="ru"
   hreflangs={[
-    { lang: "uz", href: "https://starsjoy.uz" },
-    { lang: "ru", href: "https://starsjoy.uz/ru" }
+    { lang: "uz", href: "https://sovgatg.uz" },
+    { lang: "ru", href: "https://sovgatg.uz/ru" }
   ]}
 >
   <!-- WebSite Schema -->
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "StarsJoy",
-    "url": "https://starsjoy.uz/ru",
-    "description": "StarsJoy — купить Telegram Stars, Premium и Gifts быстро и недорого. Доставка за 5 минут, 100% гарантия возврата денег.",
+    "name": "StarsPaymee",
+    "url": "https://sovgatg.uz/ru",
+    "description": "StarsPaymee — купить Telegram Stars, Premium и Gifts быстро и недорого. Доставка за 5 секунд, 100% гарантия возврата денег.",
     "inLanguage": "ru",
     "publisher": {
       "@type": "Organization",
-      "name": "StarsJoy",
-      "url": "https://starsjoy.uz",
-      "logo": "https://starsjoy.uz/logo.png"
+      "name": "StarsPaymee",
+      "url": "https://sovgatg.uz",
+      "logo": "https://sovgatg.uz/logo.png"
     }
   })} />
 
@@ -99,13 +99,13 @@ const testimonials = [
         <h1 class="hero-title">
           Telegram Stars,<br>
           Premium и Gifts<br>
-          <span class="hero-highlight">за 5 минут!</span>
+          <span class="hero-highlight">за 5 секунд!</span>
         </h1>
         <p class="hero-desc">
-          Starsjoy — это Telegram Mini App (не обычный бот). Покупайте Stars, оформляйте Premium или отправляйте Gifts друзьям — всё внутри приложения, за 5 минут.
+          StarsPaymee — это Telegram Mini App (не обычный бот). Покупайте Stars, оформляйте Premium или отправляйте Gifts друзьям — всё внутри приложения, за 5 секунд.
         </p>
         <div class="hero-buttons">
-          <a href="https://t.me/starsjoybot" class="btn-primary" target="_blank">
+          <a href="https://t.me/StarsPaymee_bot" class="btn-primary" target="_blank">
             &#9889; Открыть приложение
           </a>
           <a href="#services" class="btn-secondary">
@@ -116,7 +116,7 @@ const testimonials = [
 
       <div class="hero-visual">
         <div class="logo-float" id="logoFloat">
-          <img src="/logo.png" alt="StarsJoy" class="float-logo" />
+          <img src="/logo.png" alt="StarsPaymee" class="float-logo" />
         </div>
 
         <div class="cube-stage">
@@ -169,7 +169,7 @@ const testimonials = [
                     <linearGradient id="csG3" x1="6" y1="10" x2="46" y2="48">
                       <stop offset="0%" stop-color="#FF6B9D"/>
                       <stop offset="50%" stop-color="#C850C0"/>
-                      <stop offset="100%" stop-color="#8B5CF6"/>
+                      <stop offset="100%" stop-color="#FB7185"/>
                     </linearGradient>
                   </defs>
                   <rect x="8" y="22" width="36" height="24" rx="4" fill="url(#csG3)"/>
@@ -230,8 +230,8 @@ const testimonials = [
             <h3 class="service-title">Telegram Stars</h3>
             <div class="service-icon">
               <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
-                <path d="M16 3l3.7 7.5 8.3 1.2-6 5.8 1.4 8.3L16 21.9l-7.4 3.9 1.4-8.3-6-5.8 8.3-1.2L16 3z" stroke="#7C3AED" stroke-width="2" stroke-linejoin="round" fill="#7C3AED" opacity="0.15"/>
-                <path d="M16 3l3.7 7.5 8.3 1.2-6 5.8 1.4 8.3L16 21.9V3z" fill="#7C3AED" opacity="0.1"/>
+                <path d="M16 3l3.7 7.5 8.3 1.2-6 5.8 1.4 8.3L16 21.9l-7.4 3.9 1.4-8.3-6-5.8 8.3-1.2L16 3z" stroke="#E11D48" stroke-width="2" stroke-linejoin="round" fill="#E11D48" opacity="0.15"/>
+                <path d="M16 3l3.7 7.5 8.3 1.2-6 5.8 1.4 8.3L16 21.9V3z" fill="#E11D48" opacity="0.1"/>
               </svg>
             </div>
           </div>
@@ -243,9 +243,9 @@ const testimonials = [
             <h3 class="service-title">Telegram Premium</h3>
             <div class="service-icon">
               <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
-                <path d="M16 4L7 15l9 17 9-17L16 4z" stroke="#2563EB" stroke-width="2" stroke-linejoin="round" fill="#2563EB" opacity="0.12"/>
-                <path d="M16 4l9 11L16 32V4z" fill="#2563EB" opacity="0.08"/>
-                <path d="M10 15l6-6 6 6" stroke="#2563EB" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+                <path d="M16 4L7 15l9 17 9-17L16 4z" stroke="#F59E0B" stroke-width="2" stroke-linejoin="round" fill="#F59E0B" opacity="0.12"/>
+                <path d="M16 4l9 11L16 32V4z" fill="#F59E0B" opacity="0.08"/>
+                <path d="M10 15l6-6 6 6" stroke="#F59E0B" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
               </svg>
             </div>
           </div>
@@ -292,7 +292,7 @@ const testimonials = [
             </svg>
           </div>
           <h3 class="step-title">Откройте бот</h3>
-          <p class="step-desc">Откройте @starsjoybot в Telegram и нажмите /start</p>
+          <p class="step-desc">Откройте @StarsPaymee_bot в Telegram и нажмите /start</p>
         </div>
 
         <div class="step-card fade-in">
@@ -337,8 +337,8 @@ const testimonials = [
               <path d="M15.5 3L7 16h6l-1.5 9L22 12h-6l1.5-9z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" fill="currentColor" opacity="0.15"/>
             </svg>
           </div>
-          <h3 class="step-title">Получите за 5 минут</h3>
-          <p class="step-desc">После оплаты услуга будет доставлена в течение 5 минут</p>
+          <h3 class="step-title">Получите за 5 секунд</h3>
+          <p class="step-desc">После оплаты услуга будет доставлена в течение 5 секунд</p>
         </div>
       </div>
     </div>
@@ -359,8 +359,8 @@ const testimonials = [
               <path d="M17.5 4L8 18h7l-2 10L24 14h-7l2-10z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" fill="currentColor" opacity="0.15"/>
             </svg>
           </div>
-          <h3 class="guarantee-title">Доставка за 5 минут</h3>
-          <p class="guarantee-desc">Гарантируем доставку услуги в течение 5 минут после оплаты</p>
+          <h3 class="guarantee-title">Доставка за 5 секунд</h3>
+          <p class="guarantee-desc">Гарантируем доставку услуги в течение 5 секунд после оплаты</p>
         </div>
         <div class="guarantee-card fade-in">
           <div class="guarantee-icon gi-cashback">
@@ -368,8 +368,8 @@ const testimonials = [
               <path d="M16 3l3.7 7.5 8.3 1.2-6 5.8 1.4 8.3L16 21.9l-7.4 3.9 1.4-8.3-6-5.8 8.3-1.2L16 3z" stroke="currentColor" stroke-width="2" stroke-linejoin="round" fill="currentColor" opacity="0.15"/>
             </svg>
           </div>
-          <h3 class="guarantee-title">10 Stars кешбэк</h3>
-          <p class="guarantee-desc">Если доставка занимает больше 5 минут, вы получаете 10 Stars в подарок</p>
+          <h3 class="guarantee-title">Бонус за задержку</h3>
+          <p class="guarantee-desc">Если доставка занимает больше 5 секунд, вы получаете бонус</p>
         </div>
         <div class="guarantee-card fade-in">
           <div class="guarantee-icon gi-refund">
@@ -437,17 +437,17 @@ const testimonials = [
               <span>Получайте 5% бонус с каждой покупки друга</span>
             </div>
           </div>
-          <a href="https://t.me/starsjoybot" class="btn-primary" target="_blank">
+          <a href="https://t.me/StarsPaymee_bot" class="btn-primary" target="_blank">
             Получить реферальную ссылку
           </a>
         </div>
         <div class="referral-visual">
           <div class="referral-icon-wrap">
             <svg width="56" height="56" viewBox="0 0 56 56" fill="none">
-              <circle cx="22" cy="18" r="7" fill="#7C3AED" opacity="0.15" stroke="#7C3AED" stroke-width="2"/>
-              <path d="M10 44c0-6.627 5.373-12 12-12s12 5.373 12 12" stroke="#7C3AED" stroke-width="2" stroke-linecap="round" fill="#7C3AED" opacity="0.08"/>
-              <circle cx="38" cy="20" r="5.5" fill="#2563EB" opacity="0.12" stroke="#2563EB" stroke-width="2"/>
-              <path d="M30 44c0-5 3.582-9 8-9s8 4 8 9" stroke="#2563EB" stroke-width="2" stroke-linecap="round" fill="#2563EB" opacity="0.06"/>
+              <circle cx="22" cy="18" r="7" fill="#E11D48" opacity="0.15" stroke="#E11D48" stroke-width="2"/>
+              <path d="M10 44c0-6.627 5.373-12 12-12s12 5.373 12 12" stroke="#E11D48" stroke-width="2" stroke-linecap="round" fill="#E11D48" opacity="0.08"/>
+              <circle cx="38" cy="20" r="5.5" fill="#F59E0B" opacity="0.12" stroke="#F59E0B" stroke-width="2"/>
+              <path d="M30 44c0-5 3.582-9 8-9s8 4 8 9" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" fill="#F59E0B" opacity="0.06"/>
               <circle cx="44" cy="12" r="7" fill="#10B981" opacity="0.15" stroke="#10B981" stroke-width="1.5"/>
               <path d="M44 9v6M41 12h6" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
             </svg>
@@ -490,8 +490,8 @@ const testimonials = [
     <div class="container">
       <div class="cta-box fade-in">
         <h2 class="cta-title">Начните прямо сейчас!</h2>
-        <p class="cta-desc">Telegram Stars, Premium и Gifts — быстро и по лучшей цене только в StarsJoy</p>
-        <a href="https://t.me/starsjoybot" class="btn-white" target="_blank">
+        <p class="cta-desc">Telegram Stars, Premium и Gifts — быстро и по лучшей цене только в StarsPaymee</p>
+        <a href="https://t.me/StarsPaymee_bot" class="btn-white" target="_blank">
           &#11088; Перейти в бот
         </a>
       </div>
@@ -590,14 +590,14 @@ const testimonials = [
     position: relative;
     padding: 100px 24px 80px;
     overflow: hidden;
-    background: linear-gradient(180deg, #F8F6FF 0%, #FFFFFF 100%);
+    background: linear-gradient(180deg, #FFF5F7 0%, #FFFFFF 100%);
   }
   .hero::before {
     content: '';
     position: absolute;
     top: -200px; right: -200px;
     width: 600px; height: 600px;
-    background: radial-gradient(circle, rgba(124, 58, 237, 0.08), transparent 70%);
+    background: radial-gradient(circle, rgba(225, 29, 72, 0.08), transparent 70%);
     pointer-events: none;
   }
   .hero::after {
@@ -605,7 +605,7 @@ const testimonials = [
     position: absolute;
     bottom: -100px; left: -200px;
     width: 500px; height: 500px;
-    background: radial-gradient(circle, rgba(37, 99, 235, 0.06), transparent 70%);
+    background: radial-gradient(circle, rgba(245, 158, 11, 0.06), transparent 70%);
     pointer-events: none;
   }
 
@@ -674,11 +674,11 @@ const testimonials = [
     object-fit: cover;
     transform: rotateY(-14deg) rotateX(-8deg);
     box-shadow:
-      -2px 2px 0 rgba(124, 58, 237, 0.18),
-      -4px 4px 0 rgba(124, 58, 237, 0.13),
-      -6px 6px 0 rgba(124, 58, 237, 0.08),
-      -8px 8px 0 rgba(124, 58, 237, 0.04),
-      0 16px 48px rgba(124, 58, 237, 0.3);
+      -2px 2px 0 rgba(225, 29, 72, 0.18),
+      -4px 4px 0 rgba(225, 29, 72, 0.13),
+      -6px 6px 0 rgba(225, 29, 72, 0.08),
+      -8px 8px 0 rgba(225, 29, 72, 0.04),
+      0 16px 48px rgba(225, 29, 72, 0.3);
   }
 
   .cube-stage {
@@ -710,7 +710,7 @@ const testimonials = [
     border: 1px solid rgba(232, 228, 240, 0.6);
     border-radius: 24px;
     backface-visibility: visible;
-    box-shadow: 0 8px 32px rgba(124, 58, 237, 0.06);
+    box-shadow: 0 8px 32px rgba(225, 29, 72, 0.06);
   }
   .face-front  { transform: translateZ(130px); }
   .face-right  { transform: rotateY(90deg) translateZ(130px); }
@@ -746,7 +746,7 @@ const testimonials = [
     width: 208px;
     height: 39px;
     margin-top: 20px;
-    background: radial-gradient(ellipse, rgba(124, 58, 237, 0.12), transparent 70%);
+    background: radial-gradient(ellipse, rgba(225, 29, 72, 0.12), transparent 70%);
     border-radius: 50%;
     will-change: transform, opacity;
   }
@@ -801,7 +801,7 @@ const testimonials = [
   }
   .service-card:hover {
     transform: translateY(-6px);
-    border-color: rgba(124, 58, 237, 0.2);
+    border-color: rgba(225, 29, 72, 0.2);
     box-shadow: var(--shadow-lg);
   }
   .service-card:hover::before { opacity: 1; }
@@ -815,8 +815,8 @@ const testimonials = [
     align-items: center;
     justify-content: center;
   }
-  .service-purple .service-icon { background: rgba(124, 58, 237, 0.08); }
-  .service-blue .service-icon { background: rgba(37, 99, 235, 0.08); }
+  .service-purple .service-icon { background: rgba(225, 29, 72, 0.08); }
+  .service-blue .service-icon { background: rgba(245, 158, 11, 0.08); }
   .service-amber .service-icon { background: rgba(245, 158, 11, 0.08); }
 
   .service-title {
@@ -854,7 +854,7 @@ const testimonials = [
   }
   .step-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 12px 32px rgba(124, 58, 237, 0.08);
+    box-shadow: 0 12px 32px rgba(225, 29, 72, 0.08);
   }
 
   .step-top {
@@ -892,11 +892,11 @@ const testimonials = [
   }
   .step-icon-1 {
     background: linear-gradient(135deg, #EDE7F6, #D1C4E9);
-    color: #7C3AED;
+    color: #E11D48;
   }
   .step-icon-2 {
     background: linear-gradient(135deg, #E0F2FE, #BAE6FD);
-    color: #2563EB;
+    color: #F59E0B;
   }
   .step-icon-3 {
     background: linear-gradient(135deg, #FFF8E1, #FFE082);
@@ -951,7 +951,7 @@ const testimonials = [
   }
   .gi-speed { background: linear-gradient(135deg, #D1FAE5, #A7F3D0); color: #059669; }
   .gi-cashback { background: linear-gradient(135deg, #FFF8E1, #FFE082); color: #D97706; }
-  .gi-refund { background: linear-gradient(135deg, #EDE7F6, #D1C4E9); color: #7C3AED; }
+  .gi-refund { background: linear-gradient(135deg, #EDE7F6, #D1C4E9); color: #E11D48; }
 
   .guarantee-title {
     font-size: 1.15rem;
@@ -1072,7 +1072,7 @@ const testimonials = [
     right: -150px;
     width: 300px;
     height: 300px;
-    background: radial-gradient(circle, rgba(124, 58, 237, 0.06), transparent 70%);
+    background: radial-gradient(circle, rgba(225, 29, 72, 0.06), transparent 70%);
     pointer-events: none;
   }
 
@@ -1162,8 +1162,8 @@ const testimonials = [
     box-shadow: var(--shadow-sm);
   }
   .faq-item.active {
-    border-color: rgba(124, 58, 237, 0.3);
-    box-shadow: 0 4px 16px rgba(124, 58, 237, 0.08);
+    border-color: rgba(225, 29, 72, 0.3);
+    box-shadow: 0 4px 16px rgba(225, 29, 72, 0.08);
   }
 
   .faq-question {
@@ -1189,7 +1189,7 @@ const testimonials = [
     height: 28px;
     min-width: 28px;
     border-radius: 8px;
-    background: rgba(124, 58, 237, 0.06);
+    background: rgba(225, 29, 72, 0.06);
     display: flex;
     align-items: center;
     justify-content: center;

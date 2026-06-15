@@ -21,4 +21,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://starsjoy.uz/sitemap-index.xml
+Sitemap: https://sovgatg.uz/sitemap-index.xml

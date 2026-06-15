@@ -3,7 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import vercel from '@astrojs/vercel';
 
 export default defineConfig({
-  site: 'https://starsjoy.uz',
+  site: 'https://sovgatg.uz',
   output: 'server',
   trailingSlash: 'never',
   adapter: vercel(),
@@ -23,9 +23,9 @@ export default defineConfig({
     priority: 0.7,
     lastmod: new Date(),
     serialize: (item) => {
-      const strip = (u) => (u && u.length > 'https://starsjoy.uz/'.length)
+      const strip = (u) => (u && u.length > 'https://sovgatg.uz/'.length)
         ? u.replace(/\/$/, '')
-        : (u === 'https://starsjoy.uz/' ? 'https://starsjoy.uz' : u);
+        : (u === 'https://sovgatg.uz/' ? 'https://sovgatg.uz' : u);
       const out = { ...item, url: strip(item.url) };
       if (Array.isArray(item.links)) {
         out.links = item.links.map((l) => ({ ...l, url: strip(l.url) }));
