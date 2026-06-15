@@ -1,12 +1,16 @@
 export const prerender = false;
 
 import type { APIRoute } from 'astro';
-import { addVisit, updateDuration, initDB } from '../../lib/analytics';
+import { addVisit, updateDuration, initDB, isDatabaseConfigured } from '../../lib/analytics';
 import { detectBot } from '../../lib/bots';
 
 let dbReady = false;
 
 export const POST: APIRoute = async ({ request }) => {
+  if (!isDatabaseConfigured()) {
+    return new Response('skip', { status: 200 });
+  }
+
   try {
     if (!dbReady) { await initDB(); dbReady = true; }
 

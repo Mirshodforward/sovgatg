@@ -2,6 +2,10 @@ import { neon } from '@neondatabase/serverless';
 import { createHmac, timingSafeEqual } from 'node:crypto';
 import { detectBot } from './bots';
 
+export function isDatabaseConfigured(): boolean {
+  return Boolean(import.meta.env.DATABASE_URL);
+}
+
 function getSQL() {
   const url = import.meta.env.DATABASE_URL;
   if (!url) throw new Error('DATABASE_URL is not set');
