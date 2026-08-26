@@ -6,7 +6,11 @@ export default defineConfig({
   site: 'https://sovgatg.uz',
   output: 'server',
   trailingSlash: 'never',
-  adapter: vercel(),
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
   integrations: [sitemap({
     i18n: {
       defaultLocale: 'uz',
