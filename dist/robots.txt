@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sayt statik — indekslashga to'siq yo'q
+Sitemap: https://sovgatg.uz/sitemap.xml

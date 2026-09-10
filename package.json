@@ -1,0 +1,14 @@
+{
+  "name": "sovgatg-landing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "sovgatg.uz — Telegram sovg'alari landing sahifasi (statik, backendsiz)",
+  "scripts": {
+    "build": "node build.js",
+    "preview": "node build.js && cd dist && python3 -m http.server 8899"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
