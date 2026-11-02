@@ -37,6 +37,7 @@ export const nav = [
   { href: "/rejalashtirilgan-sovga/", text: "Taymer sovg'a" },
   { href: "/#qanday", text: "Qanday ishlaydi" },
   { href: "/#savollar", text: "Savollar" },
+  { href: "/blog/", text: "Blog" },
 ];
 
 // Footer ustunlari
@@ -49,6 +50,7 @@ export const footerCols = [
       { href: "/nft-sovga-ijara/", text: "NFT sovg'a ijarasi" },
       { href: "/rejalashtirilgan-sovga/", text: "Rejalashtirilgan sovg'a" },
       { href: "/telegram-premium-sovga/", text: "Premium va Stars sovg'a" },
+      { href: "/blog/", text: "Blog va qo'llanmalar" },
     ],
   },
   {

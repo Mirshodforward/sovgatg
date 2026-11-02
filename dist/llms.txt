@@ -1,0 +1,26 @@
+# SovgaTG
+
+> Telegram sovg'alari xizmati: oddiy gift, kolleksion NFT sovg'a, NFT sovg'a ijarasi, rejalashtirilgan (taymerli) sovg'a, Telegram Premium va Stars sovg'a qilish — O'zbek so'mida. Barcha buyurtmalar Telegram bot orqali rasmiylashtiriladi.
+
+## Muhim faktlar
+
+- Buyurtma boti: @StarsPaymee_bot (https://t.me/StarsPaymee_bot)
+- Qo'llab-quvvatlash: @StarsPaymeeSupport (https://t.me/StarsPaymeeSupport)
+- Telegram kanal: @StarsPaymee (https://t.me/StarsPaymee)
+- To'lov: Uzcard, Humo, Click, Payme, Paynet, Balans — so'mda, xalqaro karta kerak emas.
+- Sovg'a qabul qiluvchining @username'i bo'yicha yuboriladi; parol yoki SMS kod so'ralmaydi.
+- Sayt tanishtiruv maqsadida; Telegram bilan rasmiy aloqada emas.
+
+## Sahifalar
+
+- [SovgaTG — Telegram sovg'alari bir joyda](https://sovgatg.uz/): Telegram sovg'a yuborish, NFT gift sotib olish, NFT sovg'a ijarasi va taymerli rejalashtirilgan sovg'a. So'mda to'lov: Uzcard, Humo, Click, Payme.
+- [NFT sovg'a ijarasi — noyob Telegram gift arzonga](https://sovgatg.uz/nft-sovga-ijara/): Telegram NFT sovg'asini sotib olmasdan ijaraga oling: bir kundan boshlab, so'mda to'lov. To'liq bahodan ancha arzon, muddat tugagach o'zi qaytadi.
+- [Taymer bilan sovg'a — aynan o'sha daqiqada yetadi](https://sovgatg.uz/rejalashtirilgan-sovga/): Sovg'ani oldindan to'lang — tizim uni siz belgilagan sana va daqiqada yuboradi. Tug'ilgan kunga 00:00 da. Narx qotiriladi, yetkazilmasa pul qaytadi.
+- [Telegram sovg'a yuborish — bir daqiqada](https://sovgatg.uz/telegram-sovga-yuborish/): Telegram'da do'stingizga sovg'a (gift) yuboring: faqat @username kerak. Anonim rejim, tabrik matni, ~10 soniyada yetkazish. So'mda, mahalliy kartada.
+- [NFT gift sotib olish — kolleksion Telegram sovg'alari](https://sovgatg.uz/nft-gift-sotib-olish/): Telegram kolleksion NFT sovg'alarini so'mda sotib oling: model, fon va naqsh bo'yicha tanlang. Kripto hamyon kerak emas, bir daqiqada yetkaziladi.
+- [Telegram Premium va Stars sovg'a qilish](https://sovgatg.uz/telegram-premium-sovga/): Telegram Premium obunasini yoki Stars'ni do'stingizga sovg'a qiling: faqat @username kerak. 3, 6, 12 oylik tariflar, so'mda to'lov, 10 soniyada ulanadi.
+- [Tug'ilgan kunga sovg'a — aynan 00:00 da yetkazamiz](https://sovgatg.uz/tugilgan-kunga-sovga/): Tug'ilgan kunga onlayn sovg'a: Telegram gift, NFT sovg'a, Stars yoki Premium. Aynan yarim tunda yetkazish, anonim rejim, so'mda to'lov. G'oyalar to'plami.
+
+## Blog maqolalari
+
+- (hozircha maqola yo'q)

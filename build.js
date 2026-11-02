@@ -19,6 +19,7 @@ import sendGift from "./src/pages/send-gift.js";
 import nftBuy from "./src/pages/nft-buy.js";
 import premium from "./src/pages/premium.js";
 import birthday from "./src/pages/birthday.js";
+import { loadPosts, blogIndexPage, postPage, llmsTxt } from "./src/blog/index.js";
 
 const run = promisify(execFile);
 const root = path.dirname(fileURLToPath(import.meta.url));
@@ -123,6 +124,7 @@ async function buildOgImage(svgPath, jpgPath) {
 async function build() {
   if (existsSync(dist)) await rm(dist, { recursive: true, force: true });
   await mkdir(dist, { recursive: true });
+  const posts = await loadPosts(root);
 
   // 1. HTML sahifalar
   for (const { page } of pages) {
@@ -131,6 +133,13 @@ async function build() {
     await out(rel, html);
     console.log(`  ✓ /${page.slug ? page.slug + "/" : ""}  (${(html.length / 1024).toFixed(1)} KB)`);
   }
+
+  // 1b. Blog: /blog/ va har maqola /blog/<slug>/ (src/blog/posts/*.json)
+  const blogPages = [blogIndexPage(posts), ...posts.map((p) => postPage(p, posts))];
+  for (const page of blogPages) {
+    await out(`${page.slug}/index.html`, layout(page));
+  }
+  console.log(`  ✓ /blog/  (${posts.length} ta maqola)`);
 
   // 2. 404
   await out(
@@ -167,6 +176,13 @@ async function build() {
   await svgToPng(iconPath, path.join(dist, "assets", "icon-180.png"), 180);
   await svgToPng(iconPath, path.join(dist, "assets", "icon-512.png"), 512);
   await svgToPng(iconPath, path.join(dist, "assets", "icon-192.png"), 192);
+  // qlmanage/sips faqat macOS'da bor: Vercel (Linux) build'ida rasm yasalmaydi —
+  // shunda oldindan yasalgan nusxa (assets/prebuilt/) qo'yiladi, aks holda og:image 404 beradi.
+  for (const f of ["og.jpg", "icon-180.png", "icon-192.png", "icon-512.png"]) {
+    const target = path.join(dist, "assets", f);
+    const prebuilt = path.join(root, "assets", "prebuilt", f);
+    if (!existsSync(target) && existsSync(prebuilt)) await copyFile(prebuilt, target);
+  }
 
   // 4. sitemap.xml
   const today = new Date().toISOString().slice(0, 10);
@@ -182,10 +198,25 @@ ${pages
     <priority>${priority}</priority>
   </url>`;
   })
+  .concat(
+    blogPages
+      .filter((page) => !page.noindex)
+      .map(
+        (page) => `  <url>
+    <loc>${site.origin}/${page.slug}/</loc>
+    <lastmod>${page.updated || today}</lastmod>
+    <changefreq>${page.slug === "blog" ? "weekly" : "monthly"}</changefreq>
+    <priority>${page.slug === "blog" ? "0.7" : "0.6"}</priority>
+  </url>`
+      )
+  )
   .join("\n")}
 </urlset>
 `;
   await out("sitemap.xml", sitemap);
+
+  // 4b. llms.txt — javob mashinalari uchun xarita va avtoblogyoz katalogi
+  await out("llms.txt", llmsTxt(pages.map(({ page }) => page), posts));
 
   // 5. robots.txt
   await out(
@@ -223,7 +254,7 @@ Sitemap: ${site.origin}/sitemap.xml
     )
   );
 
-  console.log(`\n  Tayyor → dist/  (${pages.length + 1} sahifa)\n`);
+  console.log(`\n  Tayyor → dist/  (${pages.length + blogPages.length + 1} sahifa)\n`);
 }
 
 build().catch((e) => {

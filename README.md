@@ -65,6 +65,34 @@ o'zi yangilanadi.
 
 ---
 
+## Blog
+
+Har maqola — `src/blog/posts/<slug>.json` (bitta fayl). Build uni o'zi
+`/blog/<slug>/` sahifasiga, `/blog/` ro'yxatiga, `sitemap.xml` va `llms.txt`
+ga qo'shadi — boshqa faylni tahrirlash kerak emas.
+
+```json
+{
+  "slug": "telegram-sovga-qanday-yuboriladi",
+  "date": "2026-11-02", "reviewed": "2026-11-02",
+  "category": "sovgalar",
+  "title": "…", "excerpt": "Qisqa javob, 1–2 gap",
+  "content": "## H2\n\nMatn — soddalashtirilgan markdown (src/blog/markdown.js)",
+  "faq": [{ "q": "…", "a": "…" }],
+  "keywords": [], "related": [], "sources": [{ "title": "…", "url": "https://…" }]
+}
+```
+
+Maqolalarni avtoblogyoz yozadi (Telegram kanal postlaridan, faktlar rasmiy
+manbalardan tekshirilib) va shu faylni commit qiladi. `llms.txt` dagi
+«Blog maqolalari» ro'yxati — uning katalogi: takror mavzu va ichki havolalar
+shu ro'yxatdan olinadi. Maqola yo'q paytda `/blog/` `noindex` va sitemapda yo'q.
+
+`assets/prebuilt/` — macOS'da yasalgan OG rasm va ikonkalar: Vercel (Linux)
+build'ida `qlmanage` yo'q, shunda shu nusxalar qo'yiladi.
+
+---
+
 ## SEO nima qilingan
 
 | Element | Holat |
