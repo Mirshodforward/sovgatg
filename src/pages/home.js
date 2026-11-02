@@ -164,18 +164,29 @@ export default {
   },
   body: `
 <section class="hero wrap">
-  <span class="hero-badge"><i class="dot"></i> <b>10 700+</b> foydalanuvchi ishonadi</span>
-  <h1>Telegram sovg'a yuborish —<br><span class="gt">gift, NFT va ijara</span> bir joyda</h1>
-  <p class="hero-lead">
-    Do'stingizga sovg'a yuboring, kolleksion <b>NFT gift</b> sotib oling yoki bir necha kunga
-    <b>ijaraga</b> oling. Sovg'ani <b>aniq daqiqaga rejalashtirish</b> ham mumkin — hammasi
-    O'zbek so'mida, mahalliy kartalar bilan.
-  </p>
-  <div class="btns">
-    <a class="btn btn-primary" href="${site.bot}" target="_blank" rel="noopener">${ic("send")} Sovg'a yuborish</a>
-    <a class="btn btn-ghost" href="#xizmatlar">${ic("arrow")} Xizmatlarni ko'rish</a>
+  <div class="hero-tx">
+    <span class="hero-badge"><i class="dot"></i> <b>10 700+</b> foydalanuvchi ishonadi</span>
+    <h1>Telegram sovg'a yuborish — <span class="gt">gift, NFT va ijara</span> bir joyda</h1>
+    <p class="hero-lead">
+      Do'stingizga sovg'a yuboring, kolleksion <b>NFT gift</b> sotib oling yoki bir necha kunga
+      <b>ijaraga</b> oling. Sovg'ani <b>aniq daqiqaga rejalashtirish</b> ham mumkin — hammasi
+      O'zbek so'mida, mahalliy kartalar bilan.
+    </p>
+    <div class="btns">
+      <a class="btn btn-primary" href="${site.bot}" target="_blank" rel="noopener">${ic("send")} Sovg'a yuborish</a>
+      <a class="btn btn-ghost" href="#xizmatlar">${ic("arrow")} Xizmatlarni ko'rish</a>
+    </div>
+    <div class="hero-pays">${site.pay.map((p) => `<span class="pay">${p}</span>`).join("")}</div>
   </div>
-  <div class="hero-pays">${site.pay.map((p) => `<span class="pay">${p}</span>`).join("")}</div>
+  <div class="hero-art" aria-hidden="true">
+    <span class="hero-orb"></span>
+    <span class="hero-ring"></span>
+    <img class="hero-logo" src="/assets/logo-hero.webp" width="556" height="760" alt="" fetchpriority="high">
+    <span class="chip c1"><i>${ic("gift")}</i>Gift · ~10 soniya</span>
+    <span class="chip c2"><i>${ic("gem")}</i>NFT ijara</span>
+    <span class="chip c3"><i>${ic("clock")}</i>00:00 da yetkazish</span>
+    <span class="chip c4"><i>${ic("star")}</i>Premium · Stars</span>
+  </div>
   ${statBar()}
 </section>
 

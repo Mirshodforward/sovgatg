@@ -34,10 +34,11 @@ faqat nusxalaydi (Vercel Linux'da build qiladi, u yerda rasm vositalari yo'q).
 Logo o'zgarsa, yangi kvadrat logoni (bir xil fonda) `brand/logo.png` ga qo'ying:
 
 ```bash
-python3 brand/images.py   # fonni olib tashlaydi, favicon va ikonkalarni yasaydi
+python3 brand/images.py   # fonni olib tashlaydi, favicon va ikonkalarni yasaydi (Pillow kerak)
+node brand/og.mjs         # brand/og.html → assets/og.jpg (Node 22+ va Google Chrome kerak)
 ```
 
-Faqat shu skript uchun Pillow kerak (`pip3 install pillow`). Natijani commit qiling.
+Natijani commit qiling.
 
 ## Deploy
 
@@ -64,8 +65,8 @@ src/layout.js        HTML skeleti, SEO meta, JSON-LD, komponentlar
 src/pages/*.js       har bir sahifaning matni va tuzilishi
 assets/style.css     dizayn tizimi (bitta fayl, tashqi kutubxonasiz)
 assets/app.js        ~1 KB: menyu, sticky nav, paydo bo'lish effekti
-assets/*.png|ico     logo va ikonkalar (brand/images.py yasaydi)
-brand/               asl logo va rasm generatori
+assets/*.png|ico|jpg logo, ikonkalar va OG rasm (brand/ dagi skriptlar yasaydi)
+brand/               asl logo, rasm generatorlari va OG shabloni
 build.js             yig'uvchi + sitemap/robots/manifest generatori
 ```
 

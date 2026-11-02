@@ -109,6 +109,7 @@ export const statBar = () => `
 export const ctaBlock = ({ title, text, btn = "Botni ochish", note } = {}) => `
   <section class="cta">
     <div class="cta-in">
+      <img class="cta-mark" src="/assets/logo-s.png" width="88" height="120" alt="" loading="lazy">
       <h2 class="cta-t">${title}</h2>
       <p class="cta-d">${text}</p>
       <div class="btns">
@@ -330,9 +331,9 @@ export function layout(page) {
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@700&display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@700&display=swap" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@700&display=swap"></noscript>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap"></noscript>
 <script>document.documentElement.classList.add("js")</script>
 <link rel="stylesheet" href="/assets/style.css">
 ${ld({ "@context": "https://schema.org", "@graph": graph })}
@@ -353,6 +354,7 @@ ${footer()}
 /** Ichki sahifa boshi: non ushoqlari + H1 + kirish + tugmalar + teglar */
 export const phead = ({ crumbs = [], h1, lead, tags = [], btn = "Botni ochish" }) => `
 <section class="phead wrap">
+  <img class="phead-art" src="/assets/logo-hero.webp" width="556" height="760" alt="" loading="lazy">
   <nav class="crumbs" aria-label="Non ushoqlari">
     <a href="/">Bosh sahifa</a>
     ${crumbs.map((c) => `<span aria-hidden="true">/</span>${c.href ? `<a href="${c.href}">${c.text}</a>` : `<span aria-current="page">${c.text}</span>`}`).join("")}

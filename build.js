@@ -43,7 +43,7 @@ const out = async (rel, data) => {
 // ── Rasmlar ────────────────────────────────────────────────────────────
 // Logo, ikonkalar va OG rasm assets/ da tayyor holda turadi — build ularni
 // faqat nusxalaydi (Vercel Linux'da build qiladi, u yerda rasm vositalari yo'q).
-// Logo o'zgarsa: python3 brand/images.py
+// Logo o'zgarsa: python3 brand/images.py   ·   OG rasm: node brand/og.mjs
 
 // ── Yig'ish ────────────────────────────────────────────────────────────
 async function build() {

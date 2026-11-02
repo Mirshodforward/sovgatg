@@ -16,7 +16,7 @@ export const site = {
   supportHandle: "@StarsPaymeeSupport",
   channel: "https://t.me/StarsPaymee",
   channelHandle: "@StarsPaymee",
-  themeColor: "#0B0810",
+  themeColor: "#05061A",
 
   // Ishonch raqamlari — production bazasidan (2026-09 holatiga).
   // Bo'rttirilmagan: pastga yaxlitlangan.
