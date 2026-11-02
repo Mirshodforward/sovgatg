@@ -4,8 +4,8 @@
   "description": "Telegram sovg'alari, NFT giftlar, sovg'a ijarasi va rejalashtirilgan sovg'a — O'zbek so'mida.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#05061A",
-  "theme_color": "#05061A",
+  "background_color": "#0C0F45",
+  "theme_color": "#0C0F45",
   "lang": "uz",
   "icons": [
     {

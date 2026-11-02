@@ -62,6 +62,7 @@ chiqish papkasi `dist`. `_redirects` faylini `dist/` ga ko'chiring.
 ```
 src/site.js          brend, havolalar, navigatsiya, ishonch raqamlari
 src/layout.js        HTML skeleti, SEO meta, JSON-LD, komponentlar
+src/ribbon.js        3D lenta va bantik (SVG) — build dist/assets/*.svg ga yozadi
 src/pages/*.js       har bir sahifaning matni va tuzilishi
 assets/style.css     dizayn tizimi (bitta fayl, tashqi kutubxonasiz)
 assets/app.js        ~1 KB: menyu, sticky nav, paydo bo'lish effekti

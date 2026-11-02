@@ -9,6 +9,7 @@ import { fileURLToPath } from "node:url";
 
 import { site } from "./src/site.js";
 import { layout } from "./src/layout.js";
+import { ribbon, bow } from "./src/ribbon.js";
 
 import home from "./src/pages/home.js";
 import nftRent from "./src/pages/nft-rent.js";
@@ -95,6 +96,11 @@ async function build() {
     const to = e.name === "favicon.ico" ? path.join(dist, e.name) : path.join(dist, "assets", e.name);
     await copyFile(path.join(root, "assets", e.name), to);
   }
+  // Lenta va bantik — logodagi "S" lentasi uslubida, kod bilan chiziladi (src/ribbon.js)
+  await out("assets/bow.svg", bow());
+  await out("assets/ribbon-hero.svg", ribbon({ h: 300, amp: 70, waves: 1, band: 66, twists: 2.2, phase: 0.4 }));
+  await out("assets/ribbon-wave.svg", ribbon({ h: 200, amp: 46, waves: 1.4, band: 42, twists: 3, phase: 1.9 }));
+  await out("assets/ribbon-foot.svg", ribbon({ h: 180, amp: 34, waves: 0.9, band: 40, twists: 2.6, phase: 3.1 }));
 
   // 4. sitemap.xml
   const today = new Date().toISOString().slice(0, 10);

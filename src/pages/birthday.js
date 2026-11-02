@@ -140,7 +140,7 @@ ${ctaBlock({
   title: "Keyingi tug'ilgan kunni bugun rejalashtiring",
   text: "Sovg'ani tanlang, sanani belgilang va unuting — tizim o'z vaqtida yetkazadi.",
   btn: "Sovg'a tanlash",
-  note: `Savol bo'lsa: <a href="${site.support}" style="color:var(--gold)" target="_blank" rel="noopener">${site.supportHandle}</a>`,
+  note: `Savol bo'lsa: <a href="${site.support}" target="_blank" rel="noopener">${site.supportHandle}</a>`,
 })}
 `,
 };

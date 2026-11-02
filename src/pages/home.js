@@ -163,7 +163,8 @@ export default {
     offers: { priceCurrency: "UZS", lowPrice: "1000" },
   },
   body: `
-<section class="hero wrap">
+<section class="hero-sec">
+<div class="hero wrap">
   <div class="hero-tx">
     <span class="hero-badge"><i class="dot"></i> <b>10 700+</b> foydalanuvchi ishonadi</span>
     <h1>Telegram sovg'a yuborish — <span class="gt">gift, NFT va ijara</span> bir joyda</h1>
@@ -179,15 +180,19 @@ export default {
     <div class="hero-pays">${site.pay.map((p) => `<span class="pay">${p}</span>`).join("")}</div>
   </div>
   <div class="hero-art" aria-hidden="true">
-    <span class="hero-orb"></span>
-    <span class="hero-ring"></span>
+    <span class="halo"></span><span class="halo halo-2"></span><span class="hero-glow"></span>
     <img class="hero-logo" src="/assets/logo-hero.webp" width="556" height="760" alt="" fetchpriority="high">
-    <span class="chip c1"><i>${ic("gift")}</i>Gift · ~10 soniya</span>
-    <span class="chip c2"><i>${ic("gem")}</i>NFT ijara</span>
-    <span class="chip c3"><i>${ic("clock")}</i>00:00 da yetkazish</span>
-    <span class="chip c4"><i>${ic("star")}</i>Premium · Stars</span>
+    <span class="gtag t1"><i>${ic("gift")}</i>Gift · ~10 soniya</span>
+    <span class="gtag t2"><i>${ic("gem")}</i>NFT ijara</span>
+    <span class="gtag t3"><i>${ic("clock")}</i>00:00 da yetkazish</span>
+    <span class="gtag t4"><i>${ic("star")}</i>Premium · Stars</span>
+    <i class="spark s1"></i><i class="spark s2"></i><i class="spark s3"></i><i class="spark s4"></i>
   </div>
-  ${statBar()}
+</div>
+<div class="hero-band">
+  <img class="hero-ribbon" src="/assets/ribbon-hero.svg" alt="" aria-hidden="true">
+  <div class="wrap">${statBar()}</div>
+</div>
 </section>
 
 <section class="sec wrap rv" id="xizmatlar">
@@ -198,6 +203,8 @@ export default {
   })}
   ${cards(services)}
 </section>
+
+<div class="rdiv" aria-hidden="true"><img src="/assets/ribbon-wave.svg" alt="" loading="lazy"></div>
 
 <section class="sec sec-alt rv" id="qanday">
   <div class="wrap">
@@ -279,6 +286,8 @@ export default {
   </div>
 </section>
 
+<div class="rdiv rdiv-flip" aria-hidden="true"><img src="/assets/ribbon-wave.svg" alt="" loading="lazy"></div>
+
 <section class="sec wrap rv" id="munosabat">
   ${head2({
     kicker: "Munosabat bilan",
@@ -301,7 +310,7 @@ export default {
       title: "Sovg'a haqida bilishingiz kerak bo'lgan hamma narsa",
       lead: "Har bir xizmat bo'yicha batafsil, o'zbekcha qo'llanma — misollar va aniq raqamlar bilan.",
     })}
-    ${cards(guides)}
+    ${cards(guides, { plain: true })}
   </div>
 </section>
 
@@ -318,7 +327,7 @@ ${ctaBlock({
   title: "Sovg'angizni hozir yuboring",
   text: "Botni oching, sovg'ani tanlang va so'mda to'lang. Bir necha daqiqa — va do'stingiz syurprizni oladi.",
   btn: "Sovg'a yuborish",
-  note: `Savol bo'lsa: <a href="${site.support}" style="color:var(--gold)" target="_blank" rel="noopener">${site.supportHandle}</a>`,
+  note: `Savol bo'lsa: <a href="${site.support}" target="_blank" rel="noopener">${site.supportHandle}</a>`,
 })}
 `,
 };

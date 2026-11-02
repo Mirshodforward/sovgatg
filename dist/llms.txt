@@ -23,4 +23,5 @@
 
 ## Blog maqolalari
 
-- (hozircha maqola yo'q)
+- [Fragment’ga hujjatsiz qanday kiriladi va akkauntlarni almashtirsa bo‘ladimi?](https://sovgatg.uz/blog/fragment-verifikatsiyasiz-akkaunt-ulash/): Rasmiy sahifalarga ko‘ra, Fragment hujjat so‘ramaydi: Telegram akkaunt va TON hamyon ulanadi. Akkauntlarni navbatma-navbat almashtirish mumkin — avval eski sessiyani o‘chirasiz.
+- [Raqamni sotsam Telegram nima bo‘ladi: akkaunt, sovg‘a va Stars’ni saqlash](https://sovgatg.uz/blog/raqam-sotishdan-oldin-telegram-akkaunt/): SIMni Telegram’dan uzmasdan sotsangiz, akkaunt, sovg‘alar va Stars balansi xavf ostida qoladi. Avval akkauntni yangi raqamga o‘tkazing, keyin raqamni soting.

@@ -5,13 +5,18 @@
 // Natijani commit qiling — build.js uni faqat nusxalaydi.
 
 import { spawn } from "node:child_process";
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs";
+import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 
+import { ribbon } from "../src/ribbon.js";
+
 const here = path.dirname(fileURLToPath(import.meta.url));
 const out = path.join(here, "..", "assets", "og.jpg");
+// Shablonga 3D lentani qo'yamiz (logo-mark.png nisbiy yo'li ishlashi uchun fayl brand/ ichida)
+const page = path.join(here, ".og-render.html");
+writeFileSync(page, readFileSync(path.join(here, "og.html"), "utf8").replace("<!--RIBBON-->", ribbon({ h: 230, amp: 44, waves: 1.1, band: 58, twists: 2.4, phase: 0.9 })));
 const bin = process.env.CHROME || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 const port = 9300 + Math.floor(Math.random() * 500);
 const profile = mkdtempSync(path.join(tmpdir(), "sovgatg-og-"));
@@ -46,7 +51,7 @@ try {
 
   await send("Emulation.setDeviceMetricsOverride", { width: 1200, height: 630, deviceScaleFactor: 1, mobile: false });
   await send("Page.enable");
-  await send("Page.navigate", { url: pathToFileURL(path.join(here, "og.html")).href });
+  await send("Page.navigate", { url: pathToFileURL(page).href });
   await sleep(1200);
   // Shriftlar va logo to'liq yuklanmaguncha rasmga olinmaydi
   await send("Runtime.evaluate", {
@@ -62,4 +67,5 @@ try {
   chrome.kill();
   await sleep(300);
   rmSync(profile, { recursive: true, force: true });
+  rmSync(page, { force: true });
 }

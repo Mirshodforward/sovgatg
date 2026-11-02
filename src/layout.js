@@ -50,13 +50,15 @@ export const head2 = ({ kicker, title, lead, tag = "h2" }) => `
     ${lead ? `<p class="sec-lead">${lead}</p>` : ""}
   </header>`;
 
-/** Xizmat kartochkalari to'ri */
-export const cards = (items) => `
-  <div class="grid cards">
+/** Kartochkalar to'ri. Odatda har biri sovg'a qutisi: yon tomonda lenta, tepasida bantik.
+ *  plain: true — lentasiz oddiy kartochka (qo'llanmalar ro'yxati kabi joylar uchun). */
+export const cards = (items, { plain = false } = {}) => `
+  <div class="grid cards${plain ? " plain" : " gifts"}">
     ${items
       .map(
         (c) => `
       <${c.href ? "a" : "div"} class="card"${c.href ? ` href="${c.href}"` : ""}>
+        ${plain ? "" : `<img class="card-bow" src="/assets/bow.svg" width="200" height="140" alt="" loading="lazy">`}
         <span class="card-ic">${ic(c.icon)}</span>
         <h3 class="card-t">${c.title}</h3>
         <p class="card-d">${c.text}</p>
@@ -108,15 +110,19 @@ export const statBar = () => `
 /** Chaqiruv bloki */
 export const ctaBlock = ({ title, text, btn = "Botni ochish", note } = {}) => `
   <section class="cta">
-    <div class="cta-in">
-      <img class="cta-mark" src="/assets/logo-s.png" width="88" height="120" alt="" loading="lazy">
-      <h2 class="cta-t">${title}</h2>
-      <p class="cta-d">${text}</p>
-      <div class="btns">
-        <a class="btn btn-primary" href="${site.bot}" target="_blank" rel="noopener">${ic("send")} ${btn}</a>
-        <a class="btn btn-ghost" href="${site.support}" target="_blank" rel="noopener">${ic("chat")} Savol berish</a>
+    <div class="cta-box">
+      <span class="cta-rib cta-rib-v" aria-hidden="true"></span>
+      <span class="cta-rib cta-rib-h" aria-hidden="true"></span>
+      <img class="cta-bow" src="/assets/bow.svg" width="200" height="140" alt="" loading="lazy">
+      <div class="cta-card">
+        <h2 class="cta-t">${title}</h2>
+        <p class="cta-d">${text}</p>
+        <div class="btns">
+          <a class="btn btn-primary" href="${site.bot}" target="_blank" rel="noopener">${ic("send")} ${btn}</a>
+          <a class="btn btn-light" href="${site.support}" target="_blank" rel="noopener">${ic("chat")} Savol berish</a>
+        </div>
+        ${note ? `<p class="cta-note">${note}</p>` : ""}
       </div>
-      ${note ? `<p class="cta-note">${note}</p>` : ""}
     </div>
   </section>`;
 
@@ -154,6 +160,7 @@ const header = () => `
 
 const footer = () => `
 <footer class="foot">
+  <img class="foot-ribbon" src="/assets/ribbon-foot.svg" alt="" loading="lazy">
   <div class="wrap">
     <div class="foot-top">
       <div class="foot-brand">
@@ -353,8 +360,10 @@ ${footer()}
 
 /** Ichki sahifa boshi: non ushoqlari + H1 + kirish + tugmalar + teglar */
 export const phead = ({ crumbs = [], h1, lead, tags = [], btn = "Botni ochish" }) => `
-<section class="phead wrap">
-  <img class="phead-art" src="/assets/logo-hero.webp" width="556" height="760" alt="" loading="lazy">
+<section class="phead-sec">
+<img class="phead-ribbon" src="/assets/ribbon-wave.svg" alt="" loading="lazy">
+<div class="phead wrap">
+  <div class="phead-art" aria-hidden="true"><span class="halo"></span><img src="/assets/logo-hero.webp" width="556" height="760" alt="" loading="lazy"></div>
   <nav class="crumbs" aria-label="Non ushoqlari">
     <a href="/">Bosh sahifa</a>
     ${crumbs.map((c) => `<span aria-hidden="true">/</span>${c.href ? `<a href="${c.href}">${c.text}</a>` : `<span aria-current="page">${c.text}</span>`}`).join("")}
@@ -366,4 +375,5 @@ export const phead = ({ crumbs = [], h1, lead, tags = [], btn = "Botni ochish" }
     <a class="btn btn-ghost" href="#savollar">${ic("chat")} Savollarga o'tish</a>
   </div>
   ${tags.length ? `<div class="tags">${tags.map((t) => `<span class="tag">${t}</span>`).join("")}</div>` : ""}
+</div>
 </section>`;
