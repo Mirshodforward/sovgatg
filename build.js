@@ -6,8 +6,6 @@ import { mkdir, writeFile, copyFile, readdir, rm } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { execFile } from "node:child_process";
-import { promisify } from "node:util";
 
 import { site } from "./src/site.js";
 import { layout } from "./src/layout.js";
@@ -21,7 +19,6 @@ import premium from "./src/pages/premium.js";
 import birthday from "./src/pages/birthday.js";
 import { loadPosts, blogIndexPage, postPage, llmsTxt } from "./src/blog/index.js";
 
-const run = promisify(execFile);
 const root = path.dirname(fileURLToPath(import.meta.url));
 const dist = path.join(root, "dist");
 
@@ -43,82 +40,10 @@ const out = async (rel, data) => {
   return file;
 };
 
-// ── Grafika (SVG) ──────────────────────────────────────────────────────
-const GRAD = `<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#FF6E8A"/><stop offset=".52" stop-color="#FFC163"/><stop offset="1" stop-color="#A78BFA"/>
-</linearGradient>`;
-
-const giftPath = `<path d="M20 12v9H4v-9M2 7h20v5H2zM12 22V7M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7zM12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z" fill="none" stroke="#20121A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>`;
-
-const faviconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs>${GRAD}</defs><rect width="32" height="32" rx="8" fill="url(#g)"/><g transform="translate(4 4) scale(1)">${giftPath}</g></svg>`;
-
-const logoSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-label="SovgaTG"><defs>${GRAD}</defs><rect width="44" height="44" y="2" rx="13" fill="url(#g)"/><g transform="translate(10 12) scale(1.05)">${giftPath}</g><text x="58" y="32" font-family="Unbounded,system-ui,sans-serif" font-size="22" font-weight="700" fill="#F7F3F9">Sovga</text><text x="140" y="32" font-family="Unbounded,system-ui,sans-serif" font-size="22" font-weight="700" fill="url(#g)">TG</text></svg>`;
-
-const iconSvg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs>${GRAD}</defs><rect width="512" height="512" rx="112" fill="#0B0810"/><rect x="56" y="56" width="400" height="400" rx="96" fill="url(#g)"/><g transform="translate(136 136) scale(10)">${giftPath}</g></svg>`;
-
-const ogSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
-<defs>${GRAD}
-<radialGradient id="r1" cx="18%" cy="8%" r="62%"><stop offset="0" stop-color="#B4306A" stop-opacity=".85"/><stop offset="1" stop-color="#B4306A" stop-opacity="0"/></radialGradient>
-<radialGradient id="r2" cx="88%" cy="26%" r="58%"><stop offset="0" stop-color="#8C6A1E" stop-opacity=".8"/><stop offset="1" stop-color="#8C6A1E" stop-opacity="0"/></radialGradient>
-<radialGradient id="r3" cx="58%" cy="112%" r="66%"><stop offset="0" stop-color="#5B3FA8" stop-opacity=".85"/><stop offset="1" stop-color="#5B3FA8" stop-opacity="0"/></radialGradient>
-</defs>
-<rect width="1200" height="1200" fill="#0B0810"/>
-<g transform="translate(0 285)">
-  <rect width="1200" height="630" fill="#0B0810"/>
-  <rect width="1200" height="630" fill="url(#r1)"/><rect width="1200" height="630" fill="url(#r2)"/><rect width="1200" height="630" fill="url(#r3)"/>
-  <rect x="72" y="62" width="58" height="58" rx="17" fill="url(#g)"/>
-  <g transform="translate(83 73) scale(1.5)">${giftPath}</g>
-  <text x="146" y="102" font-family="Helvetica,Arial,sans-serif" font-size="29" font-weight="bold" fill="#F7F3F9">SovgaTG</text>
-  <text x="72" y="248" font-family="Helvetica,Arial,sans-serif" font-size="64" font-weight="bold" fill="#F7F3F9">Telegram sovg&#8217;alari</text>
-  <text x="72" y="330" font-family="Helvetica,Arial,sans-serif" font-size="64" font-weight="bold" fill="url(#g)">bir joyda</text>
-  <text x="72" y="408" font-family="Helvetica,Arial,sans-serif" font-size="28" fill="#B5ADC2">Gift &#183; NFT sovg&#8217;a &#183; ijara &#183; rejalashtirilgan yetkazish</text>
-  <g font-family="Helvetica,Arial,sans-serif" font-size="22" fill="#A79FB4">
-    <rect x="72" y="452" width="204" height="50" rx="25" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/><text x="100" y="483">So&#8217;mda to&#8217;lov</text>
-    <rect x="292" y="452" width="196" height="50" rx="25" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/><text x="320" y="483">Uzcard &#183; Humo</text>
-    <rect x="504" y="452" width="196" height="50" rx="25" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/><text x="532" y="483">24/7 avtomatik</text>
-  </g>
-  <text x="72" y="566" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#FFC163">sovgatg.uz</text>
-</g>
-</svg>`;
-
-/** SVG → PNG (macOS qlmanage). Bo'lmasa — ogohlantiradi, build to'xtamaydi. */
-async function svgToPng(svgPath, pngPath, size) {
-  const tmp = path.join(dist, "_tmp");
-  await mkdir(tmp, { recursive: true });
-  try {
-    await run("qlmanage", ["-t", "-s", String(size), "-o", tmp, svgPath]);
-    const made = (await readdir(tmp)).find((f) => f.endsWith(".png"));
-    if (!made) throw new Error("PNG yaratilmadi");
-    await copyFile(path.join(tmp, made), pngPath);
-    await rm(path.join(tmp, made), { force: true });
-    return true;
-  } catch (e) {
-    console.warn(`  ! ${path.basename(pngPath)} yaratilmadi (${e.message}) — SVG qoladi`);
-    return false;
-  } finally {
-    await rm(tmp, { recursive: true, force: true });
-  }
-}
-
-/**
- * OG rasm: kvadrat PNG (qlmanage faqat kvadrat beradi) → markazdan 1200x630
- * kesish → JPEG. JPEG tanlangani hajm uchun: PNG ~1 MB, JPEG ~100 KB.
- */
-async function buildOgImage(svgPath, jpgPath) {
-  const tmpPng = path.join(dist, "assets", "_og_square.png");
-  const ok = await svgToPng(svgPath, tmpPng, 1200);
-  if (!ok) return false;
-  try {
-    await run("sips", ["-c", "630", "1200", tmpPng, "--out", tmpPng]);
-    await run("sips", ["-s", "format", "jpeg", "-s", "formatOptions", "82", tmpPng, "--out", jpgPath]);
-    return true;
-  } catch (e) {
-    console.warn("  ! og.jpg yaratilmadi:", e.message);
-    return false;
-  } finally {
-    await rm(tmpPng, { force: true });
-  }
-}
+// ── Rasmlar ────────────────────────────────────────────────────────────
+// Logo, ikonkalar va OG rasm assets/ da tayyor holda turadi — build ularni
+// faqat nusxalaydi (Vercel Linux'da build qiladi, u yerda rasm vositalari yo'q).
+// Logo o'zgarsa: python3 brand/images.py
 
 // ── Yig'ish ────────────────────────────────────────────────────────────
 async function build() {
@@ -162,26 +87,13 @@ async function build() {
     })
   );
 
-  // 3. Assetlar
+  // 3. Assetlar: CSS, JS va tayyor rasmlar. favicon.ico ildizga — brauzerlar
+  //    va qidiruv robotlari uni /favicon.ico dan so'raydi.
   await mkdir(path.join(dist, "assets"), { recursive: true });
-  for (const f of ["style.css", "app.js"]) {
-    await copyFile(path.join(root, "assets", f), path.join(dist, "assets", f));
-  }
-  await out("assets/favicon.svg", faviconSvg);
-  await out("assets/logo.svg", logoSvg);
-  const iconPath = await out("assets/icon.svg", iconSvg);
-  const ogPath = await out("assets/og.svg", ogSvg);
-
-  await buildOgImage(ogPath, path.join(dist, "assets", "og.jpg"));
-  await svgToPng(iconPath, path.join(dist, "assets", "icon-180.png"), 180);
-  await svgToPng(iconPath, path.join(dist, "assets", "icon-512.png"), 512);
-  await svgToPng(iconPath, path.join(dist, "assets", "icon-192.png"), 192);
-  // qlmanage/sips faqat macOS'da bor: Vercel (Linux) build'ida rasm yasalmaydi —
-  // shunda oldindan yasalgan nusxa (assets/prebuilt/) qo'yiladi, aks holda og:image 404 beradi.
-  for (const f of ["og.jpg", "icon-180.png", "icon-192.png", "icon-512.png"]) {
-    const target = path.join(dist, "assets", f);
-    const prebuilt = path.join(root, "assets", "prebuilt", f);
-    if (!existsSync(target) && existsSync(prebuilt)) await copyFile(prebuilt, target);
+  for (const e of await readdir(path.join(root, "assets"), { withFileTypes: true })) {
+    if (!e.isFile() || e.name.startsWith(".")) continue;
+    const to = e.name === "favicon.ico" ? path.join(dist, e.name) : path.join(dist, "assets", e.name);
+    await copyFile(path.join(root, "assets", e.name), to);
   }
 
   // 4. sitemap.xml
@@ -245,8 +157,8 @@ Sitemap: ${site.origin}/sitemap.xml
         lang: "uz",
         icons: [
           { src: "/assets/icon-192.png", sizes: "192x192", type: "image/png" },
-          { src: "/assets/icon-512.png", sizes: "512x512", type: "image/png", purpose: "any maskable" },
-          { src: "/assets/icon.svg", sizes: "any", type: "image/svg+xml" },
+          { src: "/assets/icon-512.png", sizes: "512x512", type: "image/png" },
+          { src: "/assets/icon-maskable.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
         ],
       },
       null,

@@ -27,6 +27,18 @@ cd dist && python3 -m http.server 8899
 # → http://localhost:8899
 ```
 
+### Logo va rasmlar
+
+Logo, favicon va ikonkalar `assets/` da tayyor holda saqlanadi — build ularni
+faqat nusxalaydi (Vercel Linux'da build qiladi, u yerda rasm vositalari yo'q).
+Logo o'zgarsa, yangi kvadrat logoni (bir xil fonda) `brand/logo.png` ga qo'ying:
+
+```bash
+python3 brand/images.py   # fonni olib tashlaydi, favicon va ikonkalarni yasaydi
+```
+
+Faqat shu skript uchun Pillow kerak (`pip3 install pillow`). Natijani commit qiling.
+
 ## Deploy
 
 **nginx (o'z server):**
@@ -52,7 +64,9 @@ src/layout.js        HTML skeleti, SEO meta, JSON-LD, komponentlar
 src/pages/*.js       har bir sahifaning matni va tuzilishi
 assets/style.css     dizayn tizimi (bitta fayl, tashqi kutubxonasiz)
 assets/app.js        ~1 KB: menyu, sticky nav, paydo bo'lish effekti
-build.js             yig'uvchi + sitemap/robots/manifest/ikonka generatori
+assets/*.png|ico     logo va ikonkalar (brand/images.py yasaydi)
+brand/               asl logo va rasm generatori
+build.js             yig'uvchi + sitemap/robots/manifest generatori
 ```
 
 **Matnni o'zgartirish:** `src/pages/` dagi kerakli faylni tahrirlang va
@@ -87,9 +101,6 @@ Maqolalarni avtoblogyoz yozadi (Telegram kanal postlaridan, faktlar rasmiy
 manbalardan tekshirilib) va shu faylni commit qiladi. `llms.txt` dagi
 «Blog maqolalari» ro'yxati — uning katalogi: takror mavzu va ichki havolalar
 shu ro'yxatdan olinadi. Maqola yo'q paytda `/blog/` `noindex` va sitemapda yo'q.
-
-`assets/prebuilt/` — macOS'da yasalgan OG rasm va ikonkalar: Vercel (Linux)
-build'ida `qlmanage` yo'q, shunda shu nusxalar qo'yiladi.
 
 ---
 
@@ -138,8 +149,8 @@ shu mantiqni davom ettiring — bitta sahifa bitta niyat.
    qolmasin.
 3. **Google Business / kanal** — `src/site.js` dagi `sameAs` ro'yxatiga ijtimoiy
    tarmoq havolalarini qo'shing.
-4. **Analitika** — hozir hech qanday kuzatuv skripti yo'q (sayt tashqi so'rov
-   qilmaydi). Kerak bo'lsa `src/layout.js` ga qo'shing.
+4. **Analitika** — Vercel Web Analytics ulangan (`src/layout.js` oxiridagi
+   `/_vercel/insights/script.js`). Natijalar Vercel → Analytics bo'limida.
 5. **Yangi maqolalar** — mavsumiy so'rovlar uchun alohida sahifalar
    (`/yangi-yil-sovgasi/`, `/8-mart-sovga/`) eng tez natija beradi.
 

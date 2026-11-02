@@ -136,7 +136,7 @@ const header = () => `
 <header class="nav" id="nav">
   <div class="wrap nav-in">
     <a class="logo" href="/" aria-label="${site.brand} bosh sahifa">
-      <span class="logo-mark">${ic("gift")}</span>
+      <img class="logo-mark" src="/assets/logo-s.png" width="88" height="120" alt="">
       <span class="logo-tx">Sovga<b>TG</b></span>
     </a>
     <nav class="nav-links" aria-label="Asosiy menyu">
@@ -156,7 +156,7 @@ const footer = () => `
   <div class="wrap">
     <div class="foot-top">
       <div class="foot-brand">
-        <a class="logo" href="/"><span class="logo-mark">${ic("gift")}</span><span class="logo-tx">Sovga<b>TG</b></span></a>
+        <a class="logo" href="/"><img class="logo-mark" src="/assets/logo-s.png" width="88" height="120" alt=""><span class="logo-tx">Sovga<b>TG</b></span></a>
         <p>Telegram sovg'alari, NFT giftlar, sovg'a ijarasi va rejalashtirilgan sovg'a — O'zbek so'mida, mahalliy kartalar bilan.</p>
         <div class="pays">${site.pay.map((p) => `<span class="pay">${p}</span>`).join("")}</div>
       </div>
@@ -198,7 +198,7 @@ export function layout(page) {
     name: site.brand,
     alternateName: "Sovga TG",
     url: site.origin,
-    logo: `${site.origin}/assets/logo.svg`,
+    logo: `${site.origin}/assets/logo-512.png`,
     description:
       "Telegram sovg'alari, NFT giftlar, NFT sovg'a ijarasi va rejalashtirilgan sovg'a xizmati. O'zbekiston uchun so'mda to'lov.",
     areaServed: { "@type": "Country", name: "Uzbekistan" },
@@ -323,7 +323,8 @@ export function layout(page) {
 <meta name="twitter:title" content="${esc(page.ogTitle || title)}">
 <meta name="twitter:description" content="${esc(page.ogDescription || desc)}">
 <meta name="twitter:image" content="${ogImg}">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="icon" href="/assets/logo-512.png" type="image/png" sizes="512x512">
 <link rel="apple-touch-icon" href="/assets/icon-180.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="sitemap" type="application/xml" href="/sitemap.xml">
