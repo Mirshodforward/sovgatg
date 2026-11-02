@@ -1,0 +1,73 @@
+{
+  "slug": "fragment-verifikatsiyasiz-akkaunt-ulash",
+  "date": "2026-11-03",
+  "reviewed": "2026-11-03",
+  "category": "nft",
+  "title": "Fragment’ga hujjatsiz qanday kiriladi va akkauntlarni almashtirsa bo‘ladimi?",
+  "excerpt": "Rasmiy sahifalarga ko‘ra, Fragment hujjat so‘ramaydi: Telegram akkaunt va TON hamyon ulanadi. Akkauntlarni navbatma-navbat almashtirish mumkin — avval eski sessiyani o‘chirasiz.",
+  "content": "## Fragment sizdan pasport yoki selfi so‘raydimi?\n\nfragment.com’dagi hozirgi matnlarga ko‘ra, yo‘q. Fragment’da alohida ro‘yxatdan o‘tish yo‘q: siz Telegram akkaunt va/yoki TON hamyon orqali kirasiz ([maxfiylik siyosati](https://fragment.com/privacy)). Rasmiy sahifalarda hujjat yuklash yoki yuzni tasdiqlash bosqichi tilga olinmagan.\n\n[Xizmat shartlari](https://fragment.com/terms)da platforma har kimga raqamli kolleksion obyektlarni xavfsiz va anonim sotib olish imkonini berishi yozilgan. Telegram Premium obunasini olish yoki sovg‘a qilish ham shu qatorda sanalgan.\n\nMaxfiylik siyosatida Fragment o‘zi haqida quyidagilarni yozadi:\n\n- Ikki kirish usulini — Telegram va hamyonni — IP manzil, brauzer, qurilma bilan ham, bir-biri bilan ham bog‘lab saqlamaydi.\n- Xizmat uchun qat’iy zarur bo‘lmagan shaxsiy ma’lumotni yig‘maslik va qayta ishlamaslik majburiyatini oladi.\n- Shaxsiy ma’lumot saqlamagani uchun uni o‘chirishni so‘rashga hojat yo‘qligini aytadi.\n\n> Telegram kanallarida «Fragment’da verifikatsiya endi shart emas» degan post tarqaldi. Rasmiy sahifalarda esa KYC ham, uning bekor qilingani ham yozilmagan. Shuning uchun «bekor qilindi» degan da’vo va uning sanasi bu maqolada tasdiqlanmagan. Biz faqat hozirgi qoidalarda hujjat talabi ko‘rinmasligini aytamiz.\n\nKanaldagi yangilikni o‘zingiz tekshirmoqchi bo‘lsangiz, [fragment.com/about](https://fragment.com/about) va shartlar sahifasini ochib ko‘ring. U yerda yozilmagan narsani hozircha mish-mish deb hisoblang.\n\n## Sovg‘a olishdan oldin nimani tayyorlab qo‘yish kerak?\n\nHujjat kerak bo‘lmasa ham, Fragment’da xarid qilish uchun bir nechta narsa tayyor turishi kerak.\n\n| Nima | Holati | Manba |\n|---|---|---|\n| Telegram akkaunt | Taklif berish yoki xarid uchun ulanadi | [Shartlar](https://fragment.com/terms), [About](https://fragment.com/about) |\n| TON hamyon | Xarid hamyon ulangandan keyin qilinadi | [About](https://fragment.com/about) |\n| Telegram’da 2FA paroli | Yo‘q yoki juda yaqinda qo‘yilgan bo‘lsa, to‘siq bo‘lishi mumkin | [About](https://fragment.com/about) |\n| Pasport, selfi | Rasmiy sahifalarda talab qilinmagan | [Maxfiylik](https://fragment.com/privacy) |\n\n2FA va verifikatsiya boshqa-boshqa narsa. Ikki bosqichli parol sizning kimligingizni emas, akkauntingiz qanchalik himoyalanganini ko‘rsatadi. Shuning uchun Fragment hujjat so‘ramasa ham, parol bo‘lmasa xaridni o‘tkazmasligi mumkin.\n\nParol qancha oldin qo‘yilishi kerakligi rasmiy sahifada aytilmagan. Sovg‘ani muayyan kunga tayyorlayotgan bo‘lsangiz, parolni bir necha kun oldin qo‘yib qo‘ying.\n\n## Akkaunt va hamyon qanday ulanadi?\n\n1. Telegram’da Settings > Privacy & Security bo‘limidan ikki bosqichli parolni o‘rnating, agar u hali yo‘q bo‘lsa.\n2. Brauzerda [fragment.com](https://fragment.com/about) saytini oching.\n3. Telegram akkauntingizni ulang va kirishni ilovada tasdiqlang.\n4. TON hamyoningizni ulang.\n5. Qaysi hamyon ulanganini tekshiring. Fragment buni alohida tavsiya qiladi.\n6. Bosh sahifadan kerakli bo‘limni oching, masalan Premium’ni, va xarid qiling yoki taklif bering.\n\nOddiy holat: siz oilaviy noutbukdan foydalanasiz, unda akangizning hamyon kengaytmasi ochiq qolgan. Tekshirmasdan davom etsangiz, to‘lov uning hamyonidan chiqadi. Hamyon nomi va manzilining oxirgi belgilariga qarash bir necha soniya oladi. Noto‘g‘ri to‘lovni qaytarish esa ancha murakkab.\n\n## Bir nechta akkauntdan sovg‘a olish mumkinmi?\n\nKanallardagi «istagancha akkauntdan ulaning» degan maslahat rasmiy matnda tasdiqlanmagan. Fragment bir vaqtda nechta akkaunt ulash mumkinligini ham, cheklovni ham yozmaydi.\n\nRasmiy sahifada aniq aytilgani bitta: Telegram akkauntni Fragment’dan to‘liq uzib, boshqa telefon raqami bilan kirish mumkin. Buning uchun Fragment sessiyasini Telegram ilovasidan o‘chirasiz. So‘ng saytni qayta ochib, boshqa akkauntni ulaysiz.\n\nDemak, bir nechta akkauntdan foydalansa bo‘ladi, lekin navbat bilan. Har gal bitta akkaunt ulangan bo‘ladi, keyingisiga o‘tishdan oldin avvalgisi uziladi.\n\nMisol: dushanba kuni shaxsiy akkauntingizdan singlingizga Premium oldingiz. Chorshanba kuni kichik do‘koningiz akkauntidan mijozga sovg‘a qilmoqchisiz. Avval shaxsiy akkaunt sessiyasini o‘chirasiz, keyin do‘kon akkauntini ulaysiz. Do‘kon akkauntida ham 2FA paroli oldindan turgan bo‘lishi kerak, aks holda xarid to‘xtashi mumkin.\n\n## Fragment sessiyasini Android va iOS’da qanday o‘chirish mumkin?\n\nSessiya Telegram ilovasining maxfiylik sozlamalarida turadi. Menyu nomlari ingliz tilidagi interfeys bo‘yicha berilgan.\n\n### Android\n\n1. Settings > Privacy & Security > Bots and websites bo‘limiga kiring.\n2. «Logged in with Telegram» ro‘yxatidan Fragment’ni topib, sessiyani o‘chiring.\n3. fragment.com’ni qayta oching va kerakli akkauntni ulang.\n\n### iOS\n\n1. Settings > Privacy & Security > Active Websites bo‘limiga kiring.\n2. «Logged in with Telegram» ro‘yxatida Fragment sessiyasini o‘chiring.\n3. Saytni qayta oching va boshqa akkaunt bilan kiring.\n\nYangi akkaunt bilan boshqa hamyondan to‘lamoqchi bo‘lsangiz, hamyonni ham almashtiring. Ulagandan keyin uni yana bir bor tekshiring. Shartlarga ko‘ra, Fragment hamyoningizga kira olmaydi va uni sizga yoki akkauntlaringizga bog‘lab saqlamaydi ([shartlar](https://fragment.com/terms)).\n\n## Xarid kuni Fragment nimaga to‘xtab qolishi mumkin?\n\nHujjat so‘ralmasligi har qanday xarid albatta o‘tadi degani emas. Rasmiy matnlarda quyidagi holatlar uchraydi:\n\n- **2FA paroli.** Parol yo‘q yoki yangi qo‘yilgan bo‘lsa, Fragment buni sabab qilib ko‘rsatadi.\n- **Davlat bo‘yicha cheklov.** Fragment qaysi davlatlarda ishlashi va qaysi xizmatlari ochiqligini istalgan vaqtda, ogohlantirishsiz o‘zgartirishi mumkin. O‘zbekiston bunday ro‘yxatda bor-yo‘qligi ma’lum emas.\n- **Reklama xaridi.** Telegram siyosatiga ko‘ra, ayrim davlatlar foydalanuvchilari uchun reklama sotib olish cheklangan bo‘lishi mumkin.\n- **Mualliflar mukofotlari.** Telegram bu mukofotlarni Fragment orqali qayta ishlaydi ([mualliflar shartlari](https://telegram.org/tos/content-creator-rewards)), lekin Fragment ba’zi foydalanuvchi yoki davlatlarga mukofot bera olmasligi mumkin.\n- **Soliq va qonunlar.** Soliq, to‘lovlar va mahalliy qonunlarga rioya qilish foydalanuvchining o‘z zimmasida.\n\nTug‘ilgan kun yoki bayram sovg‘asini Fragment orqali olmoqchi bo‘lsangiz, jarayonni bir-ikki kun oldin sinab ko‘ring. To‘siq chiqsa, boshqa yo‘lni tanlashga vaqtingiz qoladi. Sovg‘a g‘oyalari uchun: [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/).\n\n## Do‘stga Premium yoki Stars: Fragment’dami yoki so‘mdami?\n\nFragment’dagi Telegram Premium sahifasida «Buy Premium for a User» tugmasi bor. U orqali obunani o‘zingizga olasiz yoki do‘stingizga sovg‘a qilasiz. To‘lov kriptohamyondan qilinadi ([Premium sahifasi](https://fragment.com/premium)). Xarid Telegram va Telegram Premium shartlariga bo‘ysunadi.\n\nStars’ni Fragment orqali olish tartibi bu maqolada tasdiqlanmagan, uni fragment.com’da o‘zingiz tekshiring.\n\nKripto bilan ishlamaydigan sovg‘a qiluvchi uchun ikki yo‘lni solishtiring:\n\n| Mezon | Fragment | SovgaTG |\n|---|---|---|\n| Sizdan nima kerak | Telegram akkaunt, TON hamyon, 2FA paroli | Qabul qiluvchining @username’i |\n| To‘lov | Kriptohamyon | So‘mda: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi |\n| Premium muddati | fragment.com/premium’da tekshiring | 3, 6 yoki 12 oy |\n| Stars | Bu maqolada tasdiqlanmagan | So‘mda sovg‘a qilinadi |\n| Yetkazish | Rasmiy sahifada ko‘rsatilmagan | Taxminan 10 soniya |\n| Narx | Sahifada tekshiring | Narxni botda tekshiring |\n\nSovgaTG Telegram’dan mustaqil xizmat. Unda ro‘yxatdan o‘tish, parol va SMS kod so‘ralmaydi. Xalqaro karta, dollar hisobi yoki VPN ham kerak emas. Batafsil: [Telegram Premium sovg‘a qilish](/telegram-premium-sovga/).\n\n## Kripto hamyonsiz NFT yoki oddiy sovg‘ani qanday yuborish mumkin?\n\nKolleksion NFT gift’ni SovgaTG orqali so‘mda sotib olish mumkin. Narx bozor narxi va xizmat haqidan iborat: [NFT gift sotib olish](/nft-gift-sotib-olish/).\n\nNFT sovg‘a faqat bir necha kun profilda turishi kerak bo‘lsa, masalan to‘y yoki yubiley kuni, uni 1 kundan boshlab ijaraga olish mumkin: [NFT sovg‘a ijarasi](/nft-sovga-ijara/).\n\nOddiy Telegram sovg‘asi @username orqali yuboriladi, xohlasangiz anonim rejimda. U taxminan 10 soniyada yetadi: [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/). Stars balansingiz bo‘lsa, bot sovg‘ani o‘z akkauntingizdan yuboradi. Bu taxminan 1 daqiqa oladi.\n\nSovg‘ani oldindan tayyorlab qo‘yish ham mumkin. Bugun to‘laysiz, sovg‘a esa belgilangan sana va daqiqada o‘zi yetkaziladi. Narxga muddat ustamasi (0–12%) qo‘shiladi, yetkazishdan oldin bekor qilib, pulni qaytarib olsa bo‘ladi: [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/).\n\nBuyurtma [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) orqali beriladi, aniq narxlar ham shu yerda. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytariladi. Savol bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport)ga yozing.",
+  "faq": [
+    {
+      "q": "Fragment uchun yangi login va parol o‘ylab topishim kerakmi?",
+      "a": "Kerak emas: Fragment alohida ro‘yxatdan o‘tishni taklif qilmaydi. Siz mavjud Telegram akkauntingiz va TON hamyoningizni ulaysiz."
+    },
+    {
+      "q": "Kanalda «verifikatsiya endi shart emas» deb yozishdi — ishonsa bo‘ladimi?",
+      "a": "Hozirgi rasmiy sahifalarda hujjat talabi haqiqatan ko‘rinmaydi. Lekin biror narsa «bekor qilingani» haqida fragment.com’da e’lon yo‘q, shuning uchun postdagi tafsilotlar tasdiqlanmagan."
+    },
+    {
+      "q": "Ikki akkauntim bor, ikkalasidan ham Fragment’da sovg‘a olsam bo‘ladimi?",
+      "a": "Ha, lekin navbat bilan. Birinchi akkauntning Fragment sessiyasini Telegram sozlamalaridan o‘chirasiz, so‘ng saytni qayta ochib, ikkinchisini ulaysiz."
+    },
+    {
+      "q": "2FA parolini bugun qo‘ysam, darhol xarid qila olamanmi?",
+      "a": "Kafolat yo‘q: Fragment yaqinda qo‘yilgan parolni ham to‘siq sifatida ko‘rsatadi. Qancha kutish kerakligi yozilmagan, shuning uchun parolni sovg‘a kunidan bir necha kun oldin qo‘ygan ma’qul."
+    },
+    {
+      "q": "Akkauntni almashtirsam, Fragment eski hamyonimni yangi akkauntga bog‘lab qo‘yadimi?",
+      "a": "Fragment qoidalarida u hamyoningizga kira olmasligi va uni akkauntlaringizga bog‘laydigan ma’lumot saqlamasligi aytilgan. Baribir yangi akkaunt bilan qaysi hamyon ulanganini tekshirib oling."
+    },
+    {
+      "q": "Kriptom yo‘q, do‘stimga Premium yoki NFT sovg‘ani qanday olaman?",
+      "a": "SovgaTG botida do‘stingizning @username’ini kiritib, so‘mda to‘laysiz. Premium, Stars va NFT gift shu yerda, NFT’ni ijaraga olish ham mumkin; narxni botda tekshiring."
+    }
+  ],
+  "keywords": [
+    "fragment verifikatsiyasiz ulash",
+    "fragment akkaunt ulash",
+    "fragment bir nechta akkaunt",
+    "fragment kyc bekor qilindi",
+    "fragment telegram akkauntni almashtirish",
+    "fragment ton hamyon ulash",
+    "fragment 2fa parol",
+    "fragment без верификации",
+    "fragment kyc отменили",
+    "fragment сменить аккаунт telegram",
+    "фрагмент подключить несколько аккаунтов",
+    "fragment premium sovg'a qilish"
+  ],
+  "related": [],
+  "sources": [
+    {
+      "url": "https://fragment.com/terms",
+      "title": "Terms of Service"
+    },
+    {
+      "url": "https://fragment.com/privacy",
+      "title": "Privacy"
+    },
+    {
+      "url": "https://fragment.com/about",
+      "title": "https://fragment.com/about"
+    },
+    {
+      "url": "https://fragment.com/premium",
+      "title": "Buy Telegram Premium"
+    },
+    {
+      "url": "https://telegram.org/tos/content-creator-rewards",
+      "title": "Terms of Service for Content Creators"
+    }
+  ],
+  "intent": "Fragment orqali NFT sovg'a, Stars yoki Premium olmoqchi bo'lgan o'zbekistonlik Telegram foydalanuvchisi «fragment verifikatsiyasiz qanday ulanadi, bir nechta akkaunt ulasa bo'ladimi» deb qidiradi."
+}
