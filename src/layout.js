@@ -344,6 +344,7 @@ ${page.body}
 </main>
 ${footer()}
 <script src="/assets/app.js" defer></script>
+<script src="/_vercel/insights/script.js" defer></script>
 </body>
 </html>`;
 }
