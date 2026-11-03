@@ -133,28 +133,32 @@ ul,ol{margin:0;padding:0;list-style:none}
 
 /* ── Hero ────────────────────────────────────────────────── */
 .hero-sec{position:relative;overflow-x:clip}   /* aylanuvchi halqalar burchagi ekrandan chiqmasin */
-.hero{display:grid;padding-block:18px 0;text-align:center}
-.hero-tx{position:relative;z-index:2;display:flex;flex-direction:column;align-items:center}
-.hero-badge{display:inline-flex;align-items:center;gap:9px;padding:8px 16px 8px 12px;border-radius:100px;background:#fff;color:var(--navy);font-size:13px;font-weight:700;margin-bottom:22px;box-shadow:0 10px 26px rgba(5,4,40,.35)}
+/* Telefon va planshet: sarlavha chapda, logo o'ngda — bitta blokda; qolgan matn ostida to'liq enda.
+   .hero-tx bu yerda "display:contents" — uning bolalari to'g'ridan-to'g'ri grid joylariga tushadi. */
+.hero{display:grid;grid-template-columns:minmax(0,1fr) clamp(112px,30vw,260px);grid-template-areas:"badge badge" "h1 art" "lead lead" "btns btns" "pays pays";column-gap:14px;align-items:center;padding-block:22px 0}
+.hero-tx{display:contents}
+.hero-tx>*{position:relative;z-index:2}
+.hero-badge{grid-area:badge;justify-self:start;display:inline-flex;align-items:center;gap:9px;padding:8px 16px 8px 12px;border-radius:100px;background:#fff;color:var(--navy);font-size:13px;font-weight:700;margin-bottom:22px;box-shadow:0 10px 26px rgba(5,4,40,.35)}
 .hero-badge b{font-weight:800}
 .dot{width:7px;height:7px;border-radius:50%;background:#1FBF7A;position:relative;flex:none}
 .dot::after{content:"";position:absolute;inset:-4px;border-radius:50%;border:1.5px solid rgba(31,191,122,.6);animation:pls 2.2s ease-out infinite}
 @keyframes pls{0%{transform:scale(.5);opacity:1}100%{transform:scale(1.8);opacity:0}}
-.hero h1{font-family:var(--disp);font-weight:800;font-size:clamp(2.25rem,8.4vw,3.8rem);letter-spacing:-.035em;line-height:1.03;text-wrap:balance}
-.hero-lead{max-width:600px;margin-top:20px;color:var(--mut);font-size:17.5px}
+.hero h1{grid-area:h1;font-family:var(--disp);font-weight:800;font-size:clamp(1.75rem,7.8vw,3.8rem);letter-spacing:-.035em;line-height:1.03;text-wrap:balance}
+.hero-lead{grid-area:lead;max-width:600px;margin-top:20px;color:var(--mut);font-size:17.5px}
 .hero-lead b{color:#fff;font-weight:700}
-.hero .btns{justify-content:center;margin-top:28px}
-.hero-pays{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-top:22px}
+.hero .btns{grid-area:btns;margin-top:28px}
+.hero .btns .btn{flex:1 1 100%}   /* telefonda tugmalar to'liq enda */
+.hero-pays{grid-area:pays;display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
 .pay{font-size:12.5px;font-weight:700;color:#DADCF7;padding:6px 13px;border-radius:100px;background:var(--card);border:1px solid var(--line)}
 
 /* Sovg'a sahnasi: aylanuvchi gradient halqalar, suzuvchi "S", oq yorliqlar */
-.hero-art{position:relative;order:-1;height:300px;margin-bottom:8px}
-.halo{position:absolute;left:50%;top:50%;width:250px;aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);background:conic-gradient(#12E7FF,#3F6BFF,#8F3BFF,#E32BEA,#12E7FF);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 3px),#000 calc(100% - 2.5px));mask:radial-gradient(farthest-side,transparent calc(100% - 3px),#000 calc(100% - 2.5px));filter:drop-shadow(0 0 10px rgba(143,59,255,.9));animation:spin 14s linear infinite}
-.halo-2{width:310px;opacity:.4;animation-duration:24s;animation-direction:reverse}
-.hero-glow{position:absolute;left:50%;top:50%;width:250px;aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);background:radial-gradient(circle at 42% 40%,rgba(18,231,255,.5),rgba(143,59,255,.45) 45%,rgba(227,43,234,.2) 64%,transparent 72%);filter:blur(24px)}
-.hero-logo{position:relative;z-index:2;height:86%;width:auto;margin:4% auto 0;filter:drop-shadow(0 22px 40px rgba(20,8,90,.6));animation:float 6s ease-in-out infinite}
+.hero-art{grid-area:art;position:relative}
+.halo{position:absolute;left:50%;top:50%;width:100%;aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);background:conic-gradient(#12E7FF,#3F6BFF,#8F3BFF,#E32BEA,#12E7FF);-webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 3px),#000 calc(100% - 2.5px));mask:radial-gradient(farthest-side,transparent calc(100% - 3px),#000 calc(100% - 2.5px));filter:drop-shadow(0 0 10px rgba(143,59,255,.9));animation:spin 14s linear infinite}
+.halo-2{width:118%;opacity:.4;animation-duration:24s;animation-direction:reverse}
+.hero-glow{position:absolute;left:50%;top:50%;width:110%;aspect-ratio:1;border-radius:50%;transform:translate(-50%,-50%);background:radial-gradient(circle at 42% 40%,rgba(18,231,255,.5),rgba(143,59,255,.45) 45%,rgba(227,43,234,.2) 64%,transparent 72%);filter:blur(24px)}
+.hero-logo{position:relative;z-index:2;width:88%;height:auto;margin:8% auto;filter:drop-shadow(0 16px 30px rgba(20,8,90,.6));animation:float 6s ease-in-out infinite}
 .gtag{
-  position:absolute;z-index:3;display:inline-flex;align-items:center;gap:8px;padding:6px 12px 6px 22px;border-radius:10px;
+  position:absolute;z-index:3;display:none;align-items:center;gap:8px;padding:6px 12px 6px 22px;border-radius:10px;
   background:radial-gradient(circle at 10px 50%,#0C0F45 3.2px,transparent 3.8px),#fff;
   color:var(--navy);font-size:12px;font-weight:800;white-space:nowrap;box-shadow:0 12px 26px rgba(5,4,40,.45);
   animation:float 7s ease-in-out infinite;
@@ -163,27 +167,29 @@ ul,ol{margin:0;padding:0;list-style:none}
 .gtag .ic{width:13px;height:13px;stroke-width:2.2}
 .t1{left:0;top:12%;rotate:-4deg}
 .t2{right:0;top:42%;rotate:3deg;animation-delay:-2.5s}
-.t3,.t4{display:none}
+.t3{rotate:2deg;animation-delay:-4s}   /* yorliqlar faqat kompyuterda — telefonda logo kichik */
 .spark{position:absolute;z-index:1;width:14px;height:14px;background:#fff;clip-path:polygon(50% 0,62% 38%,100% 50%,62% 62%,50% 100%,38% 62%,0 50%,38% 38%);animation:twinkle 3s ease-in-out infinite}
 .s1{left:16%;top:6%;background:#12E7FF}
 .s2{right:18%;top:2%;width:10px;height:10px;animation-delay:-1s}
 .s3{left:8%;bottom:20%;width:9px;height:9px;background:#E32BEA;animation-delay:-2s}
 .s4{right:10%;bottom:26%;background:#B98BFF;animation-delay:-.5s}
-@media (min-width:520px){
-  .hero-art{height:340px}
-  .t1{left:8%}.t2{right:8%}
-  .t3{display:inline-flex;left:6%;bottom:12%;rotate:2deg;animation-delay:-4s}
+@media (min-width:520px){.hero .btns .btn{flex:0 1 auto}}
+/* Planshet: logo yonida belgi + sarlavha + kirish matni; 1fr qatorlar logo balandroq bo'lsa
+   ortiqcha joyni guruhning tepasi va ostiga bo'lib, matnni logoga nisbatan o'rtada ushlaydi */
+@media (min-width:700px) and (max-width:979.98px){
+  .hero{grid-template-columns:minmax(0,1fr) clamp(220px,34vw,320px);grid-template-rows:1fr auto auto auto 1fr auto auto;grid-template-areas:". art" "badge art" "h1 art" "lead art" ". art" "btns btns" "pays pays";column-gap:28px}
+  .halo-2{width:112%}
 }
 @media (min-width:980px){
-  .hero{grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr);align-items:center;column-gap:20px;padding-block:40px 0;text-align:left}
-  .hero-tx{align-items:flex-start}
-  .hero .btns,.hero-pays{justify-content:flex-start}
-  .hero-art{order:0;height:560px;margin:0}
+  /* Kompyuter: butun matn chap ustunda, sahna o'ngda */
+  .hero{grid-template-columns:minmax(0,1.12fr) minmax(0,.88fr);grid-template-areas:"tx art";column-gap:20px;padding-block:40px 0}
+  .hero-tx{grid-area:tx;position:relative;z-index:2;display:flex;flex-direction:column;align-items:flex-start}
+  .hero-art{height:560px}
   .halo{width:430px}
   .halo-2{width:520px}
   .hero-glow{width:440px;filter:blur(36px)}
-  .hero-logo{height:78%;margin-top:9%}
-  .gtag{font-size:13.5px;padding:9px 16px 9px 26px;background:radial-gradient(circle at 12px 50%,#0C0F45 3.6px,transparent 4.2px),#fff}
+  .hero-logo{width:auto;height:78%;margin:9% auto 0;filter:drop-shadow(0 22px 40px rgba(20,8,90,.6))}
+  .gtag{display:inline-flex;font-size:13.5px;padding:9px 16px 9px 26px;background:radial-gradient(circle at 12px 50%,#0C0F45 3.6px,transparent 4.2px),#fff}
   .gtag i{width:28px;height:28px}
   .gtag .ic{width:15px;height:15px}
   .t1{left:-4%;top:15%}
@@ -201,7 +207,7 @@ ul,ol{margin:0;padding:0;list-style:none}
 .stat b{display:block;font-family:var(--disp);font-weight:800;font-size:clamp(1.55rem,4.8vw,2.2rem);line-height:1.15;letter-spacing:-.02em;background:var(--grad-text);-webkit-background-clip:text;background-clip:text;color:transparent}
 .stat span{display:block;font-size:14.5px;font-weight:700;margin-top:4px}
 .stat em{display:block;font-size:12.5px;font-style:normal;color:var(--mut);margin-top:3px;line-height:1.4}
-@media (min-width:760px){.stats{grid-template-columns:repeat(4,1fr);gap:16px}}
+@media (min-width:760px){.stats{grid-template-columns:repeat(4,1fr);gap:16px}.stat b{font-size:clamp(1.5rem,3.3vw,2.2rem)}}
 
 /* ── Kartochkalar: sovg'a qutilari ───────────────────────── */
 .grid{display:grid;gap:18px;grid-template-columns:1fr}

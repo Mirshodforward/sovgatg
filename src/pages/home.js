@@ -167,7 +167,7 @@ export default {
 <div class="hero wrap">
   <div class="hero-tx">
     <span class="hero-badge"><i class="dot"></i> <b>10 700+</b> foydalanuvchi ishonadi</span>
-    <h1>Telegram sovg'a yuborish — <span class="gt">gift, NFT va ijara</span> bir joyda</h1>
+    <h1>Telegram sovg'a yuborish&nbsp;— <span class="gt">gift, NFT va ijara</span> bir joyda</h1>
     <p class="hero-lead">
       Do'stingizga sovg'a yuboring, kolleksion <b>NFT gift</b> sotib oling yoki bir necha kunga
       <b>ijaraga</b> oling. Sovg'ani <b>aniq daqiqaga rejalashtirish</b> ham mumkin — hammasi
