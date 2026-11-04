@@ -1,0 +1,65 @@
+{
+  "slug": "notanish-stiker-va-sovga-xavfsizmi",
+  "date": "2026-11-04",
+  "reviewed": "2026-11-04",
+  "category": "xavfsizlik",
+  "title": "Telegram stiker xavfi: notanish odamdan kelgan stiker yoki sovg‘a xavflimi?",
+  "excerpt": "Hozircha tasdiqlangan holat bitta: iOS’dagi Telegram ilovasi stiker sababli yopilib qolgan. Telefon buzilishi haqida rasmiy ma’lumot yo‘q. Ilovani 12.9.4 yoki undan yangi versiyaga yangilang.",
+  "content": "## Notanish odamdan kelgan stiker yoki sovg‘ani ochish xavflimi?\n\nRasmiy manbada qayd etilgan holat bitta. Telegram’ning iOS ilovasi qandaydir stiker sababli ishdan chiqqan. Xatoliklar sahifasidagi moderator muammoga stiker sabab bo‘lganini va keyingi yangilanishda tuzatilishini yozgan ([bugs.telegram.org](https://bugs.telegram.org/c/65400/7)).\n\nSahifa maqomiga ko‘ra, xato oxirgi marta **12.9.3.34622** versiyasida takrorlangan. **12.9.4** versiyasida esa tuzatilgan. Telefon buzilishi yoki begona kod ishga tushishi haqida rasmiy bayonot topilmadi.\n\nAmaliy xulosa oddiy:\n\n- ilovangiz yangi bo‘lsa, notanish odamdan kelgan stiker yoki sovg‘a ochilganda ilovaning yopilishi bo‘yicha tuzatish allaqachon o‘rnatilgan;\n- ilova eski bo‘lsa, notanish chatni ochishdan oldin uni yangilang;\n- sovg‘a bilan birga kod, karta ma’lumoti yoki havola so‘ralsa, bu texnik xato emas, firibgarlik belgisi.\n\n## Animatsiyali stiker va sovg‘a ekranda qanday paydo bo‘ladi?\n\nTelegram API hujjatlariga ko‘ra, animatsiyali stikerlar Lottie vektor animatsiyalaridir. Ular .tgs formatida keladi va rlottie kutubxonasi orqali ijro etiladi ([Stickers and masks](https://core.telegram.org/api/stickers)).\n\nBunday stiker tayyor video sifatida kelmaydi. Telefonga harakat tavsifi keladi, rasmni esa ilovaning o‘zi chizadi.\n\nMisol: hamkasbingiz guruhga raqsga tushayotgan ayiqcha stikerini tashladi. Guruhni ochganingizda ilova faylni o‘qiydi va animatsiyani chiza boshlaydi. Chizish qismida xato bo‘lsa, ilova shu paytda yopilib qolishi mumkin. iOS’dagi holatda ham xato jurnallari rlottie bilan bog‘liq bo‘lib, SIGABRT bilan tugagan.\n\nTelegram sovg‘alari (gift) animatsiyasi ham aynan shu kutubxona orqali ishlaydimi — bu maqolada tasdiqlanmagan. Shuning uchun «sovg‘ani ochsangiz telefon buziladi» degan gaplarga asos topilmadi.\n\n## Qaysi vaziyatda nima qilish kerak?\n\nQuyidagi jadval odatiy vaziyatlar uchun tayyor yo‘l-yo‘riq beradi.\n\n| Vaziyat | Nima qilish kerak |\n|---|---|\n| Notanish chatdan animatsiyali stiker keldi | Avval Telegram versiyasini tekshiring. Eski bo‘lsa, yangilab, keyin chatni oching |\n| Kimdir anonim sovg‘a yubordi | Anonimlikning o‘zi xavf belgisi emas. Sovg‘a bilan kod yoki to‘lov so‘ralsa, javob bermang |\n| Chatni ochishingiz bilan ilova yopiladi | Ilovani yangilang. Yordam bermasa, xabarni Telegram Desktop orqali o‘chiring |\n| Do‘konda yangi versiya hali ko‘rinmaydi | Animatsiyalarni cheklang va notanish chatlarni vaqtincha ochmang |\n| «Sovg‘ani olish uchun kodni yuboring» deyishdi | Kodni bermang, yozuvchini bloklang va shikoyat qiling |\n\nBu mavzu bo‘yicha hali aniq bo‘lmagan narsalar ham bor. Ko‘rilgan rasmiy sahifalarda quyidagilar haqida ma’lumot topilmadi:\n\n- stiker orqali kod bajarilishi yoki xotira shikastlanishi;\n- fayllar Telegram serverida qanday tekshirilishi;\n- Telegram boshqa animatsiya kutubxonasiga o‘tayotgani;\n- yangilanish bosqichma-bosqich tarqatilayotgani;\n- bu xato uchun CVE raqami.\n\n«Topilmadi» degani «yolg‘on» degani emas. Bu faqat tekshirilgan rasmiy sahifalarda bunday tasdiq yo‘qligini bildiradi. Rasmiy hisobot iOS ilovasi haqida, Android va Desktop bo‘yicha alohida ma’lumot unda yo‘q.\n\n## Telegram’ni qanday yangilash va versiyani tekshirish mumkin?\n\n### iPhone\n\n1. App Store’ni oching.\n2. Yuqoridagi profil belgisiga bosing.\n3. Yangilanishlar ro‘yxatidan Telegram’ni toping.\n4. «Yangilash» tugmasini bosing.\n\n### Android\n\n1. Google Play’ni oching.\n2. Qidiruv orqali Telegram sahifasiga kiring.\n3. «Yangilash» tugmasi chiqsa, uni bosing.\n\n### Versiyani tekshirish\n\nTelegram sozlamalarini oching va ro‘yxatning eng pastiga tushing. Versiya raqami odatda shu yerda yoziladi. iPhone’da uni 12.9.4 bilan solishtiring: raqam shu yoki undan katta bo‘lsa, stiker xatosi tuzatilgan versiyadasiz.\n\n12.9.4 raqami iOS bo‘yicha hisobotga tegishli. Android’da versiyalar raqami boshqacha bo‘lishi mumkin, shuning uchun do‘kondagi eng so‘nggi versiyani o‘rnatish kifoya.\n\n> Ilovani faqat App Store, Google Play yoki [telegram.org](https://telegram.org) orqali o‘rnating. «Himoyalangan Telegram» yoki «maxsus versiya» deb tarqatilgan APK fayllarining o‘zi xavf manbai bo‘lishi mumkin.\n\n## Stikerlarning avtomatik animatsiyasini qanday cheklash mumkin?\n\nYangilanish hali kelmagan bo‘lsa yoki qo‘shimcha ehtiyot kerak bo‘lsa, animatsiyalarni cheklab qo‘yish mumkin.\n\n1. Telegram’da «Sozlamalar»ni oching.\n2. Quvvatni tejash yoki ma’lumotlar va xotira bilan bog‘liq bo‘limga kiring.\n3. Animatsiyali stikerlar, emoji va avtomatik ijro bo‘yicha tugmalarni o‘chiring.\n4. «Maxfiylik va xavfsizlik» bo‘limida kim sizga yoza olishi va sizni guruhga qo‘sha olishini tekshiring.\n\nBo‘lim nomlari va tugmalar joyi ilova versiyasi hamda qurilmaga qarab farq qiladi. Bu sozlama ko‘rib chiqilgan xato uchun rasmiy yechim sifatida tilga olinmagan. Uni qo‘shimcha ehtiyot chorasi deb qabul qiling: tuzatish aynan yangi versiyada chiqqan.\n\nCheklov ayniqsa quyidagi hollarda foydali:\n\n- bolaning telefoni, u notanish guruhlarga tez-tez qo‘shiladi;\n- yangilanishni kech oladigan eski qurilma;\n- notanishlardan ko‘p xabar oladigan sotuvchilar va kanal adminlari.\n\n## Telegram belgisini bosishingiz bilan yopilib qolsa-chi?\n\nXatoliklar sahifasida xuddi shunday holat tasvirlangan. Foydalanuvchi ilova belgisini bosgan, Telegram esa darhol yopilgan, bu har safar takrorlangan. Sizda ham shunday bo‘lsa, quyidagi tartibda harakat qiling.\n\n1. Ilovani do‘kondan yangilang, chunki xato 12.9.4 versiyasida tuzatilgan.\n2. Yangilash yordam bermasa, kompyuterda Telegram Desktop’ga kiring. Stiker turgan chatni toping va o‘sha xabarni o‘chiring. Bu yo‘lni sahifa moderatori vaqtinchalik yechim sifatida taklif qilgan.\n3. Muammo saqlansa, [Telegram yordam xizmatiga](https://telegram.org/support) yozing.\n\nMaslahat bergan «Admin Dog» Telegram xodimimi yoki ko‘ngilli moderatormi — tasdiqlanmagan. Shuning uchun uning tavsiyasini rasmiy qoida emas, sinab ko‘rish mumkin bo‘lgan yo‘l deb qabul qiling.\n\n> Ilovani o‘chirib, qayta o‘rnatishga shoshilmang. Qayta kirish uchun raqamingiz va kirish kodi kerak bo‘ladi. SIM qo‘lingizda bo‘lmasa, akkauntga kira olmay qolishingiz mumkin. Bu haqda [raqamni sotishdan oldin akkauntni saqlash](/blog/raqam-sotishdan-oldin-telegram-akkaunt/) maqolasida yozilgan.\n\n## Sovg‘a yuborganda yoki qabul qilganda nimalarga e’tibor berish kerak?\n\nAmalda ko‘proq zarar stikerning o‘zidan emas, «sovg‘a yutdingiz, kodni yuboring» kabi xabarlardan keladi. Shuning uchun quyidagilarni yodda tuting:\n\n- Telegram kirish kodi va bulutli parolni hech kimga bermang, o‘zini «xodim» yoki «bot» deb tanishtirgan bo‘lsa ham.\n- Sovg‘ani «olish» uchun karta ma’lumoti yoki begona saytga kirish talab qilinsa, bu ogohlantiruvchi belgi.\n- Ikki bosqichli tekshiruvni (bulutli parol) yoqib qo‘ying.\n- NFT sovg‘a uchun «avval hamyon ulang» deyishsa, shoshilmang. Hamyon qachon kerakligi [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida tushuntirilgan.\n- Fragment’ga faqat [fragment.com](https://fragment.com) orqali kiring. Akkaunt ulash tartibi [Fragment’ga hujjatsiz kirish](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/) maqolasida yozilgan.\n\n> SovgaTG faqat qabul qiluvchining @username’ini so‘raydi. Ro‘yxatdan o‘tish, parol yoki SMS kod talab qilinmaydi. Sizdan kod so‘ragan «xizmat» ishonchli emas.\n\nYaqiningizga sovg‘a qilmoqchi bo‘lsangiz, uni [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) orqali so‘mda yuborishingiz mumkin. To‘lov Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali qilinadi. Anonim rejim ham bor, sovg‘a taxminan 10 soniyada yetadi. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytariladi. Narxni botda tekshiring. Jarayon [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) sahifasida bosqichma-bosqich ko‘rsatilgan.\n\nSavol tug‘ilsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) orqali yozing.",
+  "faq": [
+    {
+      "q": "Anonim kelgan Telegram sovg‘asini ochsam telefonimga zarar yetadimi?",
+      "a": "Rasmiy manbalarda sovg‘a orqali telefonga zarar yetgani haqida ma’lumot yo‘q. Yuboruvchi shunchaki ismini yashirgan bo‘lishi mumkin. Telegram’ni yangi saqlang va sovg‘a bilan birga kelgan kod yoki havola so‘rovlariga e’tibor bermang."
+    },
+    {
+      "q": "Telefonimda 12.9.4 versiyasi hali ko‘rinmasa nima qilaman?",
+      "a": "Bir oz kutib, do‘konni qayta tekshiring va ilovani faqat rasmiy do‘kondan o‘rnating. Shu orada animatsiyalarni cheklab qo‘ying va notanish chatlarni ochmang. Android’da versiya raqami boshqacha bo‘lishi mumkin, u yerda eng so‘nggi versiya kifoya."
+    },
+    {
+      "q": "Bolamning telefonida stiker animatsiyasini o‘chirib qo‘ysa bo‘ladimi?",
+      "a": "Odatda sozlamalarda animatsiyali stikerlar va avtomatik ijroni cheklash mumkin, lekin bo‘lim nomi versiyaga qarab farq qiladi. Bu yangilanish o‘rnini bosmaydi, shuning uchun bolaning telefonida ham Telegram yangi versiyada bo‘lsin."
+    },
+    {
+      "q": "Kompyuterim yo‘q bo‘lsa, muammoli stikerni qanday o‘chiraman?",
+      "a": "Birinchi navbatda ilovani yangilang: tuzatish yangi versiyada chiqqan, Desktop esa faqat vaqtinchalik yo‘l edi. Ishonchli odamning kompyuteridan foydalansangiz, ishni tugatgach akkauntdan chiqing. Bu ham yordam bermasa, Telegram yordam xizmatiga yozing."
+    },
+    {
+      "q": "Notanish odamlar menga stiker yubora olmasligi uchun nima qilsam bo‘ladi?",
+      "a": "«Maxfiylik va xavfsizlik» bo‘limida kim sizga yoza olishi va sizni guruhga qo‘sha olishini cheklang. Mavjud variantlar ilova versiyasi va akkauntga qarab farq qilishi mumkin. Keraksiz notanish chatlarni ochmasdan o‘chirib yuborsangiz ham bo‘ladi."
+    },
+    {
+      "q": "Sovg‘a yuborish uchun bot mendan SMS kod so‘rasa nima qilishim kerak?",
+      "a": "Kodni hech kimga bermang. SovgaTG boti faqat qabul qiluvchining @username’ini so‘raydi, parol yoki kod talab qilmaydi. Shubhali holat bo‘lsa, @StarsPaymeeSupport’ga xabar bering."
+    }
+  ],
+  "keywords": [
+    "telegram stiker xavfi",
+    "telegram stiker xavflimi",
+    "notanish stiker telegram",
+    "telegram animatsiyali stiker o‘chirish",
+    "telegram yangilash",
+    "telegram ochilmayapti stiker",
+    "telegram sovg‘a xavfsizmi",
+    "опасный стикер telegram",
+    "уязвимость стикеров телеграм",
+    "telegram вылетает из-за стикера",
+    "как отключить анимацию стикеров telegram",
+    "rlottie telegram"
+  ],
+  "related": [
+    "raqam-sotishdan-oldin-telegram-akkaunt",
+    "fragment-verifikatsiyasiz-akkaunt-ulash",
+    "nft-sovga-uchun-ton-hamyon-kerakmi"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/api/stickers",
+      "title": "Stickers and masks"
+    },
+    {
+      "url": "https://bugs.telegram.org/c/65400/7",
+      "title": "Telegram crashes when opening Chats or sending messages"
+    }
+  ],
+  "intent": "Stiker zaifligi haqidagi ogohlantirishni ko‘rgan O‘zbekistondagi Telegram foydalanuvchisi «telegram stiker xavfi» deb qidiradi: notanish odamdan kelgan stiker yoki animatsiyali sovg‘a xavflimi, avtomatik animatsiyani qanday o‘chiradi va ilovani qanday yangilaydi."
+}
