@@ -1,0 +1,81 @@
+{
+  "slug": "telegram-beta-profil-balans-qr-kod-sovga",
+  "date": "2026-11-06",
+  "reviewed": "2026-11-06",
+  "category": "yangiliklar",
+  "title": "Telegram beta yangiliklari: balans, QR-kod va sovg‘a — nimasi rasmiy?",
+  "excerpt": "Profildagi balans tugmasi, shaxsiy QR-kod va sovg‘ani Fragment’siz hamyonga o‘tkazish hozircha rasmiy tasdiqlanmagan. Sovg‘a yuborish tartibi o‘zgarmagan: oluvchining @username’i yetarli.",
+  "content": "## Beta’dagi balans tugmasi, QR-kod va «hamyonga o‘tkazish» rasmiymi?\n\nYo‘q, uchala yangilik ham hozircha rasmiy tasdiqlanmagan. Ular Telegram’ning sinov versiyalarini kuzatadigan TBetaLeak kanali topilmalari sifatida tarqaldi, keyin @villageton kanalida qayta e’lon qilindi. Bu funksiyalar haqida Telegram’ning rasmiy manbasi topilmadi.\n\nSinov versiyasida biror narsa topilishi jamoa shu ustida ishlayotganini anglatishi mumkin. Lekin funksiya albatta chiqadi yoki aynan shu ko‘rinishda chiqadi degani emas. Chiqish muddati va shakli oldindan ma’lum emas.\n\nSovg‘a qiluvchi uchun bundan oddiy xulosa chiqadi: do‘stingizga bugun sovg‘a yuborish usuli bu xabarlarga bog‘liq emas.\n\n## Uch mish-mish va rasmiy holat: qaysi biri tasdiqlangan?\n\nJadvalda kanal postlaridagi gap va rasmiy manbalardagi holat yonma-yon berilgan.\n\n| Xabar | Kanallarda nima deyilgan | Rasmiy manbada nima bor | Sovg‘a qiluvchiga ta’siri |\n|---|---|---|---|\n| Profildagi balans tugmasi | Tugma foydalanuvchi kartasi va uning bezagini ko‘rsatadi | Rasmiy manba topilmadi | Tasdiqlanmagan, hozirgi yuborishga aloqasi yo‘q |\n| Shaxsiy QR-kodni sozlash | QR-kod ko‘rinishini o‘zgartirish mumkin bo‘ladi | Rasmiy manba topilmadi | Sovg‘a uchun baribir @username yetarli |\n| Fragment’siz hamyonga o‘tkazish | Sinov versiyasi kodida topilgan | Tasdiqlanmagan. Texnik hujjatda chiqarish Fragment’da import qilish havolasi orqali tasvirlangan | Bu sovg‘a egasiga tegishli, yuboruvchi uchun o‘zgarish yo‘q |\n| Sovg‘ani TON blokcheyni orqali o‘tkazish | Postlarda alohida aytilmagan | Rasmiy: kolleksion sovg‘ani boshqa egaga o‘tkazish yoki auksionga qo‘yish mumkin | Do‘stingiz olgan NFT sovg‘ani blokcheynga chiqara oladi |\n\nOxirgi qatordagi imkoniyat Telegram blogidagi [kolleksion sovg‘alar va blokcheyn haqidagi e’londa](https://telegram.org/blog/wear-gifts-blockchain-and-more) yozilgan. Jarayonning texnik tomoni [Telegram Gifts hujjatida](https://core.telegram.org/api/gifts) bayon qilingan.\n\n## Bu o‘zgarishlar do‘stga sovg‘a yuborishga ta’sir qiladimi?\n\nHozircha yo‘q. Oddiy gift, kolleksion NFT sovg‘a, Premium yoki Stars yuborish uchun oluvchining @username’i yetarli. Balans tugmasi ham, sozlangan QR-kod ham bu jarayonda qatnashmaydi.\n\nSovg‘a qilish uchun sizga TON hamyon ham kerak emas. Hamyon oluvchi sovg‘ani blokcheynga chiqarmoqchi bo‘lgandagina kerak bo‘ladi. Bu haqda batafsil: [NFT sovg‘a qilish uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\n«Fragment’siz hamyonga o‘tkazish» kelajakda chiqsa, mantiqan bu sovg‘a egasining imkoniyati bo‘ladi, yuboruvchining emas. Lekin bu faqat taxmin: funksiya qanday ishlashi rasmiy tasvirlanmagan.\n\n### Misol: bayram yaqin, yangilikni kutish kerakmi?\n\nDeylik, do‘stingizning tug‘ilgan kuni bir haftadan keyin va siz unga NFT sovg‘a qilmoqchisiz. Kanalda «tez orada sovg‘ani to‘g‘ridan-to‘g‘ri hamyonga chiqarish mumkin bo‘ladi» degan postni o‘qidingiz. Bunday holatda kutishning foydasi yo‘q.\n\n- Sovg‘a baribir do‘stingizning Telegram profiliga keladi.\n- Uni blokcheynga chiqarish-chiqarmaslikni keyin oluvchining o‘zi hal qiladi.\n- Yangi funksiya chiqsa ham, u allaqachon olingan sovg‘aga ham, keyin yuboriladiganiga ham yuboruvchi tomonidan hech narsa talab qilmaydi.\n\n## Hozir sovg‘ani qanday yuborish mumkin?\n\nSovgaTG orqali sovg‘a so‘mda to‘lanadi va oluvchining @username’iga yuboriladi. Tartib quyidagicha:\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)’ni oching.\n2. Sovg‘a turini tanlang: oddiy gift, kolleksion NFT, Premium (3, 6 yoki 12 oy) yoki Stars.\n3. Oluvchining @username’ini kiriting. Ismingiz ko‘rinmasligini istasangiz, anonim rejimni tanlang.\n4. Narxni botda tekshiring: u sovg‘a qiymati yoki tarif narxi va xizmat haqidan iborat.\n5. So‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi.\n\nOddiy gift, Premium va Stars taxminan 10 soniyada yetadi. Sovg‘ani o‘z Stars balansingizdan yuborsangiz, bot buni taxminan 1 daqiqada bajaradi.\n\nRo‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi. Xalqaro karta, dollar hisobi yoki VPN kerak emas. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi.\n\nBatafsil: [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) va [Telegram Premium sovg‘a qilish](/telegram-premium-sovga/).\n\n## Do‘stingiz NFT sovg‘ani hamyonga chiqarmoqchi bo‘lsa, hozir nima rasmiy?\n\nNFT sovg‘a qilganingizdan keyin uni blokcheynga chiqarish — oluvchining qarori. Bu yo‘l nimaga tayanishini bilsangiz, do‘stingiz so‘raganda aniq javob bera olasiz.\n\n- **Qayerdan boshlanadi.** Jarayon ilovadagi profil va sovg‘alar bo‘limidan, kerakli sovg‘ani tanlab boshlanadi. Tugma nomi ilova versiyasiga qarab farq qilishi mumkin.\n- **2FA va Fragment.** Texnik hujjatga ko‘ra, chiqarish uchun egasining ikki bosqichli tekshiruv (2FA) paroli kerak. Jarayon oxirida NFT’ni Fragment’da import qilish uchun havola beriladi.\n- **Vaqtincha yopiq sovg‘alar.** Ba’zi sovg‘alarni hozircha blokcheynga chiqarib bo‘lmaydi. Egasi ularni [belgilangan vaqtdan keyin](https://core.telegram.org/constructor/savedStarGift) chiqara oladi. Oluvchi chiqarish darrov ochilmasa, xavotir olmasin.\n- **Egalik.** Blokcheyndagi sovg‘a ustidan nazorat egasi akkauntiga kira olmay qolsa yoki uni o‘chirsa ham o‘zida qoladi. Sovg‘a profilda ko‘rsatilsa ham, egalik TON hamyonda turadi.\n- **Tashqi xizmatlar.** Hamyondagi sovg‘ani tashqi xizmatlarga, masalan, auksion saytlariga ulash mumkin.\n- **Upgrade narxi.** Giftni kolleksionga aylantirish [oz miqdordagi Stars](https://telegram.org/blog/collectible-gifts-and-more) turadi. Bu Stars blokcheyn to‘lovlarini qoplashga ketadi. Aniq miqdorni ilovada ko‘ring.\n\nFragment’ga qanday kirilishi haqida: [Fragment’ga hujjatsiz ulash](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/).\n\n## Beta yangiliklari ortidan qanday aldovlar chiqishi mumkin?\n\nYangi funksiya haqida mish-mish tarqalganda, uni «yoqib berish»ni taklif qiladiganlar ham chiqishi mumkin. Bunday takliflarni oldindan tanib oling.\n\n> «Yangi balans tugmasini yoqib beramiz», «QR-kodni sozlab beramiz», «sovg‘ani Fragment’siz hamyonga chiqarib beramiz» degan xabar va havolalarga ishonmang. Bu funksiyalar rasmiy e’lon qilinmagan.\n\n> Hech kimga SMS kod, 2FA paroli yoki hamyonning maxfiy so‘zlarini bermang. 2FA parolini faqat o‘zingiz, Telegram ilovasining o‘zida kiritasiz.\n\n- Beta funksiyasi uchun oldindan pul so‘rashsa — xavf belgisi.\n- Sovg‘ani «tekshirish» yoki «ko‘chirish» uchun avval ularga o‘tkazishni so‘rashsa — xavf belgisi.\n- «Sizga sovg‘a bor, olish uchun kiring» degan notanish havola — xavf belgisi.\n\nSoxta havolalar va ularning akkauntga ta’siri haqida: [Telegram’da soxta sovg‘a havolasi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/).\n\n## NFT sovg‘ani hozir qayerdan olish va qachon yetkazish mumkin?\n\nNFT sovg‘ani Telegram ichki bozori, tashqi marketpleys yoki vositachi xizmat orqali olish mumkin. Ularning farqi: [NFT sovg‘a marketpleysi: ichki bozor, Portals yoki vositachi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/).\n\nSovgaTG’da kolleksion NFT gift bozor narxi va xizmat haqi bilan sotib olinadi: [NFT gift sotib olish](/nft-gift-sotib-olish/). Sovg‘a bir martalik bayram yoki tadbir uchun kerak bo‘lsa, uni 1 kundan boshlab ijaraga olish mumkin: [NFT sovg‘a ijarasi](/nft-sovga-ijara/).\n\nSana muhim bo‘lsa, rejalashtirilgan sovg‘adan foydalaning. Bugun to‘laysiz, sovg‘a belgilangan kun va daqiqada o‘zi yetkaziladi. Narxga muddat ustamasi (0–12%) qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin: [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/).\n\nTug‘ilgan kun uchun tayyor g‘oyalar: [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/).\n\n## Telegram yangiligi rasmiy ekanini qanday tekshirasiz?\n\nKanalda yangi funksiya haqida o‘qisangiz, sovg‘a rejangizni unga bog‘lashdan oldin uchta joyni tekshiring:\n\n- **Telegram blogi** — [Telegram’ning rasmiy blogida](https://telegram.org/blog) e’lon bormi.\n- **Texnik hujjat** — [core.telegram.org](https://core.telegram.org/api/gifts) sahifalarida funksiya tasvirlanganmi.\n- **Fragment** — NFT va hamyon masalasida [Fragment saytida](https://fragment.com) ma’lumot bormi.\n\nBeta kuzatuvchi kanallar rasmiy manba emas. Ularning postini «sinov versiyasida topilgan» deb qabul qiling, «chiqdi» deb emas.\n\nIlovangizni yangilang va funksiya haqiqatan paydo bo‘lganini o‘zingiz tekshiring. SovgaTG yangiliklari kanalda e’lon qilinadi: [@StarsPaymee](https://t.me/StarsPaymee).",
+  "faq": [
+    {
+      "q": "Balans tugmasi barcha foydalanuvchilarga qachon chiqadi?",
+      "a": "Buning rasmiy sanasi yo‘q: tugma faqat beta versiyani kuzatuvchi kanallarda tilga olingan. Telegram blogida e’lon chiqmaguncha muddat haqidagi har qanday gap taxmin bo‘lib qoladi."
+    },
+    {
+      "q": "Do‘stimning QR-kodi orqali unga sovg‘a yuborsa bo‘ladimi?",
+      "a": "QR-kodni sozlash funksiyasi rasmiy e’lon qilinmagan, uning sovg‘aga aloqasi ham tasdiqlanmagan. Sovg‘a yuborish uchun oluvchining @username’ini bilsangiz kifoya."
+    },
+    {
+      "q": "Sovg‘ani Fragment’siz hamyonga chiqarish haqidagi xabarga ishonsa bo‘ladimi?",
+      "a": "Hozircha yo‘q: bu funksiya faqat sinov versiyasi kodida topilgani aytilgan, rasmiy tasdiq yo‘q. Rasmiy texnik hujjatda chiqarish Fragment’dagi import havolasi bilan bog‘langan."
+    },
+    {
+      "q": "Men sovg‘a qilgan NFT’ni do‘stim keyin blokcheynga chiqara oladimi?",
+      "a": "Ha, kolleksion sovg‘ani TON blokcheyni orqali o‘tkazish rasmiy imkoniyat, buning uchun egasining 2FA paroli talab qilinadi. Ba’zi sovg‘alarda bu imkoniyat ma’lum vaqtdan keyin ochiladi."
+    },
+    {
+      "q": "Telegram beta versiyasi bo‘lmasa, sovg‘a yubora olamanmi?",
+      "a": "Ha, sovg‘a yuborish beta versiyaga bog‘liq emas. SovgaTG botida oluvchining @username’ini kiritasiz va Uzcard, Humo, Click, Payme yoki Paynet orqali so‘mda to‘laysiz."
+    },
+    {
+      "q": "Yangi beta funksiyasini «yoqib berish»ni taklif qilishsa, nima qilay?",
+      "a": "Rad eting: begona odam bunday funksiyani yoqib bera olishi haqida rasmiy ma’lumot yo‘q. Kod, parol yoki oldindan to‘lov so‘rashsa, suhbatni to‘xtating va akkaunt ustidan shikoyat qiling."
+    }
+  ],
+  "keywords": [
+    "telegram beta yangiliklari sovga",
+    "telegram profil balans tugmasi",
+    "telegram shaxsiy qr kod sozlash",
+    "telegram sovgani hamyonga otkazish fragmentsiz",
+    "telegram yangi funksiya rasmiymi",
+    "telegram nft sovga yangiliklari",
+    "telegram beta новости подарки",
+    "кнопка баланса в профиле telegram",
+    "персональный qr-код telegram",
+    "перевод подарков в кошелек без fragment",
+    "telegram beta подарки утечка"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "fragment-verifikatsiyasiz-akkaunt-ulash",
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "soxta-sovga-havolasi-akkaunt-cheklovi"
+  ],
+  "sources": [
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    },
+    {
+      "url": "https://core.telegram.org/constructor/savedStarGift",
+      "title": "savedStarGift"
+    },
+    {
+      "url": "https://core.telegram.org/type/payments.StarGiftWithdrawalUrl",
+      "title": "payments.StarGiftWithdrawalUrl"
+    },
+    {
+      "url": "https://telegram.org/blog/collectible-gifts-and-more",
+      "title": "Collectible Gifts, Message Search Filters and More"
+    },
+    {
+      "url": "https://translations.telegram.org/en/macos/unsorted/Gift.Withdraw.Text",
+      "title": "Translations"
+    }
+  ],
+  "intent": "Telegram’da sovg‘a yoki NFT gift qilmoqchi bo‘lgan foydalanuvchi «telegram beta yangiliklari sovga» deb qidiradi va profildagi balans tugmasi, shaxsiy QR-kod hamda sovg‘ani hamyonga o‘tkazish haqidagi mish-mishlardan qaysi biri rasmiy ekanini va bu sovg‘a yuborishga ta’sir qilishini bilmoqchi."
+}
