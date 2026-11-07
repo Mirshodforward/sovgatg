@@ -1,0 +1,89 @@
+{
+  "slug": "888-akkaunt-nft-sovgalarni-himoya-qilish",
+  "date": "2026-11-07",
+  "reviewed": "2026-11-07",
+  "category": "xavfsizlik",
+  "title": "+888 raqamli akkauntda NFT sovg‘a va Stars’ni qanday himoyalash mumkin?",
+  "excerpt": "+888 akkauntdagi NFT sovg‘alar va Stars’ni bulutli parol va Fragment’ga ulangan hamyon kalitlari himoya qiladi. Qimmat sovg‘ani blokcheynga ko‘chirish qo‘shimcha himoya beradi.",
+  "content": "## +888 akkauntdagi sovg‘alarga xavf qayerdan keladi?\n\n+888 akkauntdagi NFT sovg‘alar va Stars’ni ikki narsa himoya qiladi. Birinchisi — yoqilgan bulutli parol (ikki bosqichli tekshiruv). Ikkinchisi — Fragment’ga ulangan hamyonning kalitlari. Ikkalasi faqat sizda bo‘lsa, begona odamga raqamni bilishning o‘zi yetmaydi.\n\n+888 raqamlar kolleksion virtual raqamlardir. Telegram ularni 2022-yil oxirida TON blokcheynida cheklangan miqdorda chiqargan ([Fragment](https://fragment.com/about)). Jami 136 566 ta raqam o‘sha yilning dekabrida sotilib bo‘lgan. Endi ularni faqat mavjud egalaridan sotib olish mumkin ([Fragment](https://fragment.com/numbers)).\n\nTelegram kanallarida +888 egalariga ommaviy kirish urinishlari bo‘layotgani haqida gaplar tarqaldi. Telegram yoki Fragment bu haqda rasmiy bayonot bermagan. Lekin himoyani yoqish uchun tasdiq kutish shart emas.\n\nNFT egasi uchun xavf aniq. Kolleksion sovg‘alarni boshqa foydalanuvchiga o‘tkazish va NFT marketpleyslarda auksionga qo‘yish mumkin ([Telegram](https://telegram.org/blog/collectible-gifts-and-more)). Akkauntga kirib olgan begona odam ham xuddi shu amallarni bajara oladi. Oddiy sovg‘alar va Stars balansi ham o‘sha akkauntda turadi.\n\n## +888 raqamga kirish kodi qayerga keladi va bu nimani o‘zgartiradi?\n\n+888 egalari SIM kartasiz ro‘yxatdan o‘tadi. Kirish kodini ular SMS orqali emas, to‘g‘ridan-to‘g‘ri Fragment’da oladi ([Fragment](https://fragment.com/about)). Telegram ham akkauntni SIM kartasiz ochib, Fragment’dagi anonim raqam bilan kirish mumkinligini e’lon qilgan ([Telegram blogi](https://telegram.org/blog/ultimate-privacy-topics-2-0)).\n\nKodni ko‘rish uchun hamyonni Fragment’ga ulab, kod sahifasiga o‘tasiz. NFT egasi uchun bundan uchta xulosa chiqadi:\n\n- raqam turgan hamyonni boshqargan odam kirish kodini ham ko‘ra oladi;\n- hamyonning tiklash iborasi (seed phrase) amalda akkaunt kalitlaridan biriga aylanadi;\n- soxta «Fragment» sahifasiga tiklash iborasini kiritsangiz, hamyon ham, kodlar ham begona qo‘liga o‘tadi.\n\nYana bir farq bor: kolleksion raqam faqat Telegram’da ishlaydi. U bilan qo‘ng‘iroq qilib, SMS yuborib yoki boshqa xizmatlarga ro‘yxatdan o‘tib bo‘lmaydi ([Fragment](https://fragment.com/about)). Shuning uchun aloqa operatori orqali raqamni qaytarish yo‘li yo‘q. Hammasi hamyon va parolga bog‘liq.\n\nFragment’ga ulanish tartibi alohida maqolada yozilgan: [Fragment’ga hujjatsiz qanday kiriladi](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/).\n\n## Oddiy raqam va +888 raqam himoyasi qanday farq qiladi?\n\n| Jihat | Oddiy raqam | +888 raqam |\n|---|---|---|\n| Kirish kodi qayerga keladi | SMS orqali | Fragment’da |\n| Kodni kim ko‘ra oladi | SIM karta egasi | Fragment’ga ulangan hamyon egasi |\n| Qayerda ishlaydi | Qo‘ng‘iroq, SMS va boshqa xizmatlarda | Faqat Telegram’da |\n| Nimaga ehtiyot bo‘lish kerak | SIM karta va SMS kod | Tiklash iborasi va soxta Fragment sahifasi |\n| Oxirgi to‘siq | Bulutli parol | Bulutli parol |\n\nKod qayerdan kelishi har xil, lekin oxirgi to‘siq bir xil. Ikki bosqichli tekshiruv yoqilgan bo‘lsa, telefon raqamining o‘zi akkauntga kirish uchun yetarli bo‘lmaydi ([Telegram FAQ](https://telegram.org/faq)). Kod qo‘lga tushgan taqdirda ham begona odam parolga duch keladi.\n\n## Bulutli parolni qanday yoqish kerak?\n\n1. Telegram’da **Sozlamalar > Maxfiylik va xavfsizlik > Ikki bosqichli tekshiruv** bo‘limini oching.\n2. Boshqa hech qayerda ishlatilmagan uzun parol o‘ylab toping. Ism, tug‘ilgan sana yoki raqamning o‘zidan foydalanmang.\n3. Parolga maslahat (hint) yozsangiz, u parolni ochib qo‘ymasin. Faqat o‘zingiz tushunadigan ishora yetadi.\n4. Tiklash uchun email manzilini qo‘shing.\n5. Tiklash email’ini ham kuchli parol va iloji bo‘lsa ikki bosqichli tekshiruv bilan himoyalang ([Telegram FAQ](https://telegram.org/faq)).\n6. Parolni xavfsiz joyda saqlang: parol menejerida yoki qog‘ozda, uyda.\n\nParol akkauntga har safar yangi qurilmadan kirilganda so‘raladi ([Telegram blogi](https://telegram.org/blog/sessions-and-2-step-verification)). Shuning uchun Fragment kodini kimdir qo‘lga kiritsa ham, parolsiz ichkariga o‘ta olmaydi.\n\n> Parolni unutsangiz, boshqa qurilmalardan xabarlaringizga kira olmaysiz. Tiklash email’i ishlayotganini oldindan tekshirib qo‘ying.\n\n## NFT egasini qanday xabarlar bilan aldashga urinishadi?\n\nParol yoqilgan akkauntni tashqaridan ochish qiyin. Shuning uchun firibgar egasining o‘ziga murojaat qiladi. NFT sovg‘asi profilda ko‘rinib turgan odam ko‘pincha quyidagi xabarlarni oladi:\n\n| Xabar | Nimani so‘raydi | Nima qilish kerak |\n|---|---|---|\n| «Sovg‘angizni sotib olaman, tasdiqlash uchun kod yuboring» | Kirish kodi yoki uning skrinshoti | Hech narsa yubormang, suhbatni to‘xtating |\n| «Fragment’dan xabar: hamyoningizni qayta ulang» | Tiklash iborasi yoki havola orqali kirish | Faqat [Fragment](https://fragment.com) saytiga o‘zingiz kiring |\n| «Sizga sovg‘a keldi, olish uchun kiring» | Raqam, kod yoki parol | Havolani ochmang, sovg‘ani profilingizdan tekshiring |\n| «Moderator: akkauntingiz bloklanadi» | Bulutli parol | Parolni hech kimga aytmang |\n\nUmumiy qoida oddiy: kod, parol va tiklash iborasi faqat sizda qoladi. Buni so‘ragan har qanday xabar — tuzoq, u o‘zini kim deb tanishtirmasin.\n\nKutilmagan kod so‘rovini ko‘rsangiz, sozlamalarga kirib, ikki bosqichli tekshiruv rostdan yoqilganini tekshiring. Soxta sovg‘a havolalari qanday ishlashi haqida: [soxta sovg‘a havolasi va akkaunt cheklovi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/).\n\n## Eng qimmat NFT sovg‘ani blokcheynga ko‘chirish kerakmi?\n\nBu majburiy emas, lekin qimmat kolleksion sovg‘a uchun qo‘shimcha himoya qatlami bo‘ladi. Telegram’ga ko‘ra, sovg‘ani blokcheynga ko‘chirish egasiga doimiy nazorat beradi. Bu nazorat u akkauntga kirishni yo‘qotsa yoki akkauntni o‘chirsa ham saqlanadi ([Telegram blogi](https://telegram.org/blog/wear-gifts-blockchain-and-more)). Texnik hujjatga ko‘ra, bunday sovg‘aga egalik TON hamyonda qoladi ([Telegram API](https://core.telegram.org/api/gifts)).\n\nKo‘chirish yo‘li: **My Profile > Gifts** bo‘limida kerakli sovg‘ani tanlang, keyin **Transfer > Send via Blockchain** tugmasini bosing. Ba’zan sovg‘ani darhol o‘tkazib bo‘lmaydi va biroz kutishga to‘g‘ri keladi ([Telegram API](https://core.telegram.org/method/payments.transferStarGift)). Ko‘chirilgan sovg‘ani TON eksplorerda qanday ko‘rish haqida: [NFT sovg‘ani eksplorerda tekshirish](/blog/nft-sovga-gram-org-eksplorerda-tekshirish/).\n\nBu yo‘lning kamchiliklari ham bor:\n\n- xavf hamyonga ko‘chadi: tiklash iborasi kimga o‘tsa, sovg‘a ham o‘shaniki bo‘ladi;\n- shu hamyonda +888 raqam ham tursa, ikki qimmatli narsa bitta kalitga bog‘lanib qoladi;\n- sovg‘alar uchun alohida hamyon ochish — shaxsiy tavsiya, rasmiy talab emas.\n\nHamyon qachon kerak, qachon kerak emasligi haqida: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\n## +888 egasi do‘stiga sovg‘a yuborganda nimaga e’tibor beradi?\n\nAkkauntni himoyalagach ham sovg‘a qilishda davom etishingiz mumkin. Bitta qoidani yodda tuting: kimgadir sovg‘a yuborish uchun o‘z kirish kodingiz yoki parolingiz hech qachon kerak emas.\n\n- SovgaTG’da faqat oluvchining @username’i so‘raladi. Ro‘yxatdan o‘tish, parol va SMS kod kerak emas. Kimdir «sovg‘a yuborish uchun» +888 kodingizni so‘rasa, bu firibgarlik belgisi.\n- To‘lov so‘mda qilinadi: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta, dollar hisobi va VPN kerak emas.\n- [Oddiy sovg‘a](/telegram-sovga-yuborish/), anonim sovg‘a, [Premium](/telegram-premium-sovga/) va Stars taxminan 10 soniyada yetadi. Narxni [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botida tekshiring.\n- Kolleksion giftni [so‘mda sotib olish](/nft-gift-sotib-olish/) mumkin: narx bozor narxi va xizmat haqidan iborat. Sovg‘a qisqa muddatga kerak bo‘lsa, [NFT sovg‘a ijarasi](/nft-sovga-ijara/) 1 kundan boshlanadi.\n- Do‘stingizning tug‘ilgan kuni oldindan ma’lum bo‘lsa, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) belgilangan sana va daqiqada o‘zi yetadi. Narxga muddat ustamasi qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin.\n- Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi. Savollar uchun [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) bor. SovgaTG — mustaqil xizmat.\n\nNFT sovg‘ani qayerdan olish yo‘llari taqqoslangan maqola: [ichki bozor, marketpleys yoki vositachi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/).\n\n## +888 raqamni sotishdan oldin sovg‘alarni qanday saqlab qolish kerak?\n\nKolleksion raqamlar faqat mavjud egalari o‘rtasida sotiladi. Kirish kodi raqam turgan hamyon egasiga Fragment’da keladi. Raqam boshqa hamyonga o‘tgach, kodni yangi ega ko‘radi. Akkaunt hali shu raqamga bog‘langan bo‘lsa, unga faqat bulutli parol to‘sqinlik qiladi. Sovg‘alarni bitta to‘siq ortida qoldirish xatar.\n\n1. Akkauntni avval boshqa raqamga o‘tkazing.\n2. Qimmat NFT sovg‘alarni o‘zingizning boshqa akkauntingizga yoki blokcheyndagi hamyoningizga o‘tkazing.\n3. Yangi raqamdagi akkauntda bulutli parol va tiklash email’i yoqilganini tekshiring.\n4. Shundan keyingina raqamni sotuvga qo‘ying.\n\nStars balansini alohida himoyalash bo‘yicha rasmiy tavsiya topilmadi. Balans akkaunt bilan birga turadi, shuning uchun akkaunt himoyalangan bo‘lsa, u ham himoyalangan. Batafsil tartib: [raqamni sotishdan oldin akkaunt, sovg‘a va Stars’ni saqlash](/blog/raqam-sotishdan-oldin-telegram-akkaunt/).",
+  "faq": [
+    {
+      "q": "+888 raqam va NFT sovg‘alar uchun bitta hamyon ishlatsam bo‘ladimi?",
+      "a": "Texnik jihatdan bo‘ladi. Lekin unda raqam ham, blokcheyndagi sovg‘alar ham bitta tiklash iborasiga bog‘lanadi. Ko‘pchilik qimmat sovg‘alar uchun alohida hamyon ochadi, ammo bu shaxsiy tanlov, talab emas."
+    },
+    {
+      "q": "Bulutli parolni unutib qo‘ysam, NFT sovg‘alarim nima bo‘ladi?",
+      "a": "Yangi qurilmadan akkauntga kira olmaysiz, demak u yerdagi sovg‘alarni ham boshqara olmaysiz. Shuning uchun tiklash email’ini oldindan qo‘shib, uni alohida kuchli parol bilan himoyalang."
+    },
+    {
+      "q": "Blokcheynga chiqarilgan sovg‘a akkauntim yo‘qolsa ham meniki bo‘lib qoladimi?",
+      "a": "Telegram’ga ko‘ra, ha: egalik TON hamyonda turadi va nazorat akkauntsiz ham saqlanadi. Endi asosiy vazifa — hamyonning tiklash iborasini hech kimga bermaslik."
+    },
+    {
+      "q": "NFT sovg‘amni sotib olmoqchi bo‘lgan odam «tasdiqlash uchun» kod so‘rayapti. Berish kerakmi?",
+      "a": "Yo‘q. Sotuv uchun kirish kodi, parol yoki tiklash iborasi hech qachon kerak emas. Bunday so‘rov aldov belgisi, suhbatni to‘xtating."
+    },
+    {
+      "q": "Stars balansimni akkauntdan alohida qulflab qo‘ysa bo‘ladimi?",
+      "a": "Stars uchun alohida qulf bo‘yicha rasmiy tavsiya topilmadi. Balans akkaunt bilan birga himoyalanadi, shuning uchun bulutli parol va hamyon xavfsizligi uni ham qamraydi."
+    },
+    {
+      "q": "+888 akkauntdan do‘stga NFT sovg‘ani hamyonsiz yuborsa bo‘ladimi?",
+      "a": "Ha. @StarsPaymee_bot orqali kolleksion giftni so‘mda olib, do‘stingizning @username’iga yuborasiz. TON hamyon faqat sovg‘ani blokcheynga chiqarmoqchi bo‘lsangiz kerak bo‘ladi."
+    }
+  ],
+  "keywords": [
+    "+888 akkaunt NFT sovg'alar himoyasi",
+    "+888 raqam xavfsizligi",
+    "+888 akkauntni himoya qilish",
+    "Telegram bulutli parol yoqish",
+    "anonim raqam Telegram NFT sovg'a",
+    "Fragment kirish kodi +888",
+    "как защитить аккаунт +888",
+    "анонимный номер +888 защита подарков",
+    "облачный пароль Telegram NFT подарки",
+    "запросы авторизации +888 Telegram",
+    "брутфорс анонимных номеров Telegram"
+  ],
+  "related": [
+    "fragment-verifikatsiyasiz-akkaunt-ulash",
+    "soxta-sovga-havolasi-akkaunt-cheklovi",
+    "raqam-sotishdan-oldin-telegram-akkaunt",
+    "nft-sovga-uchun-ton-hamyon-kerakmi"
+  ],
+  "sources": [
+    {
+      "url": "https://fragment.com/about",
+      "title": "How does Fragment work?"
+    },
+    {
+      "url": "https://fragment.com/numbers",
+      "title": "Buy and Sell Collectible Numbers"
+    },
+    {
+      "url": "https://telegram.org/blog/ultimate-privacy-topics-2-0",
+      "title": "No-SIM Signup, Auto-Delete All Chats, Topics 2.0 and More"
+    },
+    {
+      "url": "https://telegram.org/faq",
+      "title": "Telegram FAQ"
+    },
+    {
+      "url": "https://telegram.org/blog/sessions-and-2-step-verification",
+      "title": "Active Sessions and Two-Step Verification"
+    },
+    {
+      "url": "https://core.telegram.org/api/auth",
+      "title": "User Authorization"
+    },
+    {
+      "url": "https://telegram.org/blog/collectible-gifts-and-more",
+      "title": "Collectible Gifts, Message Search Filters and More"
+    },
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More"
+    }
+  ],
+  "intent": "+888 anonim raqamli Telegram akkauntida NFT sovg'alar va Stars saqlaydigan foydalanuvchi ommaviy kirish urinishlari haqida eshitib, «+888 akkauntdagi NFT sovg'alarni qanday himoya qilish» deb qidiradi."
+}
