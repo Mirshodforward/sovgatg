@@ -1,0 +1,65 @@
+{
+  "slug": "nft-sovga-gram-org-eksplorerda-tekshirish",
+  "date": "2026-11-07",
+  "reviewed": "2026-11-07",
+  "category": "nft",
+  "title": "Do‘stga olingan NFT sovg‘a haqiqiymi: gram.org’da tekshirsa bo‘ladimi?",
+  "excerpt": "Blokcheynga chiqarilgan NFT sovg‘ani TON eksplorerning Collectibles bo‘limida ko‘rish mumkin, lekin gram.org TON yoki Telegram’ga tegishli ekani rasmiy tasdiqlanmagan.",
+  "content": "## gram.org’da do‘stingizga olgan sovg‘ani tekshirsa bo‘ladimi?\n\ngram.org TON yoki Telegram’ga tegishli ekanini tasdiqlovchi rasmiy manba topilmadi. Shuning uchun bu saytni ishonchli tekshiruv vositasi deb hisoblamang.\n\nTON’ning rasmiy hujjatlarida boshqa nom bor. [TON blockchain explorers](https://docs.ton.org/onboarding/explorers) sahifasida Actonscan smart-kontrakt ishlab chiquvchilari uchun rasmiy ochiq kodli eksplorer deb ataladi. gram.org u yerda uchramaydi. Oddiy foydalanuvchilar uchun yagona rasmiy eksplorer bor-yo‘qligi esa aniq emas.\n\nAmaliy xulosa: blokcheyndagi NFT sovg‘ani eksplorerda ko‘rsa bo‘ladi. Qaysi saytga ishonishni domen nomi emas, sahifani qayerdan ochganingiz hal qiladi.\n\n> Eksplorer sahifasini qidiruv tizimidan yoki notanish odam yuborgan havoladan emas, hamyon ilovasidagi tranzaksiya havolasidan oching.\n\nSovg‘ani hamyonsiz, faqat @username orqali olsangiz, eksplorer umuman kerak bo‘lmasligi mumkin. Batafsil: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\n## Eksplorer sovg‘a haqida nimani aytadi, nimani aytmaydi?\n\nRasmiy hujjatlarga ko‘ra, TON eksplorerlari quyidagilarni ko‘rsatadi:\n\n- hisob balanslari;\n- Gram va token o‘tkazmalari;\n- kontrakt kodi va xotirasi;\n- tranzaksiya va xabarlar.\n\nBa’zilari bloklar, validator faolligi, gaz sarfi va komissiyalar kabi tarmoq ko‘rsatkichlarini ham chiqaradi. Sovg‘a qiluvchiga bular deyarli kerak bo‘lmaydi. Sizga kerakli joy — manzil sahifasidagi **Collectibles** bo‘limi, NFT’lar o‘sha yerda turadi.\n\n| Sizni nima qiziqtiradi | Eksplorerda qayerga qaraysiz | Eksplorer javob bera olmaydigan narsa |\n|---|---|---|\n| Sovg‘a do‘stimning hamyoniga tushdimi? | Qabul qiluvchi manzili: History va Collectibles | Do‘stingiz sovg‘ani profilida ko‘rsatganmi |\n| Sotuvchiga to‘lovim o‘tdimi? | Tranzaksiya sahifasi, History | Sotuvchi va’dasini bajaradimi |\n| To‘lov qaysi tokenda bo‘ldi? | Tokens bo‘limi, jetton master manzili | Narx adolatlimi |\n| Telegram ichidagi sovg‘a haqiqiymi? | Bu maqolada tasdiqlanmagan | Buni Telegram ilovasida ko‘rasiz |\n| Bloklar, gaz, validatorlar | Tarmoq statistikasi | Sovg‘a haqida deyarli hech narsa |\n\n## Qaysi holatda eksplorer kerak, qaysi holatda kerak emas?\n\nBu sovg‘ani qaysi yo‘l bilan olganingizga bog‘liq. Sovg‘a Telegram ichida qolsa, tekshiruv ham Telegram ichida bo‘ladi. Sovg‘a TON hamyon orqali o‘tsa, eksplorer foydali bo‘ladi.\n\n| Vaziyat | Nima tekshiriladi | Kim tekshiradi |\n|---|---|---|\n| Sovg‘a @username orqali so‘mda olingan | Oluvchining profili va sovg‘alar ro‘yxati | Oluvchi o‘z Telegram ilovasida |\n| NFT tashqi marketpleysdan TON hamyon orqali olingan | Tranzaksiya, qabul qiluvchi manzili, Collectibles | Siz va oluvchi, eksplorerda |\n| Sovg‘a blokcheynga chiqarilgan | Hamyon manzilidagi Collectibles | Hamyon egasi |\n\nIchki bozor, tashqi marketpleys va vositachi qanday farq qilishi bu maqolada yozilgan: [NFT sovg‘a marketpleysi: ichki bozor, Portals yoki vositachi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/). Yoqqan sovg‘aning egasi yashirin bo‘lsa, unga yozish shart emas. Boshqa yo‘llar [egasi yashirin NFT sovg‘ani sotib olish](/blog/egasi-yashirin-nft-sovgani-sotib-olish/) maqolasida.\n\n## Do‘stingiz hamyonidagi sovg‘ani qanday topasiz: qadamlar\n\nMisol: siz marketpleysdan NFT sovg‘a olib, tug‘ilgan kun munosabati bilan do‘stingizning TON hamyoniga yubordingiz. Endi u yetganini bilmoqchisiz.\n\nQidiradigan asosiy manzil — do‘stingizning hamyon manzili, sizniki emas. Manzilni oldindan do‘stingizdan yozma ravishda oling va nusxa ko‘chirib ishlating.\n\n1. Hamyon ilovasida shu tranzaksiyani toping va undagi eksplorer havolasini oching.\n2. Havola bo‘lmasa, yuboruvchi yoki qabul qiluvchi manzilini qidiruvga kiriting. History bo‘limidan yozuvni vaqt, kontragent va summa bo‘yicha toping.\n3. Sotuvchi tranzaksiya xeshini bergan bo‘lsa, uni qidiruv maydoniga qo‘ying.\n4. Natija sahifasida manzil va tarmoq to‘g‘riligini tekshiring. Keyin Collectibles bo‘limini oching.\n5. Yozuv darhol chiqmasa, biroz kuting: yaqindagi faollik eksplorerda kechikib paydo bo‘lishi mumkin. Shoshib qayta to‘lamang.\n\nManzilni qo‘lda yozmang. Bitta belgi adashsa, siz begona hamyonni ko‘rib o‘tirasiz.\n\n## Sovg‘a yetdi deb qachon ishonch bilan aytsa bo‘ladi?\n\nNFT savdosida chalkashlik ko‘pincha shu nuqtada chiqadi. Sotuvchi o‘z tomonidagi yozuvni ko‘rsatadi, lekin bu hali do‘stingizga yetdi degani emas.\n\n- **Ikki tomonni ko‘ring.** Yuboruvchi tranzaksiyasi muvaffaqiyatli bo‘lsa, bu faqat xabar jo‘natilganini bildiradi. Qabul qiluvchi tranzaksiyasi ham bo‘lishi kerak.\n- **Qaytishni kuzating.** Zanjirda bounce yoki refund ko‘rinsa, uni oxirigacha kuzatib chiqing. Shundan keyingina xulosa qiling.\n- **Tokenni solishtiring.** To‘lov jettonda bo‘lsa, jetton master manzilini kutilgan token bilan solishtiring. Nomi bir xil, manzili boshqa token uchrashi mumkin.\n- **Skrinshotga tayanmang.** O‘zingiz havola yoki manzil orqali ochgan sahifaga ishoning.\n\nSotuvchidan so‘rash kerak bo‘lgan narsalar: tranzaksiya havolasi yoki xeshi va NFT yuborilgan manzil. Bularni berishdan bosh tortsa, ehtiyot bo‘ling.\n\nKo‘p uchraydigan xatolar:\n\n- o‘z manzilingiz qidirilgan, do‘stingizniki emas;\n- natija boshqa tarmoqda ochilgan;\n- faqat yuboruvchi yozuvi tekshirilgan;\n- yozuv kechikkani uchun qayta to‘lov qilingan.\n\n## «Sovg‘angizni tekshiring» degan havola kelsa nima qilasiz?\n\nEksplorer faqat ma’lumotni ko‘rish uchun kerak. Unda hech narsani imzolash yoki tasdiqlash talab qilinmaydi.\n\n> Seed-fraza, parol yoki SMS kod so‘ragan «eksplorer» sahifasini darhol yoping.\n\n- Hamyon ulashni yoki «sovg‘ani qabul qilish» tugmasini bosishni talab qiladigan sayt — shubhali belgi.\n- Tanish ko‘ringan domen ham rasmiylikni anglatmaydi. gram.org egaligi tasdiqlanmagan.\n- Notanish odam «sovg‘angiz shu yerda» deb havola tashlasa, uni ochmang. Sovg‘ani Telegram ilovasining o‘zida tekshiring.\n\nSoxta sovg‘a havolasi akkauntga qanday ta’sir qilishi haqida: [soxta sovg‘a havolasi va akkaunt cheklovi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/). Fragment orqali ishlasangiz, kirish tartibi [Fragment’ga hujjatsiz kirish](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/) maqolasida yozilgan.\n\n## Eksplorerdagi «Gram» va komissiya qatorlari nimani bildiradi?\n\n[ton.org](https://ton.org/) ma’lumotiga ko‘ra, Gram — TON blokcheynining asosiy tangasi, ilgari u Toncoin nomi bilan ham tanilgan. Summalar yonida Gram yozuvini ko‘rsangiz, bu o‘sha tanga. Sovg‘a olish tartibiga bu ta’sir qilmaydi.\n\nTelegram jamoasining kastodial bo‘lmagan Gram Wallet hamyoni messenjer interfeysiga o‘rnatilgan. Do‘stingizda alohida hamyon bo‘lmasa, manzilni shu yerdan olishi mumkinmi — undan so‘rang.\n\nKomissiyaga ham qarang. ton.org’ga ko‘ra, Gram o‘tkazmasi taxminan 0,00039 Gram, USDt o‘tkazmasi taxminan 0,001 Gram turadi. Sotuvchi «tarmoq komissiyasi» deb sezilarli summa so‘rasa, izoh talab qiling.\n\nKriptohamyon orqali do‘stingizga Telegram Premium ham olish mumkin. So‘mda olish uchun esa hamyon shart emas — [Premium sovg‘a qilish](/telegram-premium-sovga/) sahifasiga qarang.\n\n## SovgaTG orqali olingan NFT sovg‘a qanday tekshiriladi?\n\nSovgaTG’da kolleksion NFT gift bozor narxi va xizmat haqi evaziga sotib olinadi. Keyin u oluvchining @username’iga yuboriladi. Aniq narxni [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botida tekshiring.\n\nBu yo‘lda eksplorer kerak emas. Hamyon, ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi, faqat qabul qiluvchining @username’i kerak bo‘ladi. To‘lov so‘mda: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi. Xalqaro karta va VPN kerak emas.\n\nTekshiruv Telegram ichida bo‘ladi: do‘stingiz sovg‘ani o‘z sovg‘alari orasida ko‘radi. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytariladi. Savol tug‘ilsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) ga yozing.\n\nSotib olish tartibi [NFT gift sotib olish](/nft-gift-sotib-olish/) sahifasida yozilgan. Sovg‘ani bir muddat ko‘rsatish yetarli bo‘lsa, uni 1 kundan boshlab [ijaraga olish](/nft-sovga-ijara/) mumkin. SovgaTG mustaqil xizmat, Telegram bilan hamkorlik da’vo qilmaydi.",
+  "faq": [
+    {
+      "q": "Do‘stim gram.org havolasini yubordi — sovg‘ani shu yerda tekshirsam bo‘ladimi?",
+      "a": "Saytning TON yoki Telegram’ga aloqasi rasmiy tasdiqlanmagan. Tranzaksiyani hamyon ilovasidagi havola orqali ochganingiz ishonchliroq, ayniqsa sayt biror narsa kiritishni so‘rasa."
+    },
+    {
+      "q": "Do‘stim sovg‘ani Telegram profilida ko‘ryapti — yana eksplorerga qarash kerakmi?",
+      "a": "Sovg‘a Telegram ichida olingan bo‘lsa, oluvchi uni o‘z sovg‘alari orasida ko‘rgani yetarli tekshiruv. Eksplorer sovg‘a TON hamyonga o‘tganda kerak bo‘ladi."
+    },
+    {
+      "q": "Telegram ichidagi NFT sovg‘a eksplorerda ham ko‘rinadimi?",
+      "a": "Bu rasmiy manbalarda tasdiqlanmagan. Hamyonga chiqmagan sovg‘ani Telegram ilovasining o‘zida tekshirish to‘g‘riroq."
+    },
+    {
+      "q": "Sotuvchidan nimani so‘rasam, sovg‘ani o‘zim tekshira olaman?",
+      "a": "Tranzaksiya havolasi yoki xeshini va NFT yuborilgan manzilni so‘rang. Skrinshot yetarli emas, chunki uni tahrirlash oson."
+    },
+    {
+      "q": "Sovg‘ani «qabul qilish» uchun hamyon ulash so‘ralsa nima qilay?",
+      "a": "Bunday sahifani yoping. Eksplorerda ma’lumotni faqat ko‘rasiz, unda hamyon ulash yoki maxfiy so‘z kiritish talab qilinmaydi."
+    },
+    {
+      "q": "SovgaTG’dan NFT sovg‘a olsam, do‘stimga TON hamyon kerakmi?",
+      "a": "Yo‘q, sovg‘a uning @username’iga boradi, siz so‘mda to‘laysiz. Yetib kelganini do‘stingiz Telegram’da ko‘radi."
+    }
+  ],
+  "keywords": [
+    "NFT sovg‘ani eksplorerda tekshirish",
+    "gram.org eksplorer",
+    "NFT sovg‘a haqiqiymi",
+    "Telegram NFT gift tekshirish",
+    "TON eksplorer NFT",
+    "NFT sovg‘a Collectibles",
+    "Actonscan",
+    "проверить NFT подарок в эксплорере",
+    "gram.org эксплорер",
+    "как проверить подлинность NFT подарка Telegram",
+    "TON explorer NFT подарок"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "egasi-yashirin-nft-sovgani-sotib-olish",
+    "fragment-verifikatsiyasiz-akkaunt-ulash"
+  ],
+  "sources": [
+    {
+      "url": "https://docs.ton.org/onboarding/explorers",
+      "title": "TON blockchain explorers"
+    },
+    {
+      "url": "https://ton.org/",
+      "title": "TON — The Leading L1 Blockchain"
+    }
+  ],
+  "intent": "Do‘stiga NFT sovg‘a olgan yoki olmoqchi bo‘lgan o‘zbek Telegram foydalanuvchisi «NFT sovg‘ani gram.org eksplorerda tekshirish mumkinmi, sovg‘a haqiqiymi» deb qidiradi."
+}
