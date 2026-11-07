@@ -1,0 +1,73 @@
+{
+  "slug": "gram-wallet-telegram-faollashtirish",
+  "date": "2026-11-07",
+  "reviewed": "2026-11-07",
+  "category": "yangiliklar",
+  "title": "GRAM Wallet Telegram’da qanday faollashtiriladi va sovg‘a uchun kerakmi?",
+  "excerpt": "Telegram «GRAM Wallet»ni chiqargani haqida rasmiy e’lon yo‘q, faollashtirish usuli ham tasdiqlanmagan. Sovg‘a Stars hisobidan olinadi: SovgaTG orqali so‘mda, @username bilan yuborasiz.",
+  "content": "## GRAM Wallet Telegram’da rasman ishga tushdimi?\n\nHozircha bunga rasmiy tasdiq yo‘q. 2026-yil 7-noyabrdagi tekshiruvda Telegram «GRAM Wallet»ni chiqargani yoki uni foydalanuvchilarga bosqichma-bosqich ochayotgani haqida rasmiy e’lon topilmadi.\n\n«GRAM Wallet mavjud bo‘ldi» degan xabar Telegram kanallaridan birida tarqalgan. Kanal posti rasmiy manba emas. Undan faqat mavzu olindi, faktlar esa Telegram’ning o‘z sahifalarida tekshirildi.\n\nTelegram’ning joriy texnik hujjatida «Gram» so‘zi uchraydi, lekin boshqa vazifada. [Telegram Stars API sahifasida](https://core.telegram.org/api/stars) yozilishicha, kanal va botlarning reklama daromadi hamda balansi nanogramlarda ko‘rsatilishi mumkin. Bir nanogram — bir Gramning milliarddan bir qismi. Bu ma’lumotni kanal yoki bot administratorlari oladi.\n\nBu oddiy foydalanuvchi uchun yangi hamyon chiqqanini anglatadimi — bu maqolada tasdiqlanmagan. Hujjatda foydalanuvchilarga alohida hamyon ochilgani haqida gap yo‘q.\n\n## Kanallardagi «0.1 💎 yuboring» usuli ishlaydimi?\n\nPostda hamyonni qanday «faollashtirish» va unda nima borligi haqida aniq da’volar bor. Ularning birortasi rasmiy manbalarda tasdiqlanmadi.\n\n| Postdagi da’vo | Holati |\n|---|---|\n| GRAM Wallet foydalanuvchilarda paydo bo‘la boshladi | Rasmiy e’lon topilmadi |\n| Boshqa foydalanuvchiga kamida 0.1 💎 yuborsangiz, hamyon faollashadi | Tasdiqlanmagan |\n| Shundan keyin hamyon «Money» yorlig‘ida chiqadi | Tasdiqlanmagan |\n| Hozircha faqat mablag‘ yuborish va balansni to‘ldirish ishlaydi | Tasdiqlanmagan |\n\nYo‘riqnoma rasmiy bo‘lmasa, uning natijasi ham noma’lum. Hamyonni «yoqish» uchun notanish odamga kripto yubormang. Telegram’da yangi funksiya chiqsa, uni [telegram.org](https://telegram.org) saytida tekshiring, kanal skrinshotiga tayanmang.\n\nYana bir noaniq joy: postdagi 💎 belgisi qaysi birlikni bildirishi tushuntirilmagan. Shuning uchun «0.1» qancha mablag‘ ekanini bu maqolada aytib bo‘lmaydi.\n\n## 2019-yilgi «Grams Wallet» bilan qanday bog‘liq?\n\n«Gram» nomi Telegram tarixida avval ham bo‘lgan. [Grams Wallet foydalanish shartlari](https://telegram.org/tos/wallet) 2019-yil 8-oktabrda yangilangan. Unga ko‘ra hamyon alohida ilova sifatida yoki Telegram ilovasi ichida ishlatilishi mumkin edi.\n\nShu shartlarda yana ikki qoida yozilgan:\n\n- Gram tranzaksiyalari TON blokcheyni reyestrida tasdiqlanishi va qayd etilishi kerak edi.\n- Foydalanuvchi kirish ma’lumotlarini yo‘qotsa, Telegram ularni tiklay olmasligi aytilgan — bunda mablag‘ga kirish ham yo‘qolishi mumkin.\n\nIkkinchi qoida har qanday kripto hamyon uchun foydali eslatma: kirish ma’lumotlarini o‘zingiz saqlaysiz, ular yo‘qolsa, tiklash imkoni bo‘lmasligi mumkin.\n\nAmmo 2019-yilgi hujjat bugungi «GRAM Wallet» xabariga mos keladimi — noma’lum. Eski shartlar sahifasi yangi hamyon chiqqanini isbotlamaydi.\n\n## Do‘stga sovg‘a yoki Stars yuborish uchun GRAM Wallet kerakmi?\n\nGRAM Wallet haqida to‘g‘ridan-to‘g‘ri rasmiy gap topilmadi. Lekin sovg‘a qanday sotib olinishi hujjatda aniq yozilgan: [Telegram Gifts sahifasiga](https://core.telegram.org/api/gifts) ko‘ra, oddiy sovg‘a foydalanuvchi balansidagi Stars hisobidan olinadi. Hujjatdagi bu jarayonda alohida hamyon tilga olinmaydi.\n\n- Stars — botlar va mini ilovalarda raqamli tovar hamda xizmat sotib olish, kontent yaratuvchilarga sovg‘a yuborish uchun virtual birlik.\n- Do‘st uchun Stars sotib olishning alohida tartibi bor: texnik hujjatda u sovg‘a variantlari ro‘yxatini olishdan boshlanadi.\n- Stars’ni Fragment orqali ham to‘lash mumkin, bu usulda kattaroq xaridlar qilsa bo‘ladi. Hujjatda bu usul GRAM Wallet bilan bog‘lanmagan.\n\n> SovgaTG orqali yuborishda faqat oluvchining @username’i kerak. To‘lov so‘mda: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi. Hamyon, xalqaro karta, dollar hisobi va VPN kerak emas.\n\nNFT sovg‘ani do‘stga SovgaTG orqali olganda ham hamyon so‘ralmaydi: to‘lov so‘mda, sovg‘a @username’ga boradi. Hamyon qaysi holatda kerak bo‘lishi haqida: [NFT sovg‘a qilish uchun Telegram Wallet yoki TON hamyon kerakmi?](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/). Oddiy sovg‘a yuborish tartibi esa [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) sahifasida.\n\n## Hamyonsiz do‘stga sovg‘ani qanday yuboraman?\n\nGRAM Wallet chiqishini kutish shart emas. Tug‘ilgan kun yoki bayram yaqin bo‘lsa, sovg‘ani hozir so‘mda yuborishingiz mumkin.\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)’ni oching.\n2. Nimani yuborishni tanlang: oddiy sovg‘a, Stars, Premium (3, 6 yoki 12 oy) yoki kolleksion NFT gift.\n3. Oluvchining @username’ini kiriting. Oddiy sovg‘ada ismingiz ko‘rinmasin desangiz, anonim rejimni tanlang.\n4. Narxni botda tekshiring va so‘mda to‘lang.\n5. Oddiy sovg‘a, Stars yoki Premium taxminan 10 soniyada yetadi. Yetkazilmasa, to‘langan summa balansga to‘liq qaytadi.\n\nRo‘yxatdan o‘tish, parol va SMS kod so‘ralmaydi. Agar kimdir «bot nomidan» sizdan kod so‘rasa, bu SovgaTG emas.\n\nBir nechta qo‘shimcha variant:\n\n- Premium uchun: [Telegram Premium sovg‘a qilish](/telegram-premium-sovga/).\n- Kolleksion gift uchun: [NFT gift sotib olish](/nft-gift-sotib-olish/) — bozor narxi va xizmat haqi bilan.\n- Sovg‘a aynan bayram kuni yetsin desangiz: [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) — bugun to‘lanadi, belgilangan sana va daqiqada o‘zi yetadi. Yetkazishdan oldin bekor qilib, pulni qaytarib olish mumkin.\n- O‘zingizda Stars bo‘lsa, bot sovg‘ani sizning Stars balansingizdan ham yuboradi, bu taxminan 1 daqiqa oladi. Xizmat haqini botda ko‘ring.\n\n## Sovg‘ani oluvchi keyin nima qila oladi?\n\nSovg‘a yetgach, qaror oluvchida qoladi.\n\n- Rasmiy hujjatga ko‘ra, oluvchi sovg‘ani profilida ko‘rsatishi yoki Telegram Stars’ga aylantirishi mumkin.\n- Stars’ni esa botlar va mini ilovalarda raqamli xizmatlarga yoki boshqalarga sovg‘a yuborishga ishlatsa bo‘ladi.\n- Kolleksion NFT sovg‘ani blokcheynga chiqarish — alohida masala, u oddiy sovg‘a qilishga taalluqli emas.\n- Hamyon kartasini NFT sovg‘a bilan bezash haqidagi gaplar ham hozircha mish-mish darajasida: [GRAM hamyonni NFT sovg‘a bilan bezash mumkinmi](/blog/gram-hamyon-kartasi-sovga-bezash/).\n\nShuning uchun do‘stga sovg‘a tanlayotganda uni bugun ishlaydigan narsaga — profil va chatga mo‘ljallang, hali tasdiqlanmagan hamyonga emas.\n\n## «GRAM Wallet» xabarlarida qanday xavf bor?\n\nYangi hamyon haqidagi shov-shuvdan firibgarlar foydalanadi. Ko‘p odam «hamyonni birinchi bo‘lib ochish» uchun shoshiladi va manbani tekshirmaydi.\n\n- «Faollashtirish uchun menga 0.1 yuboring» degan so‘rovlarga pul o‘tkazmang. Bunday talab rasmiy tasdiqlanmagan.\n- Kod, parol va seed so‘zlarni hech kimga bermang. Yo‘qolgan kirish ma’lumotlarini tiklab bo‘lmasligi mumkin.\n- «GRAM Wallet’ni oldindan ochib beraman» degan bot va akkauntlarga ishonmang, ayniqsa ular to‘lov yoki SMS kod so‘rasa. Bot haqiqiyligini qanday tekshirish haqida: [username’i «ai» yoki «app» bilan tugaydigan bot haqiqiymi](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/).\n- «Hamyon sovg‘asi» degan havolalarga kod va parol kiritmang: [soxta sovg‘a havolasi va akkaunt cheklovi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/).\n- Beta versiyadagi o‘zgarishlarni kanal mish-mishlaridan ajrating: [Telegram beta yangiliklari: nimasi rasmiy?](/blog/telegram-beta-profil-balans-qr-kod-sovga/).\n- Fragment’ga faqat [fragment.com](https://fragment.com) orqali kiring. Kirish tartibi: [Fragment’ga hujjatsiz qanday kiriladi](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/).\n\nRasmiy e’lon chiqsa, faollashtirish tartibini o‘sha manbadan qidiring. Ungacha sovg‘a, Stars va Premium’ni odatdagi yo‘l bilan yuboring.",
+  "faq": [
+    {
+      "q": "GRAM Wallet menga hali chiqmagan bo‘lsa, akkauntimda muammo bormi?",
+      "a": "Buni akkaunt muammosi deb hisoblashga asos yo‘q: Telegram bunday hamyonni chiqargani haqida rasmiy e’lon topilmagan. Do‘stga sovg‘a yuborish uchun uni kutish shart emas."
+    },
+    {
+      "q": "Telegram’dagi Gram va TON bir xil valyutami?",
+      "a": "Rasmiy manbalarda bu bo‘yicha aniq izoh topilmadi, shuning uchun bu maqolada tasdiqlanmagan. Joriy texnik hujjatda Gram faqat kanal va bot reklama daromadi hisobida uchraydi."
+    },
+    {
+      "q": "GRAM Wallet orqali do‘stga Telegram Premium sovg‘a qilsa bo‘ladimi?",
+      "a": "Bunday imkoniyat rasmiy tasdiqlanmagan. Premium’ni 3, 6 yoki 12 oyga do‘stning @username’i bilan so‘mda SovgaTG botida yuborish mumkin, joriy narxni botda tekshiring."
+    },
+    {
+      "q": "Hamyonni faollashtirish uchun notanish odam pul so‘rasa nima qilish kerak?",
+      "a": "Pul yubormang va suhbatni to‘xtating: faollashtirish uchun to‘lov kerakligi rasmiy tasdiqlanmagan. Kod, parol yoki seed so‘zlarni hech qanday bahona bilan bermang."
+    },
+    {
+      "q": "SovgaTG orqali NFT sovg‘a olish uchun TON hamyon kerakmi?",
+      "a": "Yo‘q, kolleksion gift so‘mda to‘lanadi va oluvchining @username’iga yuboriladi. Hamyon masalasi faqat sovg‘ani keyinchalik blokcheynga chiqarishda ko‘tariladi."
+    },
+    {
+      "q": "Do‘stim olgan Stars’ni nimaga ishlata oladi?",
+      "a": "Rasmiy hujjatga ko‘ra Stars bilan botlar va mini ilovalarda raqamli tovar va xizmatlar olinadi, kontent yaratuvchilarga sovg‘a yuboriladi. Oddiy sovg‘alar ham Stars balansidan sotib olinadi."
+    },
+    {
+      "q": "Sovg‘ani so‘mda to‘lab, ma’lum sanaga rejalashtirib qo‘ysa bo‘ladimi?",
+      "a": "Ha, bugun to‘laysiz va sovg‘a tanlangan sana hamda daqiqada o‘zi yetkaziladi. Narxga 0–12% muddat ustamasi qo‘shiladi, yetkazishdan oldin bekor qilsangiz, pul qaytariladi."
+    }
+  ],
+  "keywords": [
+    "gram wallet telegram",
+    "gram wallet qanday faollashtiriladi",
+    "telegram gram hamyon",
+    "gram wallet nima",
+    "telegram hamyon sovg‘a uchun kerakmi",
+    "stars yuborish hamyonsiz",
+    "gram wallet telegram как активировать",
+    "gram кошелек телеграм",
+    "что такое gram wallet в telegram",
+    "нужен ли кошелек для подарка telegram",
+    "грамы телеграм кошелек"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "gram-hamyon-kartasi-sovga-bezash",
+    "telegram-beta-profil-balans-qr-kod-sovga",
+    "fragment-verifikatsiyasiz-akkaunt-ulash"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/api/stars",
+      "title": "Telegram Stars"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    },
+    {
+      "url": "https://telegram.org/tos/wallet",
+      "title": "Grams Wallet"
+    }
+  ],
+  "intent": "Telegram foydalanuvchisi kanallarda GRAM Wallet paydo bo'lganini ko'rib, «gram wallet qanday faollashtiriladi» deb qidiradi va do'stiga sovg'a yoki Stars yuborishda bu hamyon kerakmi-yo'qmi, deb bilmoqchi."
+}
