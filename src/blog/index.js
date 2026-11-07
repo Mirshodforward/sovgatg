@@ -274,7 +274,7 @@ export function llmsTxt(pages, posts) {
     ""
   );
   L.push("## Muhim faktlar", "");
-  L.push(`- Buyurtma boti: ${site.botHandle} (${site.bot})`);
+  L.push(`- Buyurtma boti: ${site.botHandle} (${site.botCanonical})`);
   L.push(`- Qo'llab-quvvatlash: ${site.supportHandle} (${site.support})`);
   L.push(`- Telegram kanal: ${site.channelHandle} (${site.channel})`);
   L.push(`- To'lov: ${site.pay.join(", ")} — so'mda, xalqaro karta kerak emas.`);

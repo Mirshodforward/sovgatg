@@ -10,8 +10,11 @@ export const site = {
   lang: "uz",
   locale: "uz_UZ",
   // Telegram havolalari (bot production'da ishlab turibdi)
-  bot: "https://t.me/StarsPaymee_bot",
-  botHandle: "@StarsPaymee_bot",
+  // 2026-11-07 (egasi): sovg'a sayti endi o'z botiga — @sovgatguz_bot. Tugmalarda manba belgisi: bot
+  // `site_sovgatg` ni mijozning birinchi manbasi qilib yozadi → admin panelda Google/sayt orqali kelganlar.
+  bot: "https://t.me/sovgatguz_bot?start=site_sovgatg",
+  botCanonical: "https://t.me/sovgatguz_bot", // schema.org sameAs / llms — rasmiy havola belgisiz
+  botHandle: "@sovgatguz_bot",
   support: "https://t.me/StarsPaymeeSupport",
   supportHandle: "@StarsPaymeeSupport",
   channel: "https://t.me/StarsPaymee",

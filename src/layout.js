@@ -210,7 +210,7 @@ export function layout(page) {
     description:
       "Telegram sovg'alari, NFT giftlar, NFT sovg'a ijarasi va rejalashtirilgan sovg'a xizmati. O'zbekiston uchun so'mda to'lov.",
     areaServed: { "@type": "Country", name: "Uzbekistan" },
-    sameAs: [site.bot, site.channel, site.support],
+    sameAs: [site.botCanonical, site.channel, site.support],
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "customer support",
@@ -279,7 +279,7 @@ export function layout(page) {
               priceCurrency: "UZS",
               ...page.service.offers,
               availability: "https://schema.org/InStock",
-              url: site.bot,
+              url: site.botCanonical,
             },
           }
         : {}),

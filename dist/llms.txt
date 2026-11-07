@@ -4,7 +4,7 @@
 
 ## Muhim faktlar
 
-- Buyurtma boti: @StarsPaymee_bot (https://t.me/StarsPaymee_bot)
+- Buyurtma boti: @sovgatguz_bot (https://t.me/sovgatguz_bot)
 - Qo'llab-quvvatlash: @StarsPaymeeSupport (https://t.me/StarsPaymeeSupport)
 - Telegram kanal: @StarsPaymee (https://t.me/StarsPaymee)
 - To'lov: Uzcard, Humo, Click, Payme, Paynet, Balans — so'mda, xalqaro karta kerak emas.
@@ -23,5 +23,16 @@
 
 ## Blog maqolalari
 
+- [GRAM hamyonni NFT sovg‘a bilan bezash mumkinmi: do‘stga nima olish kerak?](https://sovgatg.uz/blog/gram-hamyon-kartasi-sovga-bezash/): Hozircha yo‘q: GRAM hamyon kartasini sovg‘a bilan bezash faqat kanallarda tarqalgan eskiz. Do‘stga NFT sovg‘ani bugun ishlaydigan profil statusi va chat mavzusi uchun oling.
+- [Username’i «ai», «app» yoki «agent» bilan tugaydigan sovg‘a boti haqiqiymi?](https://sovgatg.uz/blog/bot-username-ai-app-sovga-boti-haqiqiymi/): Hozircha yo‘q: rasmiy qoidaga ko‘ra har bir bot username’i «bot» bilan tugashi shart. Oxiri «ai», «app» yoki «agent» bo‘lgan akkaunt bot emas, unga sovg‘a yoki Stars uchun pul to‘lamang.
+- [NFT sovg‘a marketpleysi: ichki bozor, Portals yoki vositachi — farqi nima?](https://sovgatg.uz/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/): Do‘stga NFT sovg‘ani uch yo‘l bilan olasiz: Telegram ichki bozorida Stars’ga, Portals kabi tashqi marketpleysda TON hamyon orqali yoki vositachi xizmatda so‘mda, @username bilan.
+- [Do‘stingiz sovg‘angizni profildan o‘chira oladimi va sizga xabar boradimi?](https://sovgatg.uz/blog/sovgani-profildan-ochirish-yuboruvchiga-nima/): Oluvchi oddiy sovg‘ani profildan to‘lovsiz o‘chira yoki yashira olishi rasmiy manbalarda hozircha tasdiqlanmagan. Sizga xabar borishi ham tasdiqlanmagan — do‘stingizdan so‘rang.
+- [Telegram beta yangiliklari: balans, QR-kod va sovg‘a — nimasi rasmiy?](https://sovgatg.uz/blog/telegram-beta-profil-balans-qr-kod-sovga/): Profildagi balans tugmasi, shaxsiy QR-kod va sovg‘ani Fragment’siz hamyonga o‘tkazish hozircha rasmiy tasdiqlanmagan. Sovg‘a yuborish tartibi o‘zgarmagan: oluvchining @username’i yetarli.
+- [Egasi yashirin NFT sovg‘ani qanday sotib olib, sovg‘a qilish mumkin?](https://sovgatg.uz/blog/egasi-yashirin-nft-sovgani-sotib-olish/): Mumkin: kolleksion giftni egasini qidirmasdan bozordan yoki vositachi xizmat orqali olasiz. SovgaTG botida u so‘mda sotib olinib, oluvchining @username’iga yuboriladi.
+- [NFT sovg‘adagi izoh va imzo: ismingiz qoladimi, oluvchi o‘chira oladimi?](https://sovgatg.uz/blog/nft-sovga-izohi-va-yuboruvchi-imzosi/): Ha, upgrade paytida asl ma’lumotlarni saqlash tanlansa, NFT sovg‘ada izohingiz va ismingiz qolishi mumkin. Imkoniyat ochiq bo‘lsa, ularni faqat oluvchi Stars to‘lab olib tashlaydi.
+- [Telegram’da soxta sovg‘a havolasi: ochsangiz akkaunt cheklanadimi?](https://sovgatg.uz/blog/soxta-sovga-havolasi-akkaunt-cheklovi/): Havolani ochishning o‘zi cheklovga sabab bo‘lishi tasdiqlanmagan: akkaunt nomingizdan ketgan spamga shikoyat tushganda cheklanadi. «Sovg‘a» havolasiga kod va parol kiritmang.
+- [Telegram uzilishida sovg‘a, Stars va Premium yetib boradimi?](https://sovgatg.uz/blog/telegram-uzilishida-sovga-stars-nima-boladi/): Uzilishda sovg‘a qachon yetishi bo‘yicha rasmiy ma’lumot tasdiqlanmagan: aloqa tiklangach holatni tekshiring, qayta to‘lamang. SovgaTG buyurtmasi yetkazilmasa, summa balansga to‘liq qaytadi.
+- [NFT sovg‘a qilish uchun Telegram Wallet yoki TON hamyon kerakmi?](https://sovgatg.uz/blog/nft-sovga-uchun-ton-hamyon-kerakmi/): Yo‘q: NFT sovg‘a, oddiy gift, Stars yoki Premium’ni @username orqali so‘mda yuborish uchun hamyon shart emas. TON hamyon sovg‘ani blokcheynga chiqarishda kerak bo‘ladi.
+- [Telegram stiker xavfi: notanish odamdan kelgan stiker yoki sovg‘a xavflimi?](https://sovgatg.uz/blog/notanish-stiker-va-sovga-xavfsizmi/): Hozircha tasdiqlangan holat bitta: iOS’dagi Telegram ilovasi stiker sababli yopilib qolgan. Telefon buzilishi haqida rasmiy ma’lumot yo‘q. Ilovani 12.9.4 yoki undan yangi versiyaga yangilang.
 - [Fragment’ga hujjatsiz qanday kiriladi va akkauntlarni almashtirsa bo‘ladimi?](https://sovgatg.uz/blog/fragment-verifikatsiyasiz-akkaunt-ulash/): Rasmiy sahifalarga ko‘ra, Fragment hujjat so‘ramaydi: Telegram akkaunt va TON hamyon ulanadi. Akkauntlarni navbatma-navbat almashtirish mumkin — avval eski sessiyani o‘chirasiz.
 - [Raqamni sotsam Telegram nima bo‘ladi: akkaunt, sovg‘a va Stars’ni saqlash](https://sovgatg.uz/blog/raqam-sotishdan-oldin-telegram-akkaunt/): SIMni Telegram’dan uzmasdan sotsangiz, akkaunt, sovg‘alar va Stars balansi xavf ostida qoladi. Avval akkauntni yangi raqamga o‘tkazing, keyin raqamni soting.
