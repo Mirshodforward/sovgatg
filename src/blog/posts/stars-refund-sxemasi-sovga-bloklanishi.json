@@ -1,0 +1,82 @@
+{
+  "slug": "stars-refund-sxemasi-sovga-bloklanishi",
+  "date": "2026-11-08",
+  "reviewed": "2026-11-08",
+  "category": "xavfsizlik",
+  "title": "Arzon Stars yoki shubhali NFT bilan sovg‘a qilsam, u bloklanadimi?",
+  "excerpt": "Sovg‘ani avtomatik bloklaydigan aniq qoida yo‘q, lekin refund yoki qoidabuzarlikda Telegram Stars’ni yechib olishi va kompensatsiya bermasligi mumkin. Shuning uchun noma’lum sotuvchidan olmang.",
+  "content": "## Arzon Stars bilan olingan sovg‘a keyin bloklanishi mumkinmi?\n\nRasmiy qoidalarda «sovg‘a avtomatik bloklanadi» degan band topilmadi. Lekin [Telegram Stars shartlari](https://telegram.org/tos/stars) Telegram’ga shaxsiy balansdagi Stars’ni vaqtincha ushlab turish yoki butunlay yechib olish huquqini beradi. Bu ilova ichidagi xarid qaytarilganda (refund) yoki shartlar buzilganda qo‘llanadi.\n\nSovg‘a qiluvchi uchun keyingi band ko‘proq ahamiyatli. Telegram yechib olingan Stars uchun pul qaytarmaydi. Shu yechish sabab yo‘qolgan raqamli tovarlar, xizmatlar va obunalar uchun ham kompensatsiya bermaydi. Sovg‘a ham shu toifaga kirishi mumkin. Demak, Stars’ning kelib chiqishi noaniq bo‘lsa, zarar faqat sotuvchida qolmasligi mumkin.\n\nYaqinda kanallarda Stars refund bilan bog‘liq sxema haqida xabarlar tarqaldi. Telegram’ning bu haqda rasmiy bayonoti topilmadi, tafsilotlar ham tasdiqlanmagan. Shuning uchun quyidagi tavsiyalar faqat rasmiy qoidalarga tayanadi.\n\n## Do‘stga sovg‘a uchun arzon Stars olish nimasi bilan xavfli?\n\nArzon Stars odatda «ortib qoldi», «chegirma» yoki «ko‘p olsangiz arzon» degan gaplar bilan taklif qilinadi. Sovg‘a qiluvchi uchun bunday kelishuvda to‘rtta muammo bor:\n\n- **Savdoning o‘zi qoidadan tashqarida.** Shaxsiy balansdagi Stars’ni shartlarda ko‘rsatilmagan maqsadda sotish, chiqarib olish yoki o‘tkazish mumkin emas.\n- **Telegram pulni qaytarmaydi.** Stars savdosi yakuniy hisoblanadi. Keraksiz yoki tasodifiy xarid uchun Telegram refund qilmaydi.\n- **Chargeback oqibati.** Xaridor Stars bilan botga to‘lagandan keyin Apple yoki Google’dan pulni qaytarib so‘rasa, qaytarilgan Stars bot balansidan yechiladi. Refundlarga javoban Telegram shaxsiy balansni ham ushlab turishi mumkin. Sotuvchining to‘lovi keyin bekor qilinsa, unga bog‘liq Stars sizga ham ta’sir qilishi ehtimoli bor. Bu aniq yozilgan qoida emas, lekin shartlar bunga yo‘l qoldiradi.\n- **Akkaunt yopilsa, balans yo‘qoladi.** Telegram akkaunti bekor qilinsa, qolgan Stars balansi butunlay yo‘qotilgan hisoblanadi va kompensatsiya berilmaydi.\n\nMisol: singlingizning tug‘ilgan kuniga notanish odamdan yarim narxda Stars olib, sovg‘a sotib oldingiz. Bir necha hafta o‘tib bu Stars refund bilan bog‘liq bo‘lib chiqdi. Balansdagi Stars yechilishi mumkin, oqibatda yo‘qolgan narsa uchun esa kompensatsiya yo‘q. Tejalgan pul bayram kayfiyatini buzishga arzimaydi.\n\n## Sovg‘a qilish yo‘llari: qaysi biri shaffofroq?\n\nJadval xavfni nolga tushirmaydi. U to‘lov izi qayerda qolishini va muammo chiqsa kimga yozishni ko‘rsatadi.\n\n| Yo‘l | To‘lov izi | Refund xavfi | Muammo chiqsa |\n|---|---|---|---|\n| Stars’ni Telegram ilovasida o‘zingiz olasiz | Xarid sizning nomingizda | Stars kelib chiqishi aniq | Bot xaridida /paysupport, keyin Telegram’ga shikoyat |\n| Vositachi xizmat orqali so‘mda (masalan, SovgaTG) | Buyurtma va to‘lov cheki sizda | Stars sotib olmaysiz, sovg‘a @username’ga boradi | Xizmatning yordam akkaunti |\n| Notanish odamdan arzon Stars | Tekshirib bo‘lmaydi | Yuqori: Stars yechilishi mumkin, kompensatsiya yo‘q | Amalda hech kim |\n| Refund shubhasi bor bot | Noaniq | Bot va foydalanuvchi balansi ushlanishi mumkin | /paysupport, keyin shikoyat |\n\n[Dasturchilar shartlari](https://telegram.org/tos/bot-developers) ham shu yo‘nalishda. Foydalanuvchi refundlari, platformani suiiste’mol qilishda shubha yoki qoidabuzarlik bo‘lsa, Telegram bot balansidagi Stars’ni ushlab turishi yoki yechib olishi mumkin.\n\nSovgaTG’da faqat oluvchining @username’i kerak. To‘lov so‘mda: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi. Aniq narxni botda tekshiring.\n\n## Shaxsiy sotuvchidan NFT sovg‘a olishdan oldin nimani tekshirasiz?\n\n1. **Havola so‘rang.** [Telegram blogiga](https://telegram.org/blog/wear-gifts-blockchain-and-more) ko‘ra, har bir kolleksion sovg‘aning t.me/nft ko‘rinishidagi noyob havolasi bor. Sotuvchi faqat skrinshot ko‘rsatsa, kelishuvni to‘xtating.\n2. **Sovg‘a qayerda turganini aniqlang.** Sovg‘a Telegram ichida yoki blokcheynda bo‘lishi mumkin. [Gifts API hujjatiga](https://core.telegram.org/api/gifts) ko‘ra, TON’dagi sovg‘ada egalik owner_address maydonidagi TON hamyonda qoladi. Sotuvchi aynan shu hamyon egasi ekanini tekshiring.\n3. **Narxni solishtiring.** Bozordagidan keskin past narx — birinchi ogohlantirish.\n4. **Shoshilishga majburlasa, to‘xtang.** «Hozir to‘lamasangiz, boshqasiga beraman», «Stars’ni keyin qaytaraman», «avval kodni yuboring» — bular xavf belgisi.\n5. **Xarid joyini tanlang.** Ichki bozor, tashqi marketpleys va vositachi farqi [NFT sovg‘a marketpleysi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/) maqolasida tushuntirilgan.\n\n## Do‘stingiz shubhali sovg‘ani allaqachon olgan bo‘lsa, nima qilish kerak?\n\nSovg‘a yuborilgan, lekin Stars manbai sizni bezovta qilyapti. Vahima qilmang, quyidagilarni bajaring:\n\n- Kimdan va qanday to‘laganingiz haqidagi yozishma va cheklarni saqlang.\n- Xarid bot orqali Stars bilan qilingan bo‘lsa, savolni o‘sha botga /paysupport orqali yuboring.\n- Sotuvchiga qo‘shimcha pul, kod yoki akkaunt ma’lumoti bermang. «Sovg‘ani tozalab beraman» degan taklif ham firibgarlik belgisi.\n- Do‘stingizga sovg‘a havolasi orqali kod kiritmaslikni ayting. Bu haqda: [soxta sovg‘a havolasi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/).\n- Keyingi sovg‘ani kelib chiqishi aniq yo‘l bilan oling.\n\n## Do‘stingiz sovg‘ani hamyonga chiqarsa, u xavfsizroq bo‘ladimi?\n\nQisman. Telegram blogiga ko‘ra, TON blokcheyniga o‘tkazilgan kolleksion sovg‘a egasiga doimiy nazorat beradi. Bu nazorat akkauntga kirish yo‘qolsa yoki akkaunt o‘chirilsa ham saqlanadi.\n\nO‘tkazish: My Profile > Gifts bo‘limida sovg‘ani tanlang, so‘ng Transfer > Send via Blockchain tugmasini bosing.\n\nRefund qilingan Stars bilan olingan sovg‘ani blokcheynga chiqarish yoki o‘tkazish cheklanadimi — bu maqolada tasdiqlangan qoida yo‘q. Blokcheyn akkaunt bilan bog‘liq xavfdan himoya qiladi, lekin sovg‘aning kelib chiqishini «tozalamaydi». Oddiy sovg‘a uchun hamyon shart emas: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\n## Sovg‘a botdan kelmay qolsa, Stars’ni qaytarish tartibi\n\nTelegram keraksiz xarid uchun o‘zi pul qaytarmaydi. Lekin bot yoki mini ilova xaridni va’da qilinganidek va kelishilgan muddatda yetkazmasa, dasturchi Stars’ni jarimasiz qaytarishi mumkin. Buning uchun [Bot API](https://core.telegram.org/bots/api) refundStarPayment metodini taqdim etadi.\n\n1. Botga /paysupport yozing: nima olganingiz, qachon va kimga yuborilishi kerakligini ko‘rsating.\n2. Dasturchi qonuniy refunddan bosh tortsa, Settings > Your Stars bo‘limidan tranzaksiya ID’sini oling.\n3. Shu ID bilan [Stars shartlari](https://telegram.org/tos/stars) sahifasidagi havola orqali shikoyat yuboring.\n\nBu tartib faqat bot orqali Stars bilan qilingan xaridlarga tegishli. Notanish odamga to‘g‘ridan-to‘g‘ri pul o‘tkazgan bo‘lsangiz, u yordam bermaydi.\n\nSovgaTG’da sovg‘a yetkazilmasa, summa bot balansingizga to‘liq qaytadi. Savol bo‘lsa, yordam akkaunti [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) orqali yozing.\n\n## Do‘stga Stars yoki NFT sovg‘ani qanday xavfsiz yuborasiz?\n\n1. Do‘stingizning @username’ini aniqlang: harf va pastki chiziqlarni tekshiring.\n2. Buyurtma botini oching — [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) — va sovg‘a turini tanlang: oddiy gift, Stars, Telegram Premium (3, 6 yoki 12 oy) yoki kolleksion NFT.\n3. Narxni botda ko‘ring. Kolleksion NFT narxi bozor narxi va xizmat haqidan iborat.\n4. So‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi.\n5. Xohlasangiz, anonim yuboring yoki sanani oldindan belgilang — bu haqda [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) sahifasida. Oddiy sovg‘a, Stars va Premium taxminan 10 soniyada yetadi.\n\nStars’ni o‘zingiz qonuniy sotib olgan bo‘lsangiz, bot sovg‘ani sizning balansingizdan ham yuborishi mumkin. Bu taxminan 1 daqiqa oladi, xizmat haqi 1 000 so‘mdan boshlanadi.\n\n> Bot faqat oluvchining @username’ini so‘raydi. Ro‘yxatdan o‘tish, parol yoki SMS kod talab qilinmaydi.\n\nNoyob sovg‘ani qisqa muddat ko‘rsatish kifoya bo‘lsa, [NFT sovg‘a ijarasi](/nft-sovga-ijara/) 1 kundan boshlanadi. Egasi yashirin sovg‘ani qanday olish mumkinligi [bu maqolada](/blog/egasi-yashirin-nft-sovgani-sotib-olish/) yozilgan. Umumiy tartib [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) va [NFT gift sotib olish](/nft-gift-sotib-olish/) sahifalarida.\n\nSovgaTG — Telegram’dan mustaqil xizmat.",
+  "faq": [
+    {
+      "q": "Do‘stimga bergan NFT sovg‘amni keyin undan olib qo‘yishlari mumkinmi?",
+      "a": "Kolleksion sovg‘ani avtomatik olib qo‘yish bo‘yicha aniq qoida topilmadi. Lekin yechib olingan Stars sabab yo‘qolgan raqamli tovarlar uchun Telegram kompensatsiya bermaydi. Shuning uchun sovg‘ani kelib chiqishi aniq yo‘l bilan oling."
+    },
+    {
+      "q": "Tanishim Stars’ini arzonga sotyapti — undan olib sovg‘a qilsam bo‘ladimi?",
+      "a": "Shartlar shaxsiy balansdagi Stars’ni ko‘rsatilmagan maqsadda sotish va o‘tkazishni taqiqlaydi. Tanish odam bo‘lsa ham, bu Stars keyin refund bilan bog‘liq chiqsa, yo‘qotishni hech kim qoplamaydi."
+    },
+    {
+      "q": "Stars’ni o‘zim Telegram ilovasida olsam, xavf qoladimi?",
+      "a": "Bunda Stars’ning kelib chiqishi aniq va xarid sizning nomingizda bo‘ladi. Faqat Telegram keraksiz xarid uchun pul qaytarmasligini hisobga oling: sovg‘ani tanlashdan oldin o‘ylab oling."
+    },
+    {
+      "q": "Sovg‘a uchun kimdir mendan SMS kod so‘rasa nima qilaman?",
+      "a": "Kodni bermang va suhbatni to‘xtating. Sovg‘a yuborish uchun faqat oluvchining @username’i kerak, SovgaTG boti ham parol yoki kod so‘ramaydi."
+    },
+    {
+      "q": "NFT sovg‘a haqiqiy ekanini qanday bilsam bo‘ladi?",
+      "a": "Sotuvchidan sovg‘aning t.me/nft havolasini so‘rang. Sovg‘a TON’da bo‘lsa, egalik qaysi hamyonda ekanini tekshiring."
+    },
+    {
+      "q": "SovgaTG orqali buyurtma yetib bormasa, pulim nima bo‘ladi?",
+      "a": "Summa to‘liq bot balansingizga qaytadi va uni keyingi sovg‘aga ishlatsa bo‘ladi. Aniqlik kerak bo‘lsa, @StarsPaymeeSupport’ga yozing."
+    }
+  ],
+  "keywords": [
+    "stars refund sxemasi sovga bloklanishi",
+    "arzon stars sotib olish xavflimi",
+    "telegram stars refund firibgarlik",
+    "nft sovga bloklanishi",
+    "telegram stars qaytarish paysupport",
+    "stars balansi yechib olindi",
+    "nft sovgani blokcheynga otkazish",
+    "рефанд звезд телеграм подарок заблокирован",
+    "дешевые звезды телеграм опасно",
+    "telegram stars refund мошенничество",
+    "купить nft подарок безопасно",
+    "списание звезд telegram"
+  ],
+  "related": [
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "egasi-yashirin-nft-sovgani-sotib-olish",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "soxta-sovga-havolasi-akkaunt-cheklovi"
+  ],
+  "sources": [
+    {
+      "url": "https://telegram.org/tos/stars",
+      "title": "Terms of Service for Telegram Stars"
+    },
+    {
+      "url": "https://core.telegram.org/bots/payments-stars",
+      "title": "Bot Payments API for Digital Goods and Services"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api",
+      "title": "Telegram Bot API"
+    },
+    {
+      "url": "https://telegram.org/tos/bot-developers",
+      "title": "Telegram Bot Platform Developer Terms of Service"
+    },
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    }
+  ],
+  "intent": "Do'stiga Stars yoki NFT sovg'a qilmoqchi bo'lgan o'zbek foydalanuvchi «Stars refund firibgarligi»dan keyin arzon Stars yoki shubhali NFT sovg'a olsa, sovg'a bloklanadimi va xavfsiz yo'lni qanday tanlash kerak degan savol bilan qidiradi."
+}
