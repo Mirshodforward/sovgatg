@@ -1,0 +1,70 @@
+{
+  "slug": "gram-earnings-qoldigi-tonnel-sovga-olish",
+  "date": "2026-11-09",
+  "reviewed": "2026-11-09",
+  "category": "nft",
+  "title": "Gram Earnings qoldig‘i bilan sovg‘a olish: Tonnel Cash Out arziydimi?",
+  "excerpt": "Tonnel Cash Out’ning 80% sharti faqat kanal postida bor va tasdiqlanmagan. Rasmiy yo‘l — Fragment orqali yechish. Sovg‘a shoshilinch bo‘lsa, uni so‘mda yuborgan xavfsizroq.",
+  "content": "## Gram qoldig‘ini to‘g‘ridan-to‘g‘ri do‘stga sovg‘aga sarflasa bo‘ladimi?\n\nRasmiy manbalarda kanal mukofoti balansini Telegram sovg‘asiga to‘g‘ridan-to‘g‘ri sarflash usuli ko‘rsatilmagan. Rasmiy yo‘l bitta: avval mukofotni Fragment orqali olasiz, keyin sovg‘ani alohida sotib olasiz.\n\n«Gram Earnings» — kanallarda tarqalgan nom, rasmiy atama emas. Telegram qoidalarida bu balans «Content Creator Rewards» va «Gram balance» deb ataladi. Kanalingizda Gram yig‘ilgan bo‘lsa, gap aynan shu balans haqida.\n\n[Kontent yaratuvchilar uchun shartlarga](https://telegram.org/tos/content-creator-rewards) ko‘ra, kanal egasi Gram va Star balansi asosida mukofot olishi mumkin. Barcha mukofotlarni Telegram nomidan Fragment qayta ishlaydi. [Fragment shartlarida](https://fragment.com/terms) yozilishicha, mukofot sukut bo‘yicha Gram ($GRAM) ko‘rinishida beriladi va Fragment’ga ulangan hamyonga yechiladi.\n\nMukofot miqdorini va uni yechish usulini Telegram o‘zi belgilaydi. Demak, qoldiqni «bir tugma bilan sovg‘aga aylantiradigan» tashqi xizmat Telegram jarayonining qismi emas. Unga balans o‘tkazish — alohida kompaniyaga ishonish degani.\n\nYana bir farq bor: Telegram sovg‘alari Gram hamyonidan emas, Stars hisobidan olinadi. Bu haqda [GRAM Wallet bo‘yicha maqolada](/blog/gram-wallet-telegram-faollashtirish/) batafsil yozilgan.\n\n## Qoldiqdan sovg‘agacha qanday yo‘llar bor?\n\nDo‘stga sovg‘a qilmoqchi bo‘lgan kanal egasi oldida uchta yo‘l bor. Ular kim boshqarishi, qancha qiymat saqlanishi va xato bo‘lganda nima bo‘lishi bilan farq qiladi.\n\n| Yo‘l | Kim boshqaradi | Qoldiqdan qancha qoladi | Xato bo‘lsa qaytadimi | Sovg‘a do‘stga qanday yetadi |\n|---|---|---|---|---|\n| Fragment → hamyon → marketpleys | Fragment, keyin siz tanlagan marketpleys | Kurs bo‘yicha hisoblanadi, marketpleys shartlari alohida | Yo‘q, yechim qaytarilmaydi | Marketpleys qoidasiga ko‘ra |\n| Tonnel Cash Out | Tonnel (uchinchi tomon) | Kanal postiga ko‘ra 80%, tasdiqlanmagan | Rasmiy ma’lumot yo‘q | Tonnel’ning o‘zida tekshirish kerak |\n| Qoldiqqa tegmasdan, SovgaTG | SovgaTG boti, to‘lov so‘mda | Qoldiq joyida qoladi | Yetkazilmasa, summa balansga to‘liq qaytadi | Do‘stning @username’i orqali |\n\nFragment yo‘lida mukofotning Gramdagi qiymati CoinMarketCap’dagi bozor kursi bo‘yicha hisoblanadi. Kurs taxminan har 5 daqiqada yangilanadi. Yechimni bekor qilib bo‘lmaydi.\n\nTonnel, Tonnel Marketplace va Tonnel Cash Out haqida rasmiy domenlarda ma’lumot topilmadi. Ularning ishonchliligi na tasdiqlangan, na rad etilgan.\n\nUchinchi yo‘lda Gram umuman ishlatilmaydi: sovg‘a so‘mda to‘lanadi, aniq narx botda ko‘rsatiladi.\n\n## Tonnel Cash Out sovg‘a uchun foydalimi: 80% nimani anglatadi?\n\nKanal postiga ko‘ra, Gram qoldig‘i Tonnel’dagi hisobingizga o‘tkaziladi va uning 80% i sizga qaytadi. Bonus sifatida «konfet» va’da qilingan.\n\n> Bu shartlar faqat Telegram kanal postida aytilgan, rasmiy manbalarda ular yo‘q. Joriy foiz va qoidalarni Tonnel’ning o‘zida o‘qing.\n\nPostdagi shart to‘g‘ri deb faraz qilsak, amalda nima bo‘lishini shartli misolda ko‘ramiz (valyutasiz):\n\n- Qoldiq — 100 birlik. Shart bajarilsa, Tonnel hisobida 80 birlik bo‘ladi.\n- Do‘stga olmoqchi bo‘lgan sovg‘a 90 birlik turadi. 80 birlik yetmaydi, farqni o‘zingiz qo‘shasiz.\n- Sovg‘a 70 birlik bo‘lsa, yetadi. Lekin 20 birlik o‘tkazishda ketadi, 10 birlik esa Tonnel hisobida qoladi.\n\nKichik qoldiqda 20% farq sezilmasligi mumkin, katta qoldiqda esa yo‘qotish ham katta bo‘ladi. Shuning uchun avval qoldiq miqdorini, keyin do‘stga olmoqchi bo‘lgan sovg‘a narxini taqqoslang.\n\n«Bonus konfet» nima ekani va qanchaga tengligi tasdiqlanmagan, uni hisob-kitobga qo‘shmang. Tonnel hisobidagi summani faqat Tonnel ichida sarflash mumkinmi yoki boshqa joyga chiqarsa ham bo‘ladimi — bu maqolada tasdiqlanmagan.\n\n## Qoldiqni uchinchi tomonga o‘tkazishda nimani yo‘qotish mumkin?\n\nTelegram qoidalarida kanal egasi bilishi kerak bo‘lgan bir nechta cheklov bor:\n\n- **Balans hali sizniki emas.** Kanalda ko‘rinadigan kutilayotgan balans yechish so‘ralib, muvaffaqiyatli o‘tkazilmaguncha sizga tegishli mablag‘ hisoblanmaydi. O‘tkazishda muammo chiqsa, Telegram’dan talab qilish asosi zaif.\n- **Faqat rasmiy ilovalar.** Kanal egasi majburiyatlari qatorida faqat rasmiy Telegram ilovalaridan foydalanish ham sanalgan. Akkauntga kirish so‘raydigan tashqi ilova bu talabga zid kelishi mumkin.\n- **Telegram tashqi hamyon va botlar uchun javob bermaydi.** Telegram daromad yechiladigan kripto hamyonlarni nazorat qilmaydi. [Telegram FAQ](https://telegram.org/faq) bo‘yicha esa uchinchi tomon botlari Telegram’ning asosiy interfeysi qismi emas.\n- **Yechim qaytarilmaydi.** Noto‘g‘ri hamyonga yuborilgan holatda ham mukofot qaytarilmaydi.\n\nSovg‘a qiluvchi uchun yana bir xavf bor: muammo do‘stingizga ham ta’sir qilishi mumkin. Noma’lum manbadan olingan sovg‘a yoki Stars keyinchalik qanday muammo berishi haqida [arzon Stars va shubhali NFT bo‘yicha maqolani](/blog/stars-refund-sxemasi-sovga-bloklanishi/) o‘qing.\n\n## Do‘stning tug‘ilgan kuniga ulgurasizmi?\n\nSovg‘a sanasi yaqin bo‘lsa, mukofot qachon ochilishini hisobga oling. Rasmiy shartlarga ko‘ra, Gram mukofotlari hisoblanganidan 2 kun keyin, Star mukofotlari esa 21 kundan keyin yechishga ochiladi.\n\nTelegram yechilmagan mukofotlarga muddat qo‘yishi va muddat o‘tgach ularni yo‘qotilgan deb hisoblashi mumkin. Shu bois qoldiqni oylab kutib qo‘ymang.\n\nKurs ham o‘zgaradi. Bugun sovg‘aga yetadigan qoldiq yechish kuni kamroq chiqishi mumkin.\n\nSana aniq bo‘lsa, boshqa yo‘l ham bor: sovg‘ani bugun so‘mda to‘lab, kerakli kun va daqiqaga [rejalashtirish](/rejalashtirilgan-sovga/). Narxga muddat ustamasi (0–12%) qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin. G‘oyalar uchun [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/) sahifasini ko‘ring.\n\n## Qoldiqni rasmiy yo‘l bilan NFT sovg‘a byudjetiga qanday aylantirish mumkin?\n\nGram qoldig‘ini baribir sovg‘aga sarflamoqchi bo‘lsangiz, rasmiy tartib quyidagicha:\n\n1. Fragment’ga Telegram akkaunt va TON hamyonni ulang. Bu qanday qilinishi [Fragment’ga hujjatsiz kirish](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/) maqolasida yozilgan.\n2. Mukofot yechishga ochilganini tekshiring: Gram uchun hisoblanganidan 2 kun o‘tishi kerak.\n3. Hamyon manzilini ikki marta tekshiring — yechim bekor qilinmaydi va qaytarilmaydi.\n4. Mukofotni hamyonga yeching. Ayrim davlatlarda Fragment o‘z ixtiyoriga ko‘ra stablecoin yoki boshqa to‘lov usulini taklif qilishi mumkin. O‘zbekiston uchun bu maqolada tasdiqlanmagan.\n5. Hamyondagi mablag‘ bilan marketpleysdan NFT gift oling va do‘stga yuboring. Qaysi bozor qanday ishlashi [NFT sovg‘a marketpleyslari farqi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/) maqolasida taqqoslangan.\n\nGram balansini Click, Payme yoki Paynet orqali so‘mga chiqarish haqida tekshirilgan ma’lumot yo‘q. Bunday va’da bergan xizmatga ehtiyot bo‘ling.\n\n## Qoldiqqa tegmasdan do‘stga sovg‘ani so‘mda qanday yuborish mumkin?\n\nSovg‘a bugun kerak bo‘lsa, Gram bilan ovora bo‘lmasdan uni so‘mda yuborish mumkin:\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)’ni oching.\n2. Sovg‘a turini tanlang: oddiy gift, [kolleksion NFT gift](/nft-gift-sotib-olish/), 1 kundan boshlanadigan [NFT sovg‘a ijarasi](/nft-sovga-ijara/), Premium yoki Stars.\n3. Do‘stning @username’ini kiriting. Xohlasangiz, anonim rejimni yoqing. Parol va SMS kod so‘ralmaydi.\n4. Narxni botda tekshiring va so‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi.\n5. Oddiy sovg‘a, Premium va Stars taxminan 10 soniyada yetadi. Yetkazilmasa, to‘langan summa balansga to‘liq qaytadi.\n\nGram qoldig‘ini esa keyinroq, shoshilmasdan rasmiy yo‘l bilan yechish mumkin. Bu ikki ish bir-biriga bog‘liq emas. SovgaTG — mustaqil xizmat: u Telegram nomidan ish ko‘rmaydi va u bilan bog‘liqlik da’vo qilmaydi. Savol tug‘ilsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport)’ga yozing.\n\n## Tonnel botini baribir sinab ko‘rsangiz, nimalarni tekshirish kerak?\n\n> Kanal posti rasmiy manba emas. Undagi foiz va bonuslarni fakt deb qabul qilmang.\n\n- Bot username’i «bot» bilan tugashini tekshiring. Boshqacha tugaydigan akkauntlar haqida [«ai» yoki «app» bilan tugaydigan bot](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/) maqolasida yozilgan.\n- Postdagi havolani bosish o‘rniga botni o‘zingiz qidirib toping va nomini harfma-harf solishtiring.\n- Hech qanday bot yoki saytga SMS kod va ikki bosqichli tekshiruv parolini bermang. Telegram kanal egasidan ikki bosqichli tekshiruvni yoqib qo‘yishni talab qiladi.\n- Avval kichik summa bilan sinang, butun qoldiqni birdaniga o‘tkazmang.\n- Tonnel shartlari — foiz, bonus, sovg‘alar ro‘yxati — o‘zgarishi mumkin. Joriy holatni botning o‘zida o‘qing va skrinshot qilib qo‘ying.",
+  "faq": [
+    {
+      "q": "Tonnel orqali olingan NFT sovg‘ani do‘stimga Telegram’da yuborsa bo‘ladimi?",
+      "a": "Bu Tonnel’ning ichki qoidalariga bog‘liq va rasmiy manbalarda tasdiqlanmagan. Sotib olishdan oldin sovg‘ani boshqa akkauntga o‘tkazish imkoni bor-yo‘qligini bot shartlarida o‘qing. Aniq bo‘lmasa, NFT giftni SovgaTG botida so‘mda olib, darhol do‘stning @username’iga yuborish mumkin."
+    },
+    {
+      "q": "Gram qoldig‘i bilan do‘stga Telegram Premium sovg‘a qilsa bo‘ladimi?",
+      "a": "Gram balansidan Premium sovg‘a qilish usuli rasmiy manbalarda ko‘rsatilmagan. Premium’ni 3, 6 yoki 12 oylik tarif bilan SovgaTG botida so‘mda, faqat @username orqali yuborish mumkin."
+    },
+    {
+      "q": "Tonnel Cash Out’dagi 20% farq qayerga ketadi?",
+      "a": "Kanal posti faqat qoldiqning 80% i qaytishini aytadi, qolgan qism nima uchun ushlanishi tushuntirilmagan. Bu xizmat haqimi yoki boshqa narsami — Tonnel’ning o‘zidan so‘rang."
+    },
+    {
+      "q": "Postdagi «bonus konfet» nima va uni sovg‘a qilsa bo‘ladimi?",
+      "a": "«Konfet» nima ekani, qiymati va uni boshqa odamga o‘tkazish mumkinligi hech qayerda tasdiqlanmagan. Sovg‘a byudjetini rejalashtirganda uni umuman hisobga olmang."
+    },
+    {
+      "q": "Qoldiq juda kichik bo‘lsa, uni yechishga arziydimi yoki sovg‘ani so‘mda olgan ma’qulmi?",
+      "a": "Kichik qoldiqda 20% farq sezilmasligi mumkin, lekin Fragment ulash va kutish vaqti baribir ketadi. Sovg‘a shoshilinch bo‘lsa, uni so‘mda yuboring. Qoldiqni esa muddati o‘tib ketmasidan keyinroq rasmiy yo‘l bilan yeching."
+    },
+    {
+      "q": "Tonnel hisobiga o‘tkazgan qoldiqni Telegram qaytarib bera oladimi?",
+      "a": "Bunga umid qilmang: Telegram qoidalariga ko‘ra mukofot yechimlari qaytarilmaydi, tashqi hamyon va uchinchi tomon botlari uchun Telegram javob bermaydi. Muammo chiqsa, uni faqat Tonnel’ning o‘zi bilan hal qilishga to‘g‘ri keladi."
+    }
+  ],
+  "keywords": [
+    "Gram Earnings qoldig‘i bilan sovg‘a olish",
+    "Tonnel Cash Out sovg‘a",
+    "Gram balans bilan NFT gift olish",
+    "kanal mukofotini sovg‘aga aylantirish",
+    "Tonnel Marketplace xavfsizmi",
+    "Gram qoldig‘ini yechish",
+    "Tonnel Cash Out 80%",
+    "Gram Earnings вывод остатка",
+    "Tonnel Cash Out подарок",
+    "купить NFT подарок на баланс Gram",
+    "Tonnel Marketplace отзывы",
+    "подарок другу Telegram за сумы"
+  ],
+  "related": [
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "gram-wallet-telegram-faollashtirish",
+    "stars-refund-sxemasi-sovga-bloklanishi",
+    "fragment-verifikatsiyasiz-akkaunt-ulash"
+  ],
+  "sources": [
+    {
+      "url": "https://telegram.org/tos/content-creator-rewards",
+      "title": "Terms of Service for Content Creators"
+    },
+    {
+      "url": "https://fragment.com/terms",
+      "title": "Terms of Service"
+    },
+    {
+      "url": "https://telegram.org/faq",
+      "title": "Telegram FAQ"
+    }
+  ],
+  "intent": "Gram Earnings balansida qoldig‘i bor va do‘stiga sovg‘a yoki NFT gift olmoqchi bo‘lgan Telegram foydalanuvchisi qoldiqni Tonnel Cash Out orqali sovg‘aga aylantirish foydalimi yoki xavflimi, buni «Gram Earnings qoldig‘i bilan sovg‘a olish» yoki «Tonnel Cash Out sovg‘a» so‘zlari bilan qidiradi."
+}
