@@ -1,0 +1,69 @@
+{
+  "slug": "telegram-desktop-wallet-ichki-hamyon-sovga",
+  "date": "2026-11-09",
+  "reviewed": "2026-11-09",
+  "category": "yangiliklar",
+  "title": "Telegram Desktop’da @wallet hamyon ochsa, do‘stga sovg‘a yuborsa bo‘ladimi?",
+  "excerpt": "Ha, yuborsa bo‘ladi. Desktop’dagi @wallet va hamyon oynasining sovg‘a, Stars yoki NFT yuborishga ta’siri rasman tasdiqlanmagan. Sovg‘a do‘stingizning @username’i orqali ketadi.",
+  "content": "## Desktop’da @wallet hamyon ochsa, do‘stga sovg‘a yuborish o‘zgaradimi?\n\nYo‘q, rejangizni o‘zgartirishga asos yo‘q. Hamyon oynasining sovg‘a, Stars yoki NFT yuborishga ta’sir qilishi biror rasmiy manbada tasdiqlanmagan. Telegram sovg‘asi oluvchining @username’iga yuboriladi, hamyon bu yo‘lda oraliq bosqich emas.\n\nOddiy gift, Premium obuna va Stars aniq bir akkauntga yetkaziladi. Shuning uchun sizga do‘stingizning to‘g‘ri yozilgan @username’i kerak. @wallet botini umuman ochmasangiz ham sovg‘a yubora olasiz.\n\nKompyuterda @wallet bosilganda bot o‘rniga ilova ichidagi hamyon ochilayotgani haqidagi gap Telegram kanallaridan birida tarqalgan. Bu kuzatuv. Telegram uni o‘z sahifalarida e’lon qilmagan. Uni «ba’zi akkauntlarda shunday bo‘lishi mumkin» darajasida qabul qiling.\n\nKimga, qaysi sovg‘ani va qachon yuborishni hal qilsangiz yetarli. Kompyuterda qaysi oyna ochilishi bu qarorga ta’sir qilmaydi.\n\n## Qaysi sovg‘a turiga hamyon kerak, qaysisiga yo‘q?\n\nQuyidagi jadvalda har bir sovg‘a turi uchun sizdan nima talab qilinishi ko‘rsatilgan. Barcha holatda asosiy shart bitta: oluvchining @username’i.\n\n| Sovg‘a turi | Sizdan nima kerak | Hamyon shartmi | Qayerdan boshlash |\n|---|---|---|---|\n| Oddiy gift | @username va so‘mda to‘lov | Yo‘q | [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) |\n| Telegram Premium (3, 6 yoki 12 oy) | Tarif va @username | Yo‘q | [Premium sovg‘a qilish](/telegram-premium-sovga/) |\n| Stars | Miqdor va @username | Yo‘q | [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) |\n| Kolleksion NFT gift | @username, sovg‘a Telegram ichida yetadi | Telegram ichida yuborish uchun yo‘q | [NFT gift sotib olish](/nft-gift-sotib-olish/) |\n| Rejalashtirilgan sovg‘a | @username, sana va daqiqa | Yo‘q | [Rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) |\n\nNFT sovg‘ada bitta farq bor. Do‘stga Telegram ichida yuborish uchun hamyon kerak emas. Hamyon sovg‘ani Telegram’dan tashqariga, blokcheynga chiqarish bosqichida kerak bo‘ladi. Bu farq [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida batafsil yozilgan.\n\nRejalashtirilgan sovg‘a uchun pulni bugun to‘laysiz. Sovg‘a esa siz tanlagan sana va daqiqada o‘zi yetadi. Narxga muddat ustamasi qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin.\n\n## Kompyuterdan do‘stga sovg‘ani qanday yuborasiz?\n\nTelegram Desktop’dan sovg‘a yuborish telefondagidan farq qilmaydi. Hamyon oynasiga kirish shart emas.\n\n1. Do‘stingizning @username’ini aniqlang. Uning profilini ochib, nomni nusxa oling. Bitta harf xato bo‘lsa, sovg‘a boshqa odamga ketishi mumkin.\n2. Telegram Desktop’da [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching. Qidiruvga nomni qo‘lda yozsangiz, uni harfma-harf solishtiring.\n3. Sovg‘a turini tanlang: oddiy gift, Premium, Stars, kolleksion NFT yoki rejalashtirilgan sovg‘a. Ismingiz ko‘rinmasin desangiz, anonim rejimni yoqing.\n4. Do‘stingizning @username’ini kiriting. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n5. Narxni botda tekshiring va so‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta, dollar hisobi va VPN kerak emas.\n6. Yetib borishini kuting. Gift, Premium va Stars taxminan 10 soniyada yetadi. Sovg‘a o‘z Stars balansingizdan yuborilsa, taxminan 1 daqiqa ketadi.\n\nSovg‘a biror sababga ko‘ra yetkazilmasa, to‘langan summa bot balansiga to‘liq qaytadi.\n\n## Rasmiy hujjatlar sovg‘a qiluvchiga nimani aytadi?\n\nKanal postida ikki da’vo bor. Birinchisi: Desktop’da @wallet bot o‘rniga ichki hamyonni ochadi. Ikkinchisi: bu boshqa qurilmalarga ham keladi. Ikkalasi ham rasmiy manbada tasdiqlanmagan.\n\nTON hujjatlarida esa [Telegram ichiga o‘rnatilgan hamyon](https://docs.ton.org/onboarding/wallet-apps/telegram) haqida aniq bir izoh bor. Telegram Desktop’dagi hamyon menyusi Telegram shu akkaunt uchun hamyonga kirishni yoqqandagina paydo bo‘ladi.\n\nSovg‘a qiluvchi uchun bundan amaliy xulosa chiqadi. Sizning kompyuteringizda hamyon ko‘rinib, do‘stingizda ko‘rinmasligi mumkin, yoki aksincha. Bu sovg‘a qabul qilishga to‘sqinlik qilishi haqida hujjatda hech narsa yozilmagan.\n\nIkkinchi fakt [havolalar haqidagi hujjatda](https://docs.ton.org/onboarding/wallet-apps/deep-links) keltirilgan. Hamyon havolalari boshqa ilova yoki brauzerdan bosilganda ham o‘rnatilgan Telegram ilovasidagi hamyonni ochadi. Saytdagi havolani bossangiz va Telegram o‘zi ochilib ketsa, bu hujjatda tasvirlangan xatti-harakat.\n\n> Hujjatlarda hamyonning sovg‘a yuborish bilan bog‘liqligi haqida gap yo‘q. Biz ham bunday bog‘liqlikni taxmin qilmaymiz.\n\nHamyon atrofidagi boshqa gaplar haqida [GRAM Wallet qanday faollashtiriladi](/blog/gram-wallet-telegram-faollashtirish/) va [Telegram beta yangiliklari: nimasi rasmiy](/blog/telegram-beta-profil-balans-qr-kod-sovga/) maqolalarida yozganmiz.\n\n## To‘lovdan oldin qaysi oynada ekaningizni qanday bilasiz?\n\nPul to‘lash tugmasini bosishdan oldin bir necha soniya tekshiruvga ajrating. Bu, ayniqsa, kompyuterda havola sizni kutilmagan joyga olib borganda foydali.\n\n- **Oyna turini aniqlang.** Oldingizda bot suhbati, mini-ilova yoki ilova ichidagi hamyon bo‘lishi mumkin. Qaysi biri ekanini bilmasdan to‘lovni davom ettirmang.\n- **Bot nomini solishtiring.** Sovg‘a buyurtma qiladigan botimiz @StarsPaymee_bot. Nomi o‘xshash, lekin oxiri boshqacha akkauntlarni qanday ajratish haqida [«ai» yoki «app» bilan tugaydigan bot haqiqiymi](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/) maqolasida o‘qing.\n- **Maxfiy ma’lumot so‘ralsa, to‘xtang.** Sovg‘a yuborish uchun maxfiy ibora, hamyon kalitlari yoki SMS kod kerak emas. Ularni so‘rayotgan oyna sovg‘a xizmati emas.\n- **Havola manzilini ko‘ring.** Brauzerdan kelgan havola Telegram’ni ochishi odatiy. Lekin «sovg‘a oldingiz» degan notanish havolalarga ehtiyot bo‘ling. Batafsil: [soxta sovg‘a havolasi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/).\n- **Shubha qolsa, so‘rang.** SovgaTG yordam xizmati: [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport).\n\n## Kompyuterdan sovg‘a yuborishda qanday xatolar uchraydi?\n\nDesktop’da xatolar ko‘pincha hamyon emas, shoshilish sababli bo‘ladi. Eng ko‘p uchraydiganlari:\n\n- **Username’ni xotiradan yozish.** Do‘stingiz nomini o‘zgartirgan bo‘lishi mumkin. Har gal profildan nusxa oling.\n- **Ism va username’ni chalkashtirish.** Profildagi ism (masalan, «Aziz») sovg‘a uchun yaramaydi. @ belgisi bilan boshlanadigan nom kerak.\n- **Anonim rejimni unutish.** Sovg‘a kimdanligi sir qolishi kerak bo‘lsa, rejimni to‘lovdan oldin tanlang.\n- **Qayta to‘lash.** Sovg‘a darhol ko‘rinmasa, ikkinchi marta to‘lamang. Avval bot balansini va buyurtma holatini tekshiring.\n- **Rejalashtirilgan sanani noto‘g‘ri belgilash.** Sana va daqiqani tasdiqlashdan oldin qayta ko‘ring. Kerak bo‘lsa, yetkazishdan oldin bekor qilish mumkin.\n\n## NFT sovg‘a qilganda hamyon qachon kerak bo‘ladi?\n\n[Telegram blogida](https://telegram.org/blog) «Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More» sarlavhali e’lon bor. Sarlavhadan ko‘rinadiki, kolleksion sovg‘alarni blokcheynga ko‘chirish mumkin. Sovg‘ani blokcheynga ko‘chirish oluvchining o‘z qarori, sovg‘a yuborish sharti emas.\n\nKolleksion NFT giftni so‘mda vositachi orqali olsangiz, o‘zingizga hamyon ochishingiz shart emas. Sovg‘a bozor narxi va xizmat haqi bilan sotib olinadi va do‘stingizning @username’iga yuboriladi: [NFT gift sotib olish](/nft-gift-sotib-olish/). Bir-ikki kunlik bayram yoki tadbir uchun NFT sovg‘ani 1 kundan boshlab [ijaraga olish](/nft-sovga-ijara/) ham mumkin.\n\nDo‘stingizning tug‘ilgan kuni yaqin bo‘lsa, g‘oyalar va tayyor variantlarni [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/) sahifasida topasiz. Sovg‘ani o‘sha kunning aniq daqiqasiga rejalashtirib qo‘yish ham mumkin.",
+  "faq": [
+    {
+      "q": "Kompyuterda @wallet hamyonni ochdi. Endi sovg‘ani faqat telefondan yuborishim kerakmi?",
+      "a": "Yo‘q, qaysi qurilmadan yuborishingiz farq qilmaydi. Desktop’da ham telefondagidek botni ochib, do‘stingizning @username’ini kiritasiz. Hamyon oynasi bunga xalal berishi haqida rasmiy ma’lumot yo‘q."
+    },
+    {
+      "q": "Do‘stimning kompyuterida hamyon menyusi yo‘q. Sovg‘am unga yetib boradimi?",
+      "a": "Menyu Telegram uni aynan shu akkaunt uchun yoqqandagina chiqadi, shuning uchun hammada ko‘rinmaydi. Sovg‘ani qabul qilish uchun hamyon talab qilinishi hech bir manbada yozilmagan."
+    },
+    {
+      "q": "Do‘stimga Stars olib berish uchun @wallet botiga kirishim kerakmi?",
+      "a": "Kerak emas. Stars’ni @StarsPaymee_bot’da so‘mda to‘lab, to‘g‘ridan-to‘g‘ri do‘stingizning @username’iga yuborasiz."
+    },
+    {
+      "q": "NFT sovg‘a uchun o‘zimda ichki hamyonni yoqishim shartmi?",
+      "a": "Telegram ichida yuborish uchun shart emas. Hamyon sovg‘ani blokcheynga ko‘chirmoqchi bo‘lgan odamga kerak bo‘ladi, bu odatda sovg‘ani olgan do‘stingizning o‘zi."
+    },
+    {
+      "q": "Saytdagi havolani bosgandim, brauzer o‘zi Telegram’ni ochib yubordi. Bu xavflimi?",
+      "a": "TON hujjatlariga ko‘ra, o‘rnatilgan hamyon havolalari brauzerdan bosilganda ham Telegram ilovasini ochadi, ya’ni bu kutilgan holat. Ochilgan oynada kalit, maxfiy ibora yoki kod kiritmang."
+    },
+    {
+      "q": "Kimdir SovgaTG nomidan hamyon kalitini so‘rasa nima qilaman?",
+      "a": "Hech narsa yubormang: buyurtma uchun faqat oluvchining @username’i kerak. Bunday holatni @StarsPaymeeSupport’ga xabar qiling."
+    }
+  ],
+  "keywords": [
+    "telegram desktop @wallet ichki hamyon",
+    "telegram desktop wallet sovga",
+    "telegram ichki hamyon sovga yuborish",
+    "@wallet bot ochilmayapti",
+    "telegram hamyon desktop",
+    "telegram sovga yuborish kompyuterdan",
+    "telegram desktop кошелек wallet",
+    "встроенный кошелек telegram desktop",
+    "@wallet telegram desktop подарок",
+    "как отправить подарок telegram с компьютера",
+    "telegram wallet бот не открывается"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "gram-wallet-telegram-faollashtirish",
+    "telegram-beta-profil-balans-qr-kod-sovga",
+    "bot-username-ai-app-sovga-boti-haqiqiymi"
+  ],
+  "sources": [
+    {
+      "url": "https://docs.ton.org/onboarding/wallet-apps/telegram",
+      "title": "Telegram Money — the native Gram wallet"
+    },
+    {
+      "url": "https://docs.ton.org/onboarding/wallet-apps/deep-links",
+      "title": "Deep links"
+    },
+    {
+      "url": "https://telegram.org/blog",
+      "title": "Telegram Blog"
+    }
+  ],
+  "intent": "Telegram Desktop'dan do'stiga sovg'a, Stars yoki NFT yubormoqchi bo'lgan foydalanuvchi @wallet bosilganda bot o'rniga ichki hamyon ochilayotganini ko'rib, bu sovg'a yuborishga ta'sir qiladimi, deb «telegram desktop @wallet ichki hamyon sovga» so'zi bilan qidiradi."
+}
