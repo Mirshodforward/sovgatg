@@ -1,0 +1,70 @@
+{
+  "slug": "wallet-walt-boldi-sovga-yuborish",
+  "date": "2026-11-09",
+  "reviewed": "2026-11-09",
+  "category": "yangiliklar",
+  "title": "Wallet o‘rniga Walt: do‘stga sovg‘a, Stars yoki NFT yuborish o‘zgaradimi?",
+  "excerpt": "Yo‘q, o‘zgarmaydi: gift, Stars, Premium va NFT sovg‘a do‘stingizning @username’i orqali yuboriladi, hamyon kerak emas. Wallet’ning Walt bo‘lgani esa rasman tasdiqlanmagan.",
+  "content": "## «Walt» haqidagi xabar sovg‘a yuborishga ta’sir qiladimi?\n\nTa’sir qilmaydi. Telegram sovg‘asi, Stars va Premium oluvchining @username’iga yuboriladi. Bunda hamyon ilovasi ishtirok etmaydi. Wallet nomini o‘zgartirsa ham, menyudan yo‘qolsa ham, sovg‘a yuborish tartibi avvalgidek qoladi.\n\nMasalan, do‘stingizning tug‘ilgan kuni ertaga. Siz hamyon yangiliklarini kutmasdan, sovg‘ani bugun odatiy yo‘l bilan yuborasiz. Hamyon qaysi holatda haqiqatan kerak bo‘lishini [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida alohida yozganmiz.\n\n## «Wallet becomes Walt» xabari qayerdan chiqdi?\n\nXabar Telegram kanallaridan biridagi postdan tarqaldi. Muallif ikki narsani kuzatganini aytgan:\n\n- Wallet Telegram sozlamalarida ko‘rinmay qolgan;\n- hamyon saytida «Wallet becomes Walt» yozuvi va yangi logotip chiqqan.\n\nBu bir kanal muallifining kuzatuvi, Telegram bayonoti emas.\n\n> telegram.org va ton.org hujjatlarida nom o‘zgarishi, yangi logotip yoki Wallet’ning sozlamalardan olib tashlanishi haqida e’lon topilmadi. O‘zgarish kuchga kiradigan rasmiy sana ham yo‘q.\n\nTelegram mahsulotlaridagi o‘zgarishlarni [Telegram blogi](https://telegram.org/blog)dan kuzatgan ma’qul. Beta versiyadagi yangilikni kanal mish-mishidan qanday ajratishni [Telegram beta yangiliklari: nimasi rasmiy](/blog/telegram-beta-profil-balans-qr-kod-sovga/) maqolasida tushuntirganmiz.\n\n## Qaysi sovg‘aga hamyon kerak, qaysi biriga yo‘q?\n\nJadval SovgaTG orqali yuboriladigan sovg‘alar uchun tuzilgan. Barcha holatda oluvchidan faqat @username kerak.\n\n| Sovg‘a turi | Oluvchidan nima kerak | To‘lov | Hamyon kerakmi |\n|---|---|---|---|\n| Oddiy gift | @username | So‘mda: sovg‘a qiymati + xizmat haqi | Yo‘q |\n| Anonim gift | @username | So‘mda, oddiy gift kabi | Yo‘q |\n| Stars | @username | So‘mda: tarif narxi + xizmat haqi | Yo‘q |\n| Premium (3, 6, 12 oy) | @username | So‘mda: tarif narxi + xizmat haqi | Yo‘q |\n| Kolleksion NFT gift | @username | So‘mda: bozor narxi + xizmat haqi | Yuborish uchun yo‘q |\n| NFT ijarasi (1 kundan) | @username | So‘mda, narxi botda | Yo‘q |\n| Rejalashtirilgan sovg‘a | @username | Bugun to‘lanadi, muddat ustamasi 0–12% | Yo‘q |\n\nAniq narx sovg‘a turi va tarifga bog‘liq, uni botda tekshiring.\n\nNFT sovg‘ada bitta istisno bor. Do‘stingiz keyinroq sovg‘ani Telegram’dan blokcheynga chiqarmoqchi bo‘lsa, shu bosqichda unga TON hamyon kerak bo‘lishi mumkin. Sovg‘ani qabul qilish uchun hamyon talab qilinmaydi.\n\nHar bir tur bo‘yicha batafsil: [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/), [NFT gift sotib olish](/nft-gift-sotib-olish/), [Telegram Premium sovg‘a qilish](/telegram-premium-sovga/).\n\n## Hamyonsiz, so‘mda sovg‘a qanday yuboriladi?\n\nWallet, Walt yoki boshqa hamyonni ochmasdan sovg‘a yuborish tartibi:\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)’ni oching.\n2. Sovg‘a turini tanlang: gift, Stars, Premium yoki NFT.\n3. Do‘stingizning @username’ini kiriting va qayta tekshiring. Bitta harf xato bo‘lsa, sovg‘a boshqa odamga ketishi mumkin.\n4. Ismingiz ko‘rinmasin desangiz, anonim rejimni yoqing.\n5. Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali so‘mda to‘lang.\n6. Sovg‘a yetib kelganini do‘stingizdan so‘rang.\n\nGift, Stars va Premium taxminan 10 soniyada yetadi. Sovg‘ani o‘z Stars balansingizdan yuborishni tanlasangiz, bot uni akkauntingizdan jo‘natadi. Bu taxminan 1 daqiqa oladi, xizmat haqi 1 000 so‘mdan boshlanadi.\n\nBot ro‘yxatdan o‘tishni, parol yoki SMS kodni so‘ramaydi. Xalqaro karta, dollar hisobi va VPN ham kerak emas. Sovg‘a yetkazilmasa, to‘langan summa bot balansiga to‘liq qaytariladi.\n\n## Menyuda hamyonni ko‘rmasangiz, bu nimani anglatadi?\n\nTelegram atrofida «hamyon» deb ataladigan bir nechta narsa bor. Ularni chalkashtirmaslik uchun ton.org hujjatlaridagi faktlarni keltiramiz:\n\n- Telegram’ning ichki hamyoni «Telegram Money» deb ataladi va Gram uchun mo‘ljallangan ([ton.org hujjati](https://docs.ton.org/onboarding/wallet-apps/telegram)).\n- Telegram Money TON asosiy tarmog‘idagi hamyon. U aktivlarni qabul qiladi va TON Connect orqali dApp’larga ulanadi.\n- Telegram Desktop’da bu hamyon asosiy menyudagi «Money» bandida turadi. Band faqat Telegram akkauntingiz uchun hamyonni yoqqan bo‘lsa chiqadi.\n- tg://ton havolasi Telegram Money’ni ochmaydi. U kanal monetizatsiyasiga bog‘liq alohida TON balansi ekranini ochadi ([deep link hujjati](https://docs.ton.org/onboarding/wallet-apps/deep-links)).\n\nHujjatlarda «Walt» so‘zi uchramaydi. Telegram Money bilan @wallet yoki «Walt» bitta mahsulotmi yoki alohidami, bu tasdiqlanmagan. Shuning uchun ularni bir narsa deb hisoblamang.\n\nSovg‘a qiluvchi uchun muhimi shu: menyuda «Money» ham, Wallet ham bo‘lmasa, @username orqali sovg‘a yuborishga bu to‘sqinlik qilmaydi. Desktop’dagi @wallet haqida [Telegram Desktop’da @wallet va sovg‘a](/blog/telegram-desktop-wallet-ichki-hamyon-sovga/) maqolasida, GRAM Wallet mish-mishlari haqida esa [GRAM Wallet’ni faollashtirish](/blog/gram-wallet-telegram-faollashtirish/) maqolasida yozganmiz.\n\n## Sovg‘adan oldin hamyondagi Gram yoki TON’ni ko‘chirish kerakmi?\n\nSovg‘a yuborish uchun bunga ehtiyoj yo‘q. Gift va Stars hamyondagi mablag‘ga tegmasdan yuboriladi. Telegram Money egalari uchun ton.org quyidagilarni yozadi:\n\n**Tiklash iborasi.** Bu ibora hamyon va undagi mablag‘ ustidan nazorat beradi. Uni xavfsiz joyda saqlang va ochiq matnda hech kimga yubormang.\n\n**Kalitlar.** Bulutli zaxirani o‘chirish yoki manzilni o‘zgartirmasdan imzo kalitini almashtirish mumkin. Joriy tiklash iborasi bilan hamyonni boshqa mos ilovaga o‘tkazsa ham bo‘ladi.\n\n**Bulutli zaxira.** Shifrlangan zaxirada kalit uch qismga bo‘linadi va uch qit’adagi ma’lumot markazlarida saqlanadi.\n\n**Kontrakt.** Hamyon WalletTg smart-kontraktida ishlaydi. Uni yangilash uchun validatorlar umumiy vaznining 75% dan ortig‘i rozi bo‘lishi kerak. Bu tasdiqni Telegram ham, boshqa hech kim ham chetlab o‘ta olmaydi. Egasi yangilanishlardan voz kecha olmaydi ([WalletTg hujjati](https://docs.ton.org/contracts/standard/wallets/telegram/overview)).\n\n> Bu faktlar faqat Telegram Money’ga tegishli. Nom o‘zgarsa, @wallet yoki «Walt» foydalanuvchilarining mablag‘i bilan nima bo‘lishi rasman aytilmagan.\n\n## Walt nomidan kelgan «sovg‘a» xabarini qanday tanish mumkin?\n\nNom o‘zgarishi haqidagi mish-mish firibgarlar uchun qulay bahona bo‘ladi. Mana shunday xabarlarga ishonmang:\n\n- «Walt’ga o‘tish uchun hamyonni tasdiqlang» degan havola;\n- «Sizga sovg‘a keldi, uni yangi hamyonga olish uchun bosing» degan xabar;\n- tiklash iborasi, parol yoki SMS kod so‘ralgan har qanday so‘rov;\n- «Walt yordam xizmati» nomidan kelgan shaxsiy xabar.\n\nSovg‘a yuborish ham, qabul qilish ham tiklash iborasi, parol yoki kod talab qilmaydi. SovgaTG ham sizdan faqat oluvchining @username’ini so‘raydi.\n\nBotga pul to‘lashdan oldin uning username’i «bot» bilan tugashini tekshiring. Buning sababini [sovg‘a boti haqiqiymi](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/) maqolasida yozganmiz. Shubhali «sovg‘a» havolasini ochib qo‘ygan bo‘lsangiz, [soxta sovg‘a havolasi va akkaunt cheklovi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/) maqolasini o‘qing.\n\n## Bayram yaqin bo‘lsa, hozir yuborasizmi yoki e’lonni kutasizmi?\n\nKutishga hojat yo‘q. Sovg‘a yuborish yo‘li hamyonning nomiga ham, menyuda ko‘rinishiga ham bog‘liq emas.\n\nSovg‘a aniq kun va soatda yetishi kerak bo‘lsa, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/)dan foydalaning. To‘lovni bugun qilasiz, sovg‘a esa belgilangan daqiqada o‘zi yetkaziladi. Narxga muddat ustamasi (0–12%) qo‘shiladi. Reja o‘zgarsa, buyurtmani yetkazishdan oldin bekor qilib, pulni qaytarib olasiz.\n\nBir kunlik bayram uchun qimmat kolleksion sovg‘ani sotib olish shart emas. NFT sovg‘ani 1 kundan boshlab [ijaraga olish](/nft-sovga-ijara/) mumkin. Tug‘ilgan kunga g‘oya kerak bo‘lsa, [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/) sahifasini ko‘ring.\n\nWallet va «Walt» bo‘yicha rasmiy yangilik chiqsa, uni telegram.org’da va [@StarsPaymee](https://t.me/StarsPaymee) kanalida kuzatishingiz mumkin. Savollaringizni [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport)’ga yozing.",
+  "faq": [
+    {
+      "q": "Walt chiqsa, do‘stimga avval yuborgan sovg‘alarim yo‘qolib ketmaydimi?",
+      "a": "Gift, Stars va Premium do‘stingizning Telegram akkauntiga tushadi, hamyon ilovasiga emas. Hamyon nomining o‘zgarishi sovg‘alarga qanday ta’sir qilishi haqida rasmiy ma’lumot yo‘q, lekin ular hamyonga bog‘lab yuborilmagan."
+    },
+    {
+      "q": "Do‘stimda TON hamyon yo‘q, unga NFT sovg‘a qilsam bo‘ladimi?",
+      "a": "Bo‘ladi: kolleksion sovg‘a uning @username’iga keladi. Hamyon unga faqat sovg‘ani keyinroq blokcheynga chiqarmoqchi bo‘lsa kerak bo‘lishi mumkin."
+    },
+    {
+      "q": "Menda na Wallet, na Money bandi bor. Sovg‘a yubora olamanmi?",
+      "a": "Yubora olasiz. «Money» bandi faqat Telegram akkauntingiz uchun hamyonni yoqqanda chiqadi, sovg‘a yuborish esa bu bandga bog‘liq emas."
+    },
+    {
+      "q": "«Walt» nomidan yozib, tiklash iborasini so‘rashsa nima qilaman?",
+      "a": "Javob bermang, havolani ochmang va yozishmani bloklang. Bu iborani bilgan odam hamyonni boshqaradi, sovg‘a uchun esa u hech qachon so‘ralmaydi."
+    },
+    {
+      "q": "t.me/sendgrams havolasi orqali sovg‘a jo‘natsa bo‘ladimi?",
+      "a": "ton.org bu havolani hamyon deep linklari qatorida keltiradi, Telegram gift yuborish usuli sifatida emas. Begona odam yuborgan bunday havolada oluvchi va summani tasdiqlashdan oldin diqqat bilan tekshiring."
+    },
+    {
+      "q": "Ismimni ko‘rsatmay, so‘mda sovg‘a qilsam bo‘ladimi?",
+      "a": "Ha. @StarsPaymee_bot’da anonim rejimni yoqasiz va Uzcard, Humo, Click, Payme, Paynet yoki bot balansi bilan to‘laysiz. Do‘stingiz kimdan kelganini ko‘rmaydi."
+    }
+  ],
+  "keywords": [
+    "wallet walt sovga yuborish",
+    "telegram wallet walt",
+    "walt telegram hamyon",
+    "wallet sozlamalardan yoqoldi",
+    "telegram money sovga",
+    "hamyonsiz telegram sovga yuborish",
+    "telegram sovga username orqali",
+    "wallet becomes walt",
+    "кошелек wallet стал walt",
+    "telegram wallet пропал из настроек",
+    "как отправить подарок в telegram без кошелька",
+    "telegram money кошелек"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "telegram-desktop-wallet-ichki-hamyon-sovga",
+    "gram-wallet-telegram-faollashtirish",
+    "telegram-beta-profil-balans-qr-kod-sovga"
+  ],
+  "sources": [
+    {
+      "url": "https://docs.ton.org/onboarding/wallet-apps/telegram",
+      "title": "Telegram Money — the native Gram wallet"
+    },
+    {
+      "url": "https://docs.ton.org/contracts/standard/wallets/telegram/overview",
+      "title": "WalletTg: Telegram wallet contract"
+    },
+    {
+      "url": "https://docs.ton.org/onboarding/wallet-apps/deep-links",
+      "title": "Deep links"
+    }
+  ],
+  "intent": "Telegram sozlamalarida Wallet o‘rniga Walt haqida eshitgan va do‘stiga sovg‘a, Stars yoki NFT yubormoqchi bo‘lgan o‘zbek foydalanuvchi «Wallet Walt sovg‘a yuborish» deb qidirib, bu o‘zgarish sovg‘a qilishga ta’sir qiladimi va endi qanday yuborishni bilmoqchi."
+}
