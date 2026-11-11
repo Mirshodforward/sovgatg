@@ -1,0 +1,73 @@
+{
+  "slug": "wallet-fragment-ulanish-nft-sovga-xavfi",
+  "date": "2026-11-11",
+  "reviewed": "2026-11-11",
+  "category": "xavfsizlik",
+  "title": "Telegram Wallet Fragment ulanishi: NFT sovg‘alar o‘g‘irlanishi mumkinmi?",
+  "excerpt": "Sinxronlash tufayli o‘g‘irlik xavfi rasman tasdiqlanmagan. Telegram ichidagi NFT sovg‘a hamyon ulanishiga bog‘liq emas, blokcheyndagisini esa TON hamyon kalitlari himoya qiladi.",
+  "content": "## Hamyon ulanishi sinxronlansa, NFT sovg‘alaringizga xavf tug‘iladimi?\n\nUlanish sinxronlangani uchun sovg‘alar o‘g‘irlanishi rasman tasdiqlanmagan. Xavf darajasi sovg‘a qayerda turganiga bog‘liq. Telegram akkauntingiz ichidagi kolleksion sovg‘a hamyon ulanishiga bog‘lanmagan. TON blokcheyniga NFT qilib chiqarilgan sovg‘a esa hamyonda turadi va uni hamyon kalitlari himoya qiladi. Bu [Telegram Gifts hujjatlarida](https://core.telegram.org/api/gifts) va [Fragment shartlarida](https://fragment.com/terms) yozilgan.\n\nSavol Telegram kanallaridan biridagi postdan keyin chiqdi. Post muallifining yozishicha, yangi Telegram Wallet Fragment kabi saytlarga ulanishni telefon va kompyuter o‘rtasida sinxronlaydi. Uning fikricha, firibgar bitta sessiyani qo‘lga kiritsa, hammasiga kirib oladi.\n\nIkkala da’vo ham hozircha faqat shu postda bor. telegram.org, core.telegram.org va fragment.com’da sinxronlash funksiyasi haqida bayonot topilmadi. Bitta sessiya orqali hamma narsaga kirish mumkinligi haqida ham rasmiy gap yo‘q.\n\nYangi hamyon funksiyasini faqat [Telegram blogi](https://telegram.org/blog), [core.telegram.org](https://core.telegram.org/api/gifts) yoki [fragment.com](https://fragment.com/terms) e’lon qilsa, fakt deb qabul qiling. Skrinshot yoki «yaqinda chiqadi» degan gap dalil bo‘lmaydi. Hamyon atrofida bunday mish-mishlar oldin ham bo‘lgan: [Wallet o‘rniga Walt](/blog/wallet-walt-boldi-sovga-yuborish/).\n\n## NFT sovg‘a qayerda turadi: Telegram profilida yoki TON hamyonida?\n\nBitta kolleksion sovg‘a uch xil holatda bo‘lishi mumkin. Har birini boshqa narsa himoya qiladi.\n\n| Holat | Sovg‘a qayerda | Egalik kimda | Nima himoya qiladi |\n|---|---|---|---|\n| Telegram ichidagi kolleksion sovg‘a | Telegram akkauntida | Akkaunt egasida | Telegram akkauntining xavfsizligi |\n| Blokcheynga chiqarilgan sovg‘a | TON blokcheynida, NFT ko‘rinishida | TON hamyon egasida | Hamyon kalitlari va zaxira nusxa |\n| Profilga bog‘langan NFT sovg‘a | Profilda ko‘rinadi, lekin TON’da turadi | TON hamyonda qoladi | Hamyon kalitlari |\n\n**Telegram ichidagi sovg‘a.** Kolleksion sovg‘ani boshqa foydalanuvchiga o‘tkazish mumkin ([core.telegram.org](https://core.telegram.org/api/gifts)). Bunda Fragment’ga hamyon ulanmaydi, shuning uchun hamyon sessiyasi haqidagi xavotir bu holatga tegishli emas.\n\n**Blokcheynga chiqarilgan sovg‘a.** Kolleksion sovg‘ani TON blokcheynida NFT’ga aylantirish mumkin. Shunda Telegram Fragment’da import qilish uchun havola beradi ([core.telegram.org](https://core.telegram.org/api/gifts)). Fragment’da olingan kolleksiyalar yangi egasining TON hamyoniga bog‘lanadi ([fragment.com/terms](https://fragment.com/terms)).\n\n**Profilga bog‘langan sovg‘a.** TON’dagi sovg‘ani Telegram profiliga egalikni o‘tkazmasdan bog‘lash mumkin. Sovg‘a profilda ko‘rinadi, lekin egalik hamyonda qoladi ([core.telegram.org](https://core.telegram.org/api/gifts)).\n\nKanal postidagi xavotir faqat oxirgi ikki holatga tegishli bo‘lishi mumkin, chunki faqat ularda hamyon Fragment’ga ulanadi.\n\n## Blokcheyndagi NFT sovg‘a yo‘qolsa, uni kim qaytaradi?\n\nHech kim. Hamyon sessiyalari o‘g‘irlangani haqida rasmiy ma’lumot topilmadi. Begona ulanish orqali aynan nima qilish mumkinligi ham bu maqolada tasdiqlanmagan. Lekin [Fragment foydalanish shartlarida](https://fragment.com/terms) blokcheyndagi aktivlar uchun umumiy qoidalar yozilgan:\n\n- TON blokcheynidagi tranzaksiyani orqaga qaytarib bo‘lmaydi. NFT sovg‘a boshqa manzilga ketgan bo‘lsa, o‘tkazmani bekor qilib bo‘lmaydi.\n- Kirish ma’lumotlari yo‘qolsa, Fragment hamyonni ham, undagi kolleksiyalarni ham tiklay olmaydi.\n- Kirish ma’lumotlari, qurilma va zaxira nusxalarni saqlash uchun faqat foydalanuvchi javob beradi.\n\nYa’ni blokcheynga chiqarilgan qimmat sovg‘ani yo‘qotsangiz, unga murojaat qiladigan «qo‘llab-quvvatlash markazi» yo‘q. Kim «qaytarib beramiz» desa, u yordam taklif qilmayapti: sizdan pul yoki kalit olmoqchi.\n\n> Maxfiy so‘zlar (seed phrase) va hamyon kalitlari hech qanday saytga kiritilmaydi va hech kimga aytilmaydi. «Sinxronlash uchun», «tekshiruv uchun» yoki «yordam xizmatidan» degan bahonalar ham bundan istisno emas.\n\n## Sovg‘ani blokcheynga chiqarishdan oldin nimani tekshirish kerak?\n\nSovg‘ani hamyonga o‘tkazishga qaror qilgan bo‘lsangiz, shoshilmang. Mana bu tartib xato qilish ehtimolini kamaytiradi:\n\n1. **2FA parolini tayyorlang.** Sovg‘ani blokcheynga chiqarish uchun Telegram’dagi amaldagi ikki bosqichli parol kerak ([core.telegram.org](https://core.telegram.org/api/gifts)). Parol yoqilmagan bo‘lsa, avval uni o‘rnating va eslab qoling.\n2. **Sanani tekshiring.** Ba’zi sovg‘alarni faqat belgilangan sanadan keyin chiqarish mumkin ([core.telegram.org](https://core.telegram.org/api/gifts)). Chiqarib bo‘lmayotgan bo‘lsa, sababi shu bo‘lishi mumkin.\n3. **Faqat o‘z hamyoningizni ulang.** Fragment’ga kalitlari faqat sizda bo‘lgan hamyonni ulang. To‘g‘ri hamyon ulanganini tekshirish foydalanuvchining vazifasi ([fragment.com/terms](https://fragment.com/terms)). Do‘stingiz bergan yoki «vaqtincha» deb berilgan hamyonni ishlatmang.\n4. **Import havolasini tekshiring.** Telegram beradigan havola Fragment’ga olib borishi kerak. Brauzerda fragment.com’ga o‘xshash, lekin boshqa domen ochilsa, to‘xtang.\n5. **Har bir qurilmani alohida tekshiring.** Sinxronlash tasdiqlanmagan. Shuning uchun kompyuterda tugatgach, telefondagi hamyonni ham alohida ko‘rib chiqing. Bir qurilmada yopilgan ulanish ikkinchisida ham yopildi, deb o‘ylamang.\n\nQimmat sovg‘alarni himoya qilish bo‘yicha batafsilroq: [+888 akkauntda NFT sovg‘a va Stars’ni himoyalash](/blog/888-akkaunt-nft-sovgalarni-himoya-qilish/). Fragment’ga kirish va akkauntlarni almashtirish tartibi esa [bu qo‘llanmada](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/).\n\n## Do‘stga NFT sovg‘a qilish uchun hamyonni Fragment’ga ulash shartmi?\n\nYo‘q. Kolleksion sovg‘ani boshqa foydalanuvchiga Telegram ichida o‘tkazish mumkin. Sovg‘a qiluvchiga oluvchining @username’i yetarli. Batafsil: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\nSovg‘a qilinadigan NFT o‘zingizda bo‘lmasa, uni SovgaTG orqali olishingiz mumkin. Kolleksion sovg‘a bozor narxi va xizmat haqi evaziga sotib olinadi. To‘lov so‘mda qilinadi: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Hamyon ulash, ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi. Aniq narxni [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botida tekshiring. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytariladi.\n\nTug‘ilgan kun yoki bir martalik tadbir uchun sovg‘ani sotib olish shart emas: NFT sovg‘ani 1 kundan boshlab ijaraga olish mumkin. Batafsil: [NFT gift sotib olish](/nft-gift-sotib-olish/) va [NFT sovg‘a ijarasi](/nft-sovga-ijara/).\n\nSovg‘ani keyin blokcheynga chiqarish yoki chiqarmaslikni do‘stingizning o‘zi hal qiladi. Agar u chiqarmoqchi bo‘lsa, yuqoridagi tekshiruv qadamlari unga ham tegishli.\n\n## NFT sovg‘a sotish yoki almashishda qaysi takliflar shubhali?\n\nYangi funksiya haqidagi mish-mish firibgarga qulay bahona beradi, chunki odamlar hali tafsilotlarni bilmaydi. Kolleksion sovg‘a sotayotgan, almashayotgan yoki sovg‘a qilish uchun izlayotgan bo‘lsangiz, bunday takliflardan ehtiyot bo‘ling:\n\n- **«Avval NFT’ni yuboring, keyin to‘layman».** Blokcheyndagi o‘tkazma qaytmaydi. Pul kelmasa, sovg‘a ham qaytmaydi.\n- **«Sovg‘ani baholash uchun hamyoningizni saytimizga ulang».** Narxni bilish uchun hamyonni notanish saytga ulash shart emas. Ulash so‘ralayotgan sahifa fragment.com bo‘lmasa, to‘xtang.\n- **«Yangi Wallet’ga o‘tish uchun kodni yuboring».** Sinxronlash yoki yangilanish bahonasida Telegram kirish kodi, 2FA paroli yoki maxfiy so‘zlar so‘raladi. 2FA parol faqat Telegram ilovasining o‘zida, sovg‘ani chiqarishda kiritiladi.\n- **Username’i «bot» bilan tugamaydigan «sovg‘a boti».** Nega bu muhim: [«ai», «app» yoki «agent» bilan tugaydigan sovg‘a boti](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/).\n- **Shoshiltirish.** «Taklif 10 daqiqa amal qiladi» degan bosim o‘ylashga vaqt bermaslik uchun ishlatiladi.\n\nSovg‘a haqidagi suhbatda shulardan biri chiqsa, hech narsa yubormang va suhbatni to‘xtating. SovgaTG buyurtma uchun faqat oluvchining @username’ini so‘raydi.\n\n## Sovg‘ani Telegram ichida qoldirgan ma’qulmi yoki blokcheynga chiqargan?\n\nBu sinxronlash haqidagi xabarga emas, sizning vaziyatingizga bog‘liq.\n\n**Blokcheynga chiqarishning foydasi.** Telegram blogiga ko‘ra, blokcheyndagi sovg‘a akkauntga kirish yo‘qolsa yoki akkaunt o‘chirilsa ham egasida qoladi. Sovg‘ani TON blokcheyni orqali o‘tkazish va auksionga qo‘yish ham mumkin ([telegram.org](https://telegram.org/blog/wear-gifts-blockchain-and-more)).\n\n**Blokcheynga chiqarishning zimmangizga yuklaydigan mas’uliyati.** Endi hamma narsa kalitlarga bog‘liq: ular yo‘qolsa, Fragment tiklay olmaydi, xato o‘tkazma esa qaytmaydi.\n\n**Telegram ichida qoldirishning qulayligi.** Hamyon kerak emas, sovg‘ani boshqa foydalanuvchiga ilova ichida o‘tkazish mumkin. Bunda asosiy himoya — akkauntingiz xavfsizligi.\n\nSovg‘a qiluvchi uchun amaliy xulosa oddiy. Do‘stingizga sovg‘ani hamyonsiz, uning @username’i orqali yuboring. O‘zingizdagi blokcheyn sovg‘alarini kalitlar bilan birga ehtiyot qiling. Sinxronlash rasman tasdiqlanmaguncha telefon va kompyuterdagi hamyon ulanishlarini alohida kuzatib boring.",
+  "faq": [
+    {
+      "q": "Do‘stimga NFT sovg‘a yuborsam, u hamyonini Fragment’ga ulashi kerakmi?",
+      "a": "Yo‘q, sovg‘a do‘stingizning Telegram akkauntiga keladi va uni olish uchun hamyon kerak emas. Hamyon faqat do‘stingiz keyinroq sovg‘ani blokcheynga chiqarmoqchi bo‘lsa kerak bo‘ladi."
+    },
+    {
+      "q": "Telegram akkauntimga kira olmay qolsam, blokcheyndagi NFT sovg‘am ham ketadimi?",
+      "a": "Ketmaydi: Telegram blogida yozilishicha, blokcheynga chiqarilgan sovg‘a akkaunt yo‘qolganda yoki o‘chirilganda ham egasida qoladi. Uning taqdiri endi hamyon kalitlarini saqlay olishingizga bog‘liq."
+    },
+    {
+      "q": "NFT sovg‘a hamyonimdan begona manzilga o‘tib ketdi. Qaytarishning yo‘li bormi?",
+      "a": "Fragment shartlariga ko‘ra, TON blokcheynidagi tranzaksiya orqaga qaytarilmaydi. Shu sababli «sovg‘angizni pul evaziga qaytaramiz» degan odamlarga ishonmang: bu ko‘pincha ikkinchi aldov bo‘ladi."
+    },
+    {
+      "q": "Sovg‘ani blokcheynga chiqarayotganda 2FA paroli nega so‘raladi?",
+      "a": "Telegram hujjatlarida bu amal uchun amaldagi ikki bosqichli parol talab qilinadi. Parolni faqat Telegram ilovasining o‘ziga kiriting. Uni so‘ragan sayt, bot yoki odam bilan muloqotni to‘xtating."
+    },
+    {
+      "q": "NFT sovg‘ani profilimga bog‘lasam, egalik Telegram’ga o‘tadimi?",
+      "a": "Yo‘q, sovg‘a profilingizda ko‘rinadi, lekin egalik TON hamyonda qoladi. Shuning uchun bog‘langan sovg‘ani ham hamyon kalitlari himoya qiladi."
+    },
+    {
+      "q": "Kompyuterda sovg‘ani Fragment’ga import qildim. Telefondagi hamyonni ham tekshirishim kerakmi?",
+      "a": "Ha, alohida tekshirgan ma’qul, chunki ulanishlarning qurilmalar o‘rtasida sinxronlanishi tasdiqlanmagan. Telefonda o‘zingiz ulamagan sayt ko‘rinsa, uni uzing va kalitlaringizni hech kim bilmasligiga ishonch hosil qiling."
+    },
+    {
+      "q": "SovgaTG orqali NFT sovg‘a olsam, hamyon yoki seed phrase so‘raladimi?",
+      "a": "Yo‘q, buyurtma uchun faqat oluvchining @username’i kerak. To‘lov so‘mda Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali qilinadi. Maxfiy so‘zlarni so‘ragan har qanday «xizmat» firibgar bo‘lishi mumkin."
+    }
+  ],
+  "keywords": [
+    "telegram wallet fragment ulanish xavfi",
+    "telegram wallet sinxronlash nft sovga",
+    "nft sovga o'g'irlanishi",
+    "fragment hamyon ulash xavfsizmi",
+    "nft sovgani himoya qilish telegram",
+    "ton hamyon sessiya o'g'irlash",
+    "telegram wallet синхронизация сессий fragment",
+    "украли nft подарок telegram",
+    "безопасность подключения кошелька к fragment",
+    "как защитить nft подарки telegram",
+    "telegram wallet скам сессия"
+  ],
+  "related": [
+    "fragment-verifikatsiyasiz-akkaunt-ulash",
+    "888-akkaunt-nft-sovgalarni-himoya-qilish",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "telegram-desktop-wallet-ichki-hamyon-sovga"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    },
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More"
+    },
+    {
+      "url": "https://fragment.com/terms",
+      "title": "Terms of Service – Fragment"
+    }
+  ],
+  "intent": "Kolleksion NFT sovg‘alari bor yoki do‘stiga NFT sovg‘a qilmoqchi bo‘lgan foydalanuvchi yangi Telegram Wallet Fragment ulanishini telefon va kompyuterda sinxronlasa sovg‘alari o‘g‘irlanishi mumkinmi, deb «telegram wallet fragment ulanish xavfi nft sovga» kabi so‘zlar bilan qidiradi."
+}
