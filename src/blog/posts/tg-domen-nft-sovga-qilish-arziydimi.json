@@ -1,0 +1,66 @@
+{
+  "slug": "tg-domen-nft-sovga-qilish-arziydimi",
+  "date": "2026-11-12",
+  "reviewed": "2026-11-12",
+  "category": "nft",
+  "title": ".tg domenni sovg‘a qilsa bo‘ladimi: username yoki NFT sovg‘adan farqi nima?",
+  "excerpt": ".tg domenni sovg‘a qilishga shoshilmang: uning Telegram’da ishlashi rasman tasdiqlanmagan. Kanal manzili uchun kolleksion username, tabrik uchun NFT sovg‘a ishonchliroq.",
+  "content": "## Do‘stga .tg domen sovg‘a qilsa bo‘ladimi?\n\nBu sovg‘aga hozircha ishonib bo‘lmaydi. Rasmiy manbalarning birortasi .tg domen zonasi TON blokcheynida yoki Telegram’da borligini tasdiqlamagan. Shuning uchun bunday sovg‘a do‘stingizga Telegram ichida aniq nima berishi noma’lum.\n\nOddiy sovg‘adan yana bir farqi bor: .tg domen @username orqali yuborilmaydi. Uni uchinchi tomon sotuvchilar taklif qiladi, xarid va o‘tkazish qanday bo‘lishi esa shu sotuvchining qoidalariga bog‘liq. Bu jarayon bu maqolada tekshirilmagan.\n\nSovgaTG xizmatlari orasida .tg domen yo‘q. Bu yerda Telegram sovg‘asi (gift), kolleksion NFT sovg‘a, NFT sovg‘a ijarasi, Telegram Premium va Stars bor.\n\nTanlashdan oldin o‘zingizga bitta savol bering: do‘stingizga Telegram’da ko‘rinadigan qisqa manzil kerakmi yoki esda qoladigan tabrik? Birinchisi username masalasi, ikkinchisi sovg‘a masalasi. Keyingi bo‘limlar shu farqqa qurilgan.\n\n## «prem.tg sotildi» xabarini ko‘rdingiz: bu sovg‘a qiluvchi uchun nimani anglatadi?\n\nBu xabar Telegram kanallaridagi postlardan tarqalgan, u rasmiy manba emas. Bitim, narx va domen sotilgan deb aytilgan Getgems’dagi GDomains kolleksiyasi tekshirilmagan.\n\n> GDomains, reg.tg va @tgdomains_bot haqida rasmiy manbalarda ma’lumot topilmadi. Ularni Telegram yoki TON loyihasi deb hisoblamang.\n\nSovg‘a izlayotgan odam uchun bu xabardan uchta amaliy xulosa chiqadi:\n\n- Bitta nom yaxshi narxga sotilgan bo‘lsa ham, boshqa nomlar qadrli bo‘lib qoladi degani emas. Siz olib bergan domen keyin qimmatlashishiga hech kim javob bermaydi.\n- «Tez orada tugaydi», «ulgurib qoling» kabi gaplar shoshiltirish uchun yoziladi. Qimmat sovg‘ani shoshib olganda xato ko‘p bo‘ladi.\n- Domen NFT ko‘rinishida berilishi uning Telegram’da ishlashini isbotlamaydi. U nimaga huquq berishini faqat sotuvchi aytmoqda, rasmiy tasdiq yo‘q.\n\n## .tg domen, kolleksion username va NFT sovg‘a: qaysi biri nima beradi?\n\nKo‘pchilik shu joyda adashadi. Telegram texnik hujjatida «Telegram domains» degan ibora bor, lekin u .tg zonasini emas, kolleksion username’larni bildiradi ([Fragment collectibles, core.telegram.org](https://core.telegram.org/api/fragment)). «Telegram domeni sotiladi» degan e’lonni ko‘rsangiz, gap aynan nima haqida ketayotganini sotuvchidan aniqlang.\n\n| Variant | Telegram’da nima beradi | Qayerdan olinadi | Oluvchiga hamyon kerakmi | Holati |\n|---|---|---|---|---|\n| .tg domen | Tasdiqlanmagan | Uchinchi tomon sotuvchi | Tekshirilmagan | Rasman tasdiqlanmagan |\n| Kolleksion username | Oddiy @username kabi ishlaydi, global qidiruvda chiqadi | Fragment platformasi | Ha, egalik TON blokcheynida | Telegram hujjatida bor |\n| NFT sovg‘a | Oluvchi akkauntiga keladigan kolleksion sovg‘a | Telegram ichida yoki SovgaTG botida so‘mda | Yo‘q, @username yetarli | Telegram sovg‘asi |\n\nKolleksion username’ning egaligini TON blokcheyni ta’minlaydi, ular Fragment orqali sotib olinadi va sotiladi ([core.telegram.org](https://core.telegram.org/api/fragment)). Fragment yozishicha, buyum ochiq TON blokcheynida tegishli manzil egasining mulki sifatida doimiy qayd etiladi ([How does Fragment work?](https://fragment.com/about)). Fragment’da username’dan tashqari boshqa kolleksiya buyumlari ham bor: masalan, Telegram cheklangan miqdorda chiqargan virtual telefon raqamlari.\n\n## Kanal ochayotgan do‘stga qaysi variant ko‘proq foyda beradi?\n\n- **Kolleksion username** — kanalga qisqa va eslab qolinadigan manzil kerak bo‘lsa. U Telegram ichida oddiy @username kabi ishlaydi va qidiruvda chiqadi, ya’ni mijozlar kanalni oson topadi.\n- **.tg domen** — faqat do‘stingiz uni Telegram’dan tashqaridagi loyiha uchun aniq rejalashtirgan va sotuvchini o‘zi tekshirgan bo‘lsa. Telegram ichida qanday ishlashi tasdiqlanmagan.\n- **NFT sovg‘a** — esdalik va tabrik uchun: kanal ochilgan kunga yoki tug‘ilgan kunga. Hamyonsiz, @username orqali yetadi.\n\nMisol. Do‘stingiz «Toshkent kofe» degan biznes kanal ochyapti. Qisqa username kanal manzili muammosini hal qiladi, NFT sovg‘a esa tabrik bo‘ladi. Ikkisining o‘rniga tasdiqlanmagan domen olishning hojati yo‘q.\n\nQaysi variantni tanlasangiz ham, avval do‘stingizdan qanday nom kerakligini so‘rang. Nom — shaxsiy tanlov: imlosi yoki ma’nosi yoqmasa, eng qimmat username ham ishlatilmay qoladi. Tabrik uchun esa sovg‘ani sirli qoldirish mumkin — u nom tanlashni talab qilmaydi.\n\n## Kolleksion username’ni do‘stga qanday sovg‘a qilish mumkin?\n\nBu yo‘l do‘stingizda TON hamyon bo‘lishini talab qiladi. Hamyon qachon kerak bo‘lishi [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida tushuntirilgan.\n\n1. Do‘stingiz bilan nomni kelishib oling: imlosi, uzunligi, kanal nomiga mosligi. Bir-ikki zaxira variant ham tanlab qo‘ying.\n2. Nomni Fragment’da qidiring — kolleksion username’lar shu platformada sotiladi.\n3. Xarajatni hisoblang. Fragment har savdodan 5% platforma komissiyasi oladi, bundan tashqari taxminan 1 Gram blokcheyn to‘lovi bor ([fragment.com/about](https://fragment.com/about)). Aniq narx Fragment sahifasida ko‘rinadi.\n4. Telegram akkaunt va TON hamyonni Fragment’ga ulang. Qanday qilinishi [Fragment’ga hujjatsiz kirish](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/) maqolasida yozilgan.\n5. Do‘stingizdan TON hamyon manzilini oldindan oling — sovg‘ani sir saqlamoqchi bo‘lsangiz ham, bu qadamsiz o‘tkazib bo‘lmaydi.\n6. Username’ni sotib olgach, uni do‘stingizning manziliga o‘tkazing. Fragment yozishicha, ega kolleksiya buyumini TON blokcheyni orqali haq to‘lamasdan o‘tkaza oladi. Tarmoq to‘lovi bo‘lishi mumkin — buni o‘tkazishdan oldin tekshiring.\n7. Do‘stingizga hamyon kalitlarini xavfsiz saqlashni ayting. Fragment maxfiy kalitlarni saqlamaydi va hamyonni tiklay olmaydi.\n\n> Manzilni yuborishdan oldin do‘stingiz bilan qayta solishtiring. Blokcheynda egalik manzil egasiga yoziladi: bitta belgi xato bo‘lsa, username boshqa odamga ketadi.\n\n## Hamyonsiz va so‘mda nima sovg‘a qilsa bo‘ladi?\n\nDo‘stingizda TON hamyon bo‘lmasa yoki sizga kriptovalyuta bilan ishlash noqulay bo‘lsa, SovgaTG orqali Telegram ichida ishlaydigan sovg‘alarni yuborasiz:\n\n- **Kolleksion NFT sovg‘a** — bozor narxi va xizmat haqiga so‘mda olinadi va do‘stingizning @username’iga yuboriladi. Batafsil: [NFT gift sotib olish](/nft-gift-sotib-olish/).\n- **NFT sovg‘a ijarasi** — masalan, kanal taqdimoti kuniga qisqa muddatga kerak bo‘lsa, 1 kundan boshlab olsa bo‘ladi: [NFT sovg‘a ijarasi](/nft-sovga-ijara/).\n- **Rejalashtirilgan sovg‘a** — kanal ochiladigan kunga oldindan tayyorlanadi. Bugun to‘laysiz, sovg‘a belgilangan sana va daqiqada o‘zi yetadi. Narxga 0–12% muddat ustamasi qo‘shiladi, yetkazishdan oldin bekor qilib, pulni qaytarib olish mumkin: [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/).\n- **Telegram Premium** — kanal egasiga 3, 6 yoki 12 oyga: [Premium sovg‘a qilish](/telegram-premium-sovga/).\n\nTo‘lov Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali so‘mda qilinadi. Xalqaro karta, dollar hisobi yoki VPN kerak emas. Oluvchining @username’i yetarli, parol va SMS kod so‘ralmaydi. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytariladi. Aniq narxni [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botida tekshiring.\n\nNFT sovg‘ani qayerdan olish farqlari [ichki bozor, Portals yoki vositachi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/) maqolasida taqqoslangan. Getgems ochilmasa, [boshqa yo‘llar](/blog/getgems-ochilmasa-nft-sovga-olish/) ham bor.\n\n## Domen yoki username sotuvchisi bilan qaysi xatolar qimmatga tushadi?\n\n- **Shoshib to‘lash.** Shaxsiy xabarda «faqat bugun» deb pul so‘ragan sotuvchi bilan ehtiyot bo‘ling. Kanal postidagi «ulgurib qoling» gaplari ham shu turdagi bosim.\n- **Kalitni berib qo‘yish.** «Tasdiqlash uchun» seed ibora yoki hamyon kalitini so‘rashsa, bermang. Fragment kalitlarni saqlamaydi, yo‘qolgan hamyonni hech kim tiklab bermaydi.\n- **Atamalarni adashtirish.** «Telegram domen» rasmiy hujjatda username’ni bildiradi, .tg zonasini emas. Ikkisini bir narsa deb pul to‘lamang.\n- **Nomni do‘st bilan kelishmaslik.** Sizga chiroyli ko‘ringan nom do‘stingizning kanaliga mos kelmasligi mumkin. Kolleksion username’ni keyin sotish mumkin, lekin har savdoda komissiya to‘lanadi.\n- **O‘tkazishni unutish.** Username’ni o‘z hamyoningizga olib, do‘stingizga o‘tkazmasangiz, egasi siz bo‘lib qolasiz. Noto‘g‘ri manzilga yuborsangiz, boshqa odamga ketadi.\n- **Bot yoki saytni rasmiy deb o‘ylash.** GDomains, reg.tg va @tgdomains_bot rasmiy manbalarda tasdiqlanmagan. Sotuvchining o‘zi «rasmiy» deb yozgani dalil emas.",
+  "faq": [
+    {
+      "q": "Do‘stim .tg domenni kanaliga manzil qilib qo‘ya oladimi?",
+      "a": "Buni rasmiy manbalar tasdiqlamagan. Kanalni Telegram ichida qisqa nom bilan topish kerak bo‘lsa, Fragment’dan olingan kolleksion username shu vazifani bajaradi."
+    },
+    {
+      "q": "SovgaTG orqali .tg domen olib bersa bo‘ladimi?",
+      "a": "Yo‘q, SovgaTG .tg domen bilan ishlamaydi. Botda so‘mda Telegram sovg‘asi, kolleksion NFT sovg‘a va uning ijarasi, Premium hamda Stars bor."
+    },
+    {
+      "q": "Kolleksion username sovg‘a qilsam, do‘stim uni keyin sota oladimi?",
+      "a": "Ha, kolleksion username’lar Fragment platformasida sotiladi. Har savdodan Fragment 5% komissiya oladi, alohida kichik blokcheyn to‘lovi ham bo‘ladi."
+    },
+    {
+      "q": "Do‘stimda TON hamyon yo‘q. Unga username sovg‘a qila olamanmi?",
+      "a": "Username TON blokcheyni orqali manzilga o‘tkaziladi, shuning uchun do‘stingizga avval hamyon ochishga to‘g‘ri keladi. Hamyonsiz variant — @username orqali yetadigan NFT sovg‘a."
+    },
+    {
+      "q": "Kanal ochiladigan kunga sovg‘ani oldindan qanday tayyorlayman?",
+      "a": "SovgaTG’da rejalashtirilgan sovg‘ani tanlang: hozir to‘laysiz, sovg‘a o‘zingiz belgilagan sana va daqiqada yetadi. Reja o‘zgarsa, yetkazishdan oldin bekor qilib, pulni qaytarib olasiz."
+    },
+    {
+      "q": "E’londa «Telegram domeni» deyilgan — bu .tg domenmi?",
+      "a": "Telegram texnik hujjatida bu ibora kolleksion username’larni bildiradi. .tg zonasi haqida Telegram yoki TON manbalarida tasdiq yo‘q, shuning uchun sotuvchidan nima sotayotganini aniq so‘rang."
+    }
+  ],
+  "keywords": [
+    "tg domen sovga qilish",
+    "tg domen nima",
+    "prem.tg sotildi",
+    "tg domen nft",
+    "kolleksion username sovga",
+    "fragment username sovga qilish",
+    "kanalga username sovga",
+    "nft sovga yoki username",
+    "домен .tg подарить",
+    "купить домен .tg телеграм",
+    "подарить username fragment",
+    "prem.tg продан"
+  ],
+  "related": [
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "fragment-verifikatsiyasiz-akkaunt-ulash",
+    "getgems-ochilmasa-nft-sovga-olish"
+  ],
+  "sources": [
+    {
+      "url": "https://fragment.com/about",
+      "title": "How does Fragment work?"
+    },
+    {
+      "url": "https://core.telegram.org/api/fragment",
+      "title": "Fragment collectibles"
+    }
+  ],
+  "intent": "«prem.tg sotildi» degan xabarni ko‘rgan va do‘stiga yoki uning biznes kanaliga sovg‘a izlayotgan foydalanuvchi «.tg domen sovg‘a qilsa bo‘ladimi, u username yoki NFT sovg‘adan nimasi bilan farq qiladi» deb qidiradi."
+}
