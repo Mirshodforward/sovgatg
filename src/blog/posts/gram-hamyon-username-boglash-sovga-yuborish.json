@@ -1,0 +1,69 @@
+{
+  "slug": "gram-hamyon-username-boglash-sovga-yuborish",
+  "date": "2026-11-12",
+  "reviewed": "2026-11-12",
+  "category": "yangiliklar",
+  "title": "Gram hamyon username orqali yuborish: do‘stga sovg‘a uchun kutish kerakmi?",
+  "excerpt": "Yo‘q, Gram hamyonni akkauntga bog‘lab, @username orqali yuborish rasman tasdiqlanmagan. Kutish shart emas: gift, Stars, Premium va NFT sovg‘a hozir ham @username bilan yuboriladi.",
+  "content": "## Hamyonni akkauntga bog‘lab username bilan yuborish haqidagi gap rostmi?\n\nHozircha bu rasman tasdiqlanmagan. Bu gap Telegram kanallaridagi postlardan tarqalgan. Kanal posti faqat mavzuni beradi. Buni fakt deyish uchun telegram.org yoki core.telegram.org’da e’lon chiqishi kerak.\n\nPostlarda uchta gap aytilgan:\n\n- yangi betada Gram hamyon manzilini Telegram akkauntiga bog‘lasa bo‘ladi;\n- shundan keyin uzun manzil o‘rniga @username yozib mablag‘ yuborish mumkin;\n- hamyon manzilini uzoq bossangiz, amallar ro‘yxati chiqadi.\n\nRasmiy sahifalarda bu uchala gapning birortasi ham topilmadi: na telegram.org blogida, na Bot API hujjatida. Bog‘lash ixtiyoriy bo‘ladimi yoki majburiymi, bu haqda ham rasmiy gap yo‘q. Shuning uchun funksiya qachon chiqishi va qanday ishlashi haqida taxmin qilmaymiz.\n\n> Holat 2026-yil 12-noyabrdagi ma’lumotlar bo‘yicha tekshirildi. Yangilik chiqsa, u [Telegram blogi](https://telegram.org/blog) yoki [Bot API](https://core.telegram.org/bots/api) changelog’ida ko‘rinadi.\n\n## Bot API 10.4 da hamyonga oid nimalar paydo bo‘lgan?\n\nPostlar bo‘sh joydan chiqmagan: Telegram’ning dasturchilar uchun hujjatida TON hamyonga oid yangi elementlar haqiqatan bor. Faqat ularning birortasi ham «username bo‘yicha o‘tkazma» emas.\n\n| Hujjatdagi element | Sovg‘a qiluvchi uchun amalda nimani bildiradi |\n|---|---|\n| ChatFullInfo.ton_wallet_card — shaxsiy chatda foydalanuvchi profil sahifasida ko‘rinadigan TON hamyon kartasi | Profilda hamyon kartasi ko‘rinishi texnik jihatdan ko‘zda tutilgan. Bu unga username orqali pul yuborish degani emas |\n| TonWalletCard, TonWalletCardSticker, TonNft va TonNftAttribute klasslari | Hamyon kartasi va NFT ma’lumotlari uchun tuzilma bor. Kartada aynan nima chiqishi hujjatda biz ko‘rgan qismda to‘liq yozilmagan |\n| StoryAreaPosition klassi endi AreaPosition deb ataladi, chunki u hamyon kartasidagi stikerlar joylashuvini ham tavsiflaydi | Kartani stiker bilan bezash haqida gap ketyapti, sovg‘a jo‘natish haqida emas |\n| Message.ton_wallet_transfer — TON hamyon orqali o‘tkazma chatda xizmat xabari bo‘lib chiqadi | Do‘stingizga TON yuborsangiz, chatda alohida xabar ko‘rinishi mumkin |\n| RichTextTonAddress — xabar ichidagi TON blokcheyn manzili | Manzil xabarda oddiy matn emas, alohida element bo‘lib ko‘rsatiladi |\n\nManba: [Telegram Bot API](https://core.telegram.org/bots/api) sahifasi va uning 10.4 changelog’i. Hujjatning biz ko‘rgan qismida manzilsiz, faqat username bilan TON yuborish tasvirlanmagan.\n\nBetadagi boshqa mish-mishlar (profildagi balans, QR-kod va boshqalar) haqida: [Telegram beta yangiliklari: nimasi rasmiy](/blog/telegram-beta-profil-balans-qr-kod-sovga/).\n\n## Do‘stga sovg‘a qilish uchun bu funksiyani kutish kerakmi?\n\nKerak emas. Oddiy gift, Stars, Premium va kolleksion NFT sovg‘a hamyon manziliga emas, oluvchining @username’iga yuboriladi. Do‘stingizning hamyoni bormi-yo‘qmi, bu sizga ham, unga ham ahamiyatsiz.\n\nMisol: dugonangizning tug‘ilgan kuni shanba kuni. Siz unga Stars yoki chiroyli gift bermoqchisiz, lekin uning hamyon manzilini bilmaysiz. Username bo‘yicha o‘tkazma funksiyasini kutsangiz, u qachon chiqishini hech kim aytolmaydi. @username orqali esa sovg‘ani bugun yuborasiz yoki shanba kuni ertalabga rejalashtirib qo‘yasiz. G‘oyalar uchun [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/) sahifasiga qarang.\n\nUzun TON manzil faqat ikki holatda kerak bo‘ladi:\n\n- TON tangalarning o‘zini yuborganingizda;\n- kolleksion NFT sovg‘ani blokcheynga chiqarganingizda (bu ishni odatda sovg‘ani olgan odam qiladi).\n\nBu farq [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida batafsil yozilgan. «GRAM Wallet» nomi atrofidagi gaplar esa [GRAM Wallet qanday faollashtiriladi](/blog/gram-wallet-telegram-faollashtirish/) maqolasida.\n\n## TON o‘tkazmasi yoki sovg‘a: do‘stingizga qaysi biri mos?\n\nKo‘pincha odam do‘stini tabriklash uchun TON yubormoqchi bo‘ladi, chunki «hamyon» so‘zi tez-tez eshitiladi. Aslida vaziyatga qarab yo‘l tanlanadi:\n\n| Vaziyat | Sizdan nima kerak | Qanday yuboriladi |\n|---|---|---|\n| Tug‘ilgan kun yoki bayramga tabrik | Do‘stingizning @username’i | Botda gift tanlanadi, xohlasangiz anonim yuboriladi |\n| Do‘stingiz Premium yoki Stars xohlaydi | @username | Botda Premium (3, 6 yoki 12 oy) yoki Stars miqdori tanlanadi |\n| Profilida turadigan noyob sovg‘a | @username | Kolleksion NFT bozor narxi va xizmat haqi bilan olinadi yoki ijaraga beriladi |\n| Sovg‘a aniq soat va daqiqada yetishi kerak | @username, sana va vaqt | Rejalashtirilgan sovg‘a: bugun to‘lanadi, belgilangan vaqtda yetadi |\n| Do‘stingiz aynan TON tanga so‘ragan | Uning to‘liq hamyon manzili | O‘z hamyoningizdan, manzilni tekshirib yuborasiz |\n\nMaqsad tabrik bo‘lsa, sovg‘a qulayroq. Unda manzildagi bitta belgi xatosidan xavotir olmaysiz, faqat username to‘g‘ri bo‘lsa yetarli. Sovg‘a yuborishning umumiy tartibi [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) sahifasida.\n\n## Hozir sovg‘ani faqat @username bilan qanday yuborasiz?\n\nSovgaTG orqali tartib quyidagicha:\n\n1. Do‘stingizning @username’ini uning profilidan ko‘chirib oling. Xotiradan yozmang: bitta harf adashsa, sovg‘a boshqa odamga ketadi.\n2. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching.\n3. Sovg‘a turini tanlang: gift, Stars, Premium yoki kolleksion NFT sovg‘a.\n4. Kerak bo‘lsa, gift’ni anonim rejimda yuboring yoki sana va daqiqani belgilab, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) qiling. Rejalashtirilgan sovg‘a narxiga 0–12% muddat ustamasi qo‘shiladi, uni yetkazilishidan oldin bekor qilib, pulni qaytarib olish mumkin.\n5. Narxni botda tekshiring: aniq summa faqat o‘sha yerda ko‘rsatiladi.\n6. So‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta, dollar hisobi va VPN kerak emas.\n7. Savol chiqsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) yordam xizmatiga yozing.\n\nYetkazish va to‘lov bo‘yicha bilib qo‘ying:\n\n- Gift, Stars va [Telegram Premium sovg‘a](/telegram-premium-sovga/) taxminan 10 soniyada yetadi.\n- Sovg‘ani o‘z akkauntingizdan, Stars balansingiz hisobidan yuborishingiz ham mumkin. Bunda taxminan 1 daqiqa ketadi, xizmat haqi 1 000 so‘mdan boshlanadi.\n- NFT sovg‘ani sotib olmasdan, 1 kundan boshlab [ijaraga](/nft-sovga-ijara/) olish mumkin.\n- Sovg‘a yetkazilmasa, to‘langan summa bot balansiga to‘liq qaytadi.\n- Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n\n## Do‘stingiz TON so‘rasa, manzilni qanday tekshirasiz?\n\nBa’zan tabrik o‘rniga do‘stingiz aniq TON so‘raydi va chatga hamyon manzilini tashlaydi. Bunda quyidagilarga amal qiling:\n\n- Chatdagi manzilga qarab, u kimniki ekanini bilib bo‘lmaydi. Ayniqsa do‘stingizning akkaunti buzilgan bo‘lishi mumkin bo‘lsa, manzilni u bilan boshqa yo‘l orqali, masalan telefonda tasdiqlang.\n- Manzilni qo‘lda yozmang, ko‘chirib qo‘ying. Keyin uning boshi va oxiridagi bir nechta belgini do‘stingiz bergan manzil bilan solishtiring.\n- Summa katta bo‘lsa, avval ozroq yuboring va do‘stingiz pul kelganini aytgandan keyin qolganini o‘tkazing.\n- Chatda o‘tkazma haqida xizmat xabari chiqishi mumkin, lekin pul kelganini hamyonning o‘zida ko‘rish ishonchliroq.\n- «Username bo‘yicha o‘tkazma» deb TON so‘ragan bot yoki notanish odamga pul o‘tkazmang: bunday funksiya rasman tasdiqlanmagan.\n\nBatafsil: [chatdagi TON manzil kimniki](/blog/chatdagi-ton-manzil-egasini-tekshirish-sovga/).\n\n## Fragment’dagi username egaligi bu funksiya bilan bir xilmi?\n\nYo‘q. Fragment’da ham username, ham TON hamyon bo‘lgani uchun ko‘pchilik ularni betadagi mish-mish bilan aralashtirib yuboradi.\n\n[Fragment](https://fragment.com/about) qoidasiga ko‘ra, u yerda sotib olingan username’ga egalik xarid qilingan TON hamyonga o‘tadi. Bu username kimga tegishli ekanini bildiradi, unga pul yuborishni emas.\n\nFragment sizning hamyoningizni Telegram akkauntingizga bog‘lashi mumkin bo‘lgan ma’lumotni saqlamaydi. Biroq u yerda biror username’ga taklif bersangiz, taklif qaysi hamyondan kelgani hammaga ko‘rinadi.\n\nFragment sahifasida username’ning TON Web 3.0 manzili ham yoziladi: masalan, [@resolved](https://fragment.com/username/resolved) uchun bu resolved.t.me. Bunday manzilga TON yuborish ishlashi bu maqolada tasdiqlanmagan, shuning uchun unga pul jo‘natmang.\n\nFragment va Telegram profilidagi hamyon kartasi alohida narsalar, biridagi qoida ikkinchisiga taalluqli emas. Fragment’ga kirish tartibi: [Fragment’ga hujjatsiz kirish](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/).\n\n## Rasmiy e’lon chiqqanda sovg‘a qiluvchi nimalarga e’tibor beradi?\n\n- **E’lon qayerda chiqqani.** Faqat telegram.org yoki core.telegram.org’dagi e’longa ishoning. Skrinshot va kanal postlari dalil emas.\n- **Profilda nima ko‘rinishi.** Bot API’ga ko‘ra, hamyon kartasi profil sahifasida ko‘rsatiladi. Hamyonni profilga chiqarsangiz, uni boshqalar ham ko‘rishi mumkinligini hisobga oling. Bog‘lash majburiy yoki ixtiyoriy ekani sozlamalarda aniq bo‘ladi.\n- **«Sinab ko‘ring» degan botlar.** Yangi funksiya nomidan ish ko‘radigan soxta botlardan ehtiyot bo‘ling. Bot username’i «bot» bilan tugashini tekshiring: [shubhali bot nomlari haqida](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/). Kod va parolni hech kimga bermang.\n- **Sovg‘a tartibi.** Gift, Stars, Premium va NFT sovg‘a yuborish bunga bog‘liq emas: oluvchining @username’i yetarli.",
+  "faq": [
+    {
+      "q": "Do‘stimning hamyon manzilini bilmayman, NFT sovg‘a qila olamanmi?",
+      "a": "Ha. Kolleksion sovg‘ani botda so‘mda olasiz va u do‘stingizning @username’iga yuboriladi. TON hamyon faqat do‘stingiz uni keyinroq blokcheynga chiqarmoqchi bo‘lsa kerak bo‘ladi."
+    },
+    {
+      "q": "Username bo‘yicha TON o‘tkazmasi qachon ishga tushadi?",
+      "a": "Sanani hech kim rasman aytmagan, funksiyaning o‘zi ham tasdiqlanmagan. Bot API 10.4 da faqat hamyon kartasi va o‘tkazma haqidagi xizmat xabari bor."
+    },
+    {
+      "q": "Hamyonni profilimga chiqarsam, xavfsizligimga ta’sir qiladimi?",
+      "a": "Hujjatga ko‘ra, karta profil sahifasida ko‘rinadi, demak uni boshqalar ham ko‘rishi mumkin. Kartada aynan qanday ma’lumot chiqishi to‘liq tushuntirilmagan, shuning uchun yoqishdan oldin sozlamalarni ko‘rib chiqing."
+    },
+    {
+      "q": "Notanish odam «yangi funksiya» deb username’imga TON yuborishni so‘rasa-chi?",
+      "a": "Pul o‘tkazmang va hech qanday kod kiritmang: funksiya rasman chiqmagan, bunday so‘rov aldov bo‘lishi mumkin. Tanishingiz nomidan yozishsa, unga qo‘ng‘iroq qilib aniqlang."
+    },
+    {
+      "q": "SovgaTG orqali sovg‘a yuborishim uchun do‘stimning hamyoni kerakmi?",
+      "a": "Yo‘q, faqat uning @username’i kerak. Sizdan ham ro‘yxatdan o‘tish, parol yoki SMS kod talab qilinmaydi."
+    },
+    {
+      "q": "Sovg‘a do‘stimga yetmasa, pul nima bo‘ladi?",
+      "a": "To‘lagan summangiz to‘liqligicha bot balansiga qaytadi. Rejalashtirilgan sovg‘ani esa yetkazilish vaqtidan oldin bekor qilib, pulni qaytarib olish mumkin."
+    }
+  ],
+  "keywords": [
+    "gram hamyon username orqali yuborish",
+    "gram hamyonni akkauntga bog‘lash",
+    "telegram hamyon username bo‘yicha o‘tkazma",
+    "ton username orqali yuborish",
+    "telegram beta gram hamyon",
+    "hamyonsiz sovg‘a yuborish telegram",
+    "перевод по юзернейму telegram кошелек",
+    "привязать gram кошелек к аккаунту telegram",
+    "ton кошелек привязка к telegram аккаунту",
+    "отправить ton по юзернейму",
+    "telegram бета кошелек юзернейм"
+  ],
+  "related": [
+    "telegram-beta-profil-balans-qr-kod-sovga",
+    "gram-wallet-telegram-faollashtirish",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "chatdagi-ton-manzil-egasini-tekshirish-sovga"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/bots/api",
+      "title": "Telegram Bot API"
+    },
+    {
+      "url": "https://fragment.com/about",
+      "title": "How does Fragment work?"
+    },
+    {
+      "url": "https://fragment.com/username/resolved",
+      "title": "resolved (Fragment)"
+    }
+  ],
+  "intent": "Do'stiga sovg'a yoki TON yubormoqchi bo'lgan Telegram foydalanuvchisi «gram hamyon username orqali yuborish» deb qidiradi. U yangi betadagi hamyonni akkauntga bog'lash funksiyasi rostmi, uzun manzilsiz sovg'a yuborish uchun uni kutish kerakmi va hozir qanday yo'l bor ekanini bilmoqchi."
+}
