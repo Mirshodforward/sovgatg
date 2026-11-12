@@ -1,0 +1,65 @@
+{
+  "slug": "chatdagi-ton-manzil-egasini-tekshirish-sovga",
+  "date": "2026-11-12",
+  "reviewed": "2026-11-12",
+  "category": "xavfsizlik",
+  "title": "Chatdagi TON manzil kimniki: do‘stga sovg‘ani shunga yuborish xavfsizmi?",
+  "excerpt": "Chatdagi TON manzildan egasi kimligini bilib bo‘lmaydi, shuning uchun sovg‘ani unga emas, do‘stingizning @username’iga yuboring. Gift, Stars, Premium va NFT uchun shuning o‘zi yetadi.",
+  "content": "## Do‘stingiz TON manzil yubordi: sovg‘ani albatta shunga jo‘natish kerakmi?\n\nYo‘q. Oddiy gift, Stars, Telegram Premium va kolleksion NFT sovg‘a oluvchining @username’i orqali yuboriladi. Buning uchun na sizga, na do‘stingizga TON manzil kerak.\n\nTON manzil boshqa holatda kerak bo‘ladi: sovg‘ani yoki tokenni blokcheyndagi hamyonga o‘tkazmoqchi bo‘lsangiz. Telegram ichidagi sovg‘a hamyonga bog‘liq emas. Bu haqda batafsil: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\nShuning uchun chatda manzil paydo bo‘lsa, avval nima uchun yuborilganini bilib oling. Odatda ikki holatdan biri bo‘ladi:\n\n- do‘stingiz sovg‘ani blokcheynda, o‘z hamyonida saqlamoqchi;\n- kimdir uning nomidan yozyapti va sovg‘ani o‘ziga olmoqchi.\n\nManzilning o‘zida hech kimning ismi yo‘q. U harf va raqamlardan iborat qator, xolos. Kim yozgani aniq bo‘lmaguncha, u kimniki ekanini manzilning o‘zidan bilib bo‘lmaydi.\n\n## Telegram manzilni ajratib ko‘rsatsa, bu egasi tasdiqlangani degani bo‘ladimi?\n\nYo‘q. [Bot API o‘zgarishlar ro‘yxatiga](https://core.telegram.org/bots/api-changelog) ko‘ra, 10.4 versiyada MessageEntity klassiga «ton_address» turi qo‘shilgan. [Bot API hujjatida](https://core.telegram.org/bots/api) bu tur «TON blokcheynidagi manzil» deb ta’riflangan. RichMessage ichidagi manzil uchun alohida RichTextTonAddress klassi ham qo‘shilgan.\n\nDemak, Telegram xabardagi manzilni oddiy matndan ajratib, alohida belgilay oladi. Lekin bu faqat formatni aniqlash. Firibgarning manzili ham xuddi shunday belgilanadi, chunki u ham TON manzili.\n\nBot API — bot yozadiganlar uchun hujjat. Ilovada manzil qanday ko‘rinishi va bosilganda nima bo‘lishi unda yozilmagan.\n\n## macOS beta’dagi hamyon oynasi sovg‘a qiluvchiga yordam beradimi?\n\nBu savol Telegram kanallaridan biridagi postdan chiqqan. Unda yozilishicha, macOS beta versiyasida chatdagi TON manzil bosilsa, hamyon egasi, Tonscan eksplorerini ochish va ichki hamyondan «dublon» yuborish imkoni bor oyna ochiladi.\n\n> Bu kanal posti, rasmiy manba emas. Oynaning o‘zi ham, undagi hamyon egasi, Tonscan va pul yuborish imkoniyatlari ham bu maqolada tasdiqlanmagan. Funksiya qaysi versiyada va qachon chiqqani noma’lum, «dublon» qaysi valyuta ekani ham aniqlanmagan.\n\nSovg‘a qiluvchi uchun bundan asosiy xulosa: shunday oyna chiqsa ham, uni yagona dalil deb bilmang. Ilova do‘stingizning ismini ko‘rsatsa ham, chatda hozir kim yozayotganini bilmaysiz. Akkaunt buzilgan bo‘lsa, ism do‘stingizniki, yozayotgan esa begona odam bo‘ladi. Kompyuterdagi hamyon haqida alohida maqola bor: [Telegram Desktop’da @wallet va sovg‘a yuborish](/blog/telegram-desktop-wallet-ichki-hamyon-sovga/).\n\n## Manzilni do‘stingizning o‘zi yuborganiga qanday ishonch hosil qilasiz?\n\n1. Boshqa kanal orqali tasdiqlang: qo‘ng‘iroq qiling yoki ovozli xabar so‘rang. Matnli xabar yetarli emas, uni buzilgan akkauntdan ham yozish mumkin.\n2. Do‘stingiz profilini oching. Bot API hujjatiga ko‘ra, shaxsiy chatlarda foydalanuvchining TON hamyon kartasi uning profil sahifasida ko‘rsatiladi. 10.4 versiyada buning uchun TonWalletCard klassi va ton_wallet_card maydoni qo‘shilgan. Bu karta sizning ilovangizda ko‘rinishi tasdiqlanmagan. Ko‘rinsa, chatdagi manzil bilan solishtiring.\n3. Manzilni boshidan oxirigacha belgima-belgi solishtiring. Faqat birinchi va oxirgi belgilarga qarash yetmaydi: o‘rtadagi bitta belgi farq qilsa ham, bu boshqa hamyon.\n4. Manzilni TON eksplorerda oching. U manzilda nima borligini ko‘rsatadi, lekin egasining ismini tasdiqlamaydi. Batafsil: [NFT sovg‘ani eksplorerda tekshirish](/blog/nft-sovga-gram-org-eksplorerda-tekshirish/).\n5. Shubha qolsa, blokcheynga o‘tkazmang. Sovg‘ani do‘stingizning @username’iga yuboring, blokcheynga chiqarishni u o‘z hamyoni bilan o‘zi qiladi.\n\n## Qachon chatdagi TON manzil xavf belgisi bo‘ladi?\n\n| Vaziyat | Nega shubhali | Nima qilasiz |\n|---|---|---|\n| Do‘stingiz kutilmaganda yozib, «sovg‘ani faqat shu manzilga, tezroq» deb shoshiltiradi | Akkaunt buzilgan bo‘lishi mumkin | Qo‘ng‘iroq qilib so‘rang |\n| Manzil yangi yoki notanish akkauntdan, do‘stingiz ismi va rasmi bilan keldi | Soxta profil bo‘lishi mumkin | Do‘stingizning asl akkauntiga yozing |\n| Manzil bilan birga «sovg‘ani olish uchun» havola yoki bot yuborilgan | Fishing belgisi | Hech qayerga kod yoki parol kiritmang |\n| Profildagi hamyon kartasi chatdagi manzilga mos kelmaydi | Manzil boshqa odamniki bo‘lishi mumkin | Yubormang, do‘stingizdan sababini so‘rang |\n| Notanish odam sovg‘a va’da qilib, avval shu manzilga to‘lov so‘raydi | Pulni olib, sovg‘ani bermaslik sxemasi | Javob bermang, shikoyat qiling |\n\nHavoladagi «sovg‘a» akkauntga nima qilishi haqida: [soxta sovg‘a havolasi va akkaunt cheklovi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/). Hamyon ulanishiga oid xavflar: [Wallet va Fragment ulanishi](/blog/wallet-fragment-ulanish-nft-sovga-xavfi/).\n\n## @username orqali yuborish va TON manzilga o‘tkazish: farqi nimada?\n\n| Mezon | @username orqali | TON manzilga |\n|---|---|---|\n| Nima kerak | Faqat oluvchining @username’i | TON hamyon va aniq manzil |\n| Oluvchini nima ko‘rsatadi | Telegram profili: ism, rasm, chat tarixi | Faqat manzil satri, egasi tasdiqlanmagan |\n| Xato bo‘lsa | SovgaTG buyurtmasi yetkazilmasa, summa balansga to‘liq qaytadi | Bekor qilish yo‘li manbalarda ko‘rsatilmagan, qaytmaydi deb hisoblang |\n| To‘lov | So‘mda: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi | Hamyondagi mablag‘ |\n\nSovg‘a qilishda @username xavfsizroq: oluvchini profilidan ko‘rib turasiz, buyurtma yetkazilmasa pul qaytadi.\n\nDo‘stingiz chindan NFT sovg‘ani o‘z hamyonida saqlamoqchi bo‘lsa, unga shunday javob bering: «Sovg‘ani profilingga yuboraman, hamyonga o‘zing o‘tkazasan». Shunda notanish manzil bilan siz umuman ishlamaysiz, hamyon kalitlari esa faqat egasida qoladi.\n\n## Manzil noto‘g‘ri chiqsa yoki do‘stingiz akkaunti buzilgan bo‘lsa nima qilasiz?\n\n- **Hali yubormagan bo‘lsangiz**, to‘xtating. Do‘stingizni boshqa yo‘l bilan, masalan qo‘ng‘iroq orqali ogohlantiring.\n- Shubhali xabar kelgan akkauntdan Telegram’dagi shikoyat menyusi orqali shikoyat qiling. Xabardagi havolalarni ochmang.\n- Do‘stingizga faol sessiyalarni ko‘rib, begona qurilmalarni chiqarib yuborishni va ikki bosqichli parol qo‘yishni maslahat bering.\n- **Yuborib bo‘lgan bo‘lsangiz**, o‘tkazma tafsilotlarini saqlab qo‘ying. Pulni qaytarishni va’da qilib, buning uchun haq so‘raganlarga to‘lamang: bu ko‘pincha ikkinchi aldov bo‘ladi.\n- SovgaTG buyurtmasi bo‘yicha savol bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport)ga yozing.\n\n## Do‘stga sovg‘ani TON manzilsiz qanday yuborasiz?\n\n1. Do‘stingizning @username’ini uning profilidan oling. Chatda kimdir yozib yuborgan matndan ko‘chirmang.\n2. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)ni oching va sovg‘a turini tanlang: gift, [kolleksion NFT sovg‘a](/nft-gift-sotib-olish/), Telegram Premium yoki Stars.\n3. Xohlasangiz, anonim rejimni yoki [rejalashtirilgan sovg‘ani](/rejalashtirilgan-sovga/) tanlang. Rejalashtirilgan sovg‘a uchun bugun to‘laysiz, sovg‘a esa belgilangan sana va daqiqada yetkaziladi.\n4. Narxni botda tekshiring va so‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi. Xalqaro karta yoki VPN kerak emas.\n5. Yetkazilishini kuting. Gift, Premium va Stars taxminan 10 soniyada yetadi. Sovg‘a yetkazilmasa, summa balansga to‘liq qaytadi.\n\nBot parol, SMS kod yoki ro‘yxatdan o‘tishni so‘ramaydi. SovgaTG mustaqil xizmat, Telegram’ning bir qismi emas. Umumiy tartib bu sahifada: [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/).",
+  "faq": [
+    {
+      "q": "Do‘stim NFT sovg‘ani blokcheynda saqlamoqchi, unda manzil menga kerakmi?",
+      "a": "Sizga kerak emas. Sovg‘ani uning profiliga yuborasiz, uni TON hamyonga o‘tkazishni do‘stingiz keyin o‘zi qiladi."
+    },
+    {
+      "q": "Chatda kelgan TON manzil o‘zgartirilmaganini qanday bilaman?",
+      "a": "Do‘stingizdan manzilni qo‘ng‘iroqda o‘qib berishini so‘rang va har bir belgini solishtiring. Nusxa olib joylashtirganingizdan keyin ham asl manzil bilan yana bir bor taqqoslang."
+    },
+    {
+      "q": "Profilda TON hamyon kartasi ko‘rinmasa, manzil soxta degani bo‘ladimi?",
+      "a": "Yo‘q, kartaning yo‘qligi o‘zi hech narsani isbotlamaydi: u hamma ilovada ko‘rinishi tasdiqlanmagan. Karta bor-yo‘qligidan qat’i nazar, manzilni do‘stingizdan bevosita so‘rab tasdiqlang."
+    },
+    {
+      "q": "Notanish odam menga «sovg‘a uchun» TON manzilini yuborsa nima qilay?",
+      "a": "Hech narsa yubormang va akkauntdan shikoyat qiling. Sizga chindan sovg‘a qilmoqchi bo‘lgan odamga @username’ingiz yetadi, oldindan to‘lov kerak emas."
+    },
+    {
+      "q": "Rejalashtirilgan sovg‘ani ham username orqali yuborsa bo‘ladimi?",
+      "a": "Ha, u ham oluvchining @username’iga yetkaziladi. Narxga muddat ustamasi (0–12%) qo‘shiladi, sovg‘a yetib bormaguncha buyurtmani bekor qilib, pulni qaytarib olish mumkin."
+    },
+    {
+      "q": "Akkauntim buzilsa, do‘stlarimga mening nomimdan manzil yuborishlari mumkinmi?",
+      "a": "Ha, akkauntingizga kirib olgan odam sizning nomingizdan istalgan xabar yoza oladi. Shubha bo‘lsa, begona sessiyalarni yoping, bulutli parol qo‘ying va do‘stlaringizga boshqa yo‘l bilan xabar bering."
+    }
+  ],
+  "keywords": [
+    "chatdagi ton manzil egasini tekshirish",
+    "ton manzil kimniki",
+    "ton manzilga sovg‘a yuborish xavfsizmi",
+    "telegram ton hamyon manzili tekshirish",
+    "nft sovg‘ani ton manzilga yuborish",
+    "telegram ton manzil firibgarlik",
+    "как проверить владельца TON адреса",
+    "чей TON адрес в чате телеграм",
+    "отправить NFT подарок на TON адрес безопасно",
+    "мошенничество TON адрес телеграм",
+    "кошелек TON в профиле телеграм"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "nft-sovga-gram-org-eksplorerda-tekshirish",
+    "telegram-desktop-wallet-ichki-hamyon-sovga",
+    "wallet-fragment-ulanish-nft-sovga-xavfi"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/bots/api-changelog",
+      "title": "Bot API changelog"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api",
+      "title": "Telegram Bot API"
+    }
+  ],
+  "intent": "Do‘sti chatda TON manzil yuborib, sovg‘ani yoki NFT’ni shunga jo‘natishni so‘ragan odam manzil kimga tegishli ekanini va macOS beta’dagi yangi hamyon oynasi bunga yordam berishini «chatdagi TON manzil kimniki, sovg‘a yuborish xavfsizmi» kabi so‘zlar bilan qidiradi."
+}
