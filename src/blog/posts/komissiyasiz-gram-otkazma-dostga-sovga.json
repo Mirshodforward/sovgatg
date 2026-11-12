@@ -1,0 +1,73 @@
+{
+  "slug": "komissiyasiz-gram-otkazma-dostga-sovga",
+  "date": "2026-11-12",
+  "reviewed": "2026-11-12",
+  "category": "yangiliklar",
+  "title": "Gram hamyon orqali sovg‘a yuborish: do‘stga Gram, gift yoki Stars?",
+  "excerpt": "Hamyon sizda ham, do‘stingizda ham ishlasa, Gram yuborsa bo‘ladi. Lekin bu Telegram sovg‘asi emas, tanga o‘tkazmasi. Esda qoladigan tabrik uchun gift, Premium yoki NFT gift mosroq.",
+  "content": "## Do‘stga sovg‘a sifatida Gram yuborsa bo‘ladimi?\n\nHa, Telegram’dagi hamyon sizda ham, do‘stingizda ham ishlasa, yuborsa bo‘ladi. Lekin do‘stingiz Telegram sovg‘asini (gift) olmaydi. Unga kriptotanga o‘tkaziladi. Profilda turadigan quticha ham, sovg‘aga yozilgan tabrik ham bo‘lmaydi.\n\n[TON rasmiy saytida](https://ton.org/) yozilishicha, Telegram jamoasi yaratgan non-custodial Gram hamyon messenger interfeysiga o‘rnatilgan. Gram — TON blokcheynining asosiy tangasi. Tarmoq komissiyasi u bilan to‘lanadi, validatsiya va ovoz berishda ham u ishlatiladi. Ya’ni Gram — to‘lov vositasi, esdalik buyumi emas.\n\nBitta jiddiy cheklov bor. [Telegram dasturchilar hujjatiga](https://core.telegram.org/bots/widgets) ko‘ra, ilovaning eski versiyasida va hamyon ishlamaydigan mamlakatlarda hamyon bo‘lmaydi. O‘zbekistonda u ochilgan-ochilmagani rasmiy manbada aytilmagan. Shuning uchun avval o‘z ilovangizda tekshiring, keyin do‘stingizdan ham so‘rang.\n\nMaqsadingiz tug‘ilgan kun yoki bayramda esda qoladigan tabrik bo‘lsa, Gram unchalik mos kelmaydi. Bunday paytda gift, Premium yoki NFT gift yaxshiroq ishlaydi.\n\n## «Komissiyasiz» va «har bir foydalanuvchiga»: sovg‘a qiluvchi nimani bilishi kerak?\n\nKanallarda tarqalgan postda komissiyasiz, bir zumda o‘tkazmalar va har bir Telegram foydalanuvchisiga Gram hamyon va’da qilingan. Bu kanal posti, rasmiy e’lon emas. Rasmiy sahifalarda boshqacha yozilgan.\n\n- **Komissiya.** ton.org ma’lumotiga ko‘ra, Gram o‘tkazmasining komissiyasi taxminan 0,00039 Gram, USDt o‘tkazmasiniki taxminan 0,001 Gram. Komissiyalar qat’iy belgilangan va tarmoq yuklamasiga bog‘liq emas. Summa kichik, lekin nolga teng emas.\n- **Hamma uchunmi.** Telegram hujjatida hamyon ayrim mamlakatlarda yo‘qligi ochiq yozilgan. Shuning uchun «har bir foydalanuvchiga» degan gap tasdiqlanmaydi.\n- **Muddat.** telegram.org blogida hamyon qachon hammaga ochilishi haqida rasmiy e’lon topilmadi.\n\n> Do‘stingizga Gram yubormoqchi bo‘lsangiz, komissiyani hisobga oling va hamyon uning ilovasida borligiga ishonch hosil qiling.\n\nHamyonni qanday faollashtirish va u sovg‘a uchun umuman kerakmi degan savolga [alohida maqolada](/blog/gram-wallet-telegram-faollashtirish/) javob berganmiz.\n\n## Gram, gift, Stars yoki Premium: do‘stga qaysi biri qulayroq?\n\nTanlov do‘stingiz nimani qadrlashiga bog‘liq. Quyidagi jadvalda besh yo‘l yonma-yon berilgan.\n\n| Sovg‘a turi | Sizga nima kerak | Do‘stingiz nima oladi | Qanday to‘laysiz | Kimga mos |\n|---|---|---|---|---|\n| Gram | Gram bor hamyon va do‘stning hamyoni | Kriptotanga | Gram’da, tarmoq komissiyasi bilan | Kriptoga qiziqadigan do‘st |\n| Oddiy gift | Do‘stning @username’i | Profilda ko‘rinadigan sovg‘a | SovgaTG orqali so‘mda, taxminan 10 soniyada yetadi | Tug‘ilgan kun, bayram, kichik tabrik |\n| Stars | @username | Telegram ichida ishlatiladigan Stars | So‘mda, taxminan 10 soniyada yetadi | Bot va kanal kontentidan foydalanadigan do‘st |\n| Premium (3, 6, 12 oy) | @username | Premium obuna | So‘mda: tarif narxi + xizmat haqi | Telegram’dan ko‘p foydalanadigan do‘st |\n| NFT gift | @username | Kolleksion sovg‘a | So‘mda: bozor narxi + xizmat haqi | Ko‘zga tashlanadigan sovg‘ani yaxshi ko‘radigan do‘st |\n\nGram arzonroq deb aytib bo‘lmaydi. Komissiyasi kichik, lekin avval sizda Gram bo‘lishi kerak. Uni qayerdan va necha so‘mga olishingiz alohida masala, bu maqolada taqqoslanmaydi. SovgaTG’dagi aniq narxlar botda ko‘rsatiladi — narxni botda tekshiring.\n\nOddiy giftni qanday yuborish [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) sahifasida, obuna esa [Premium sovg‘a qilish](/telegram-premium-sovga/) sahifasida tushuntirilgan. NFT gift uchun ham hamyon shart emas: buni [NFT sovg‘a va TON hamyon](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida ko‘rib chiqqanmiz.\n\n## Gram yuborishdan oldin nimani tekshirish kerak?\n\nGram yuborishga qaror qilgan bo‘lsangiz, quyidagi tartibda harakat qiling.\n\n1. **Telegram’ni yangilang.** Eski versiyada hamyon umuman bo‘lmasligi mumkin.\n2. **Hamyon ilovangizda borligini tekshiring.** Yangilangandan keyin ham ko‘rinmasa, buning sababi mamlakat cheklovi bo‘lishi mumkin. Bu holda yordam taklif qilgan notanishlarga akkauntingizni ishonib topshirmang.\n3. **Qaysi qurilmadan to‘layotganingizni aniqlang.** Telegram hujjatiga ko‘ra, to‘lovni qurilmangizdagi hamyon amalga oshiradi va u profildagi kartadan farq qilishi mumkin. Zaxira nusxa o‘chiq bo‘lsa, har bir qurilmada alohida kalit va alohida hamyon bo‘ladi.\n4. **Do‘stingiz manzilini o‘zidan tasdiqlab oling.** Chatda kelgan, nusxa ko‘chirilgan yoki birov uzatgan manzilga ishonmang. Nega bunday qilish kerakligini [chatdagi TON manzil haqidagi maqolada](/blog/chatdagi-ton-manzil-egasini-tekshirish-sovga/) tushuntirganmiz.\n5. **Tasdiq oynasini o‘qing.** Oynada bot, summa va qabul qiluvchi ko‘rsatiladi, tasdiqni faqat siz berasiz.\n6. **Komissiyani summaga qo‘shing.** Do‘stingiz aniq bir miqdorni olishi kerak bo‘lsa, tarmoq komissiyasini oldindan hisobga oling.\n\n## Gram’ni Stars’ga aylantirib do‘stga sovg‘a qilsa bo‘ladimi?\n\nton.org’ga ko‘ra, Telegram Stars’ni Gram bilan sotib olsa bo‘ladi. Stars Telegram ichidagi raqamli tovarlar, kontent va xizmatlarga ishlatiladi. Demak, sizda Gram bo‘lsa, avval Stars olib, keyin sovg‘a qilish yo‘li bor.\n\nLekin bu yo‘l bir nechta shart talab qiladi: hamyon ishlashi, unda Gram bo‘lishi va qo‘shimcha qadamlar. Gram’i yo‘q oddiy foydalanuvchi uchun qisqaroq yo‘l bor — Stars yoki giftni so‘mda to‘g‘ridan-to‘g‘ri do‘stingizning @username’iga yuborish.\n\nAkkauntingizda Stars allaqachon bo‘lsa, SovgaTG boti sovg‘ani shu balansdan yuboradi. Xizmat haqi 1 000 so‘mdan boshlanadi, sovg‘a taxminan 1 daqiqada yetadi.\n\nYana bir kuzatuv. ton.org yozishicha, Telegram reklama daromadi Gram’da to‘lanishi mumkin. Do‘stingiz kanal yuritsa, unda Gram allaqachon bo‘lishi mumkin. Bunday do‘stga yana Gram berishdan ko‘ra, profilida turadigan sovg‘a yoki Premium yoqimliroq bo‘lishi mumkin.\n\n## Hamyon bo‘lmasa, so‘mda sovg‘a qanday yuboriladi?\n\nGram ham, hamyon ham kerak emas. Faqat do‘stingizning @username’ini bilsangiz yetadi.\n\n1. [SovgaTG botini](https://t.me/StarsPaymee_bot) oching (@StarsPaymee_bot).\n2. Sovg‘a turini tanlang: gift, Stars, Premium yoki NFT gift.\n3. Do‘stingizning @username’ini kiriting. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n4. Ismingiz ko‘rinmasligini istasangiz, anonim rejimni yoqing.\n5. Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali so‘mda to‘lang. Xalqaro karta, dollar hisobi yoki VPN kerak emas.\n6. Sovg‘a taxminan 10 soniyada yetadi. Yetkazilmasa, to‘langan summa balansga to‘liq qaytadi.\n\nTug‘ilgan kunga oldindan tayyorlanayotgan bo‘lsangiz, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) qulay. Bugun to‘laysiz, sovg‘a siz belgilagan sana va daqiqada o‘zi yetadi. Narxga muddat ustamasi (0–12%) qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin. G‘oyalar [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/) sahifasida bor.\n\n## Gram bilan bog‘liq «sovg‘a» takliflarida qanday aldov bor?\n\nYangi hamyon haqidagi shov-shuv firibgarlar uchun qulay bahona. Quyidagilarni yodda tuting:\n\n- **Hamyonni vositachi yaratmaydi.** Telegram hujjatiga ko‘ra, hamyoni yo‘q foydalanuvchiga u birinchi marta kerak bo‘lganda yaratiladi. Buning uchun hech kimga pul to‘lash yoki kod berish shart emas.\n- **Ko‘rmagan summani tasdiqlamang.** Har qanday to‘lov yoki imzo oynasida bot, summa va qabul qiluvchi ko‘rinadi. Ulardan biri tushunarsiz bo‘lsa, oynani yoping.\n- **Notanish mini-ilovalardan ehtiyot bo‘ling.** Vidjet o‘rnatilgan hamyon orqali to‘lov yoki imzo so‘rashi mumkin, mini-ilovalar esa hamyonga TON Connect va deeplink orqali ulanadi. «Sovg‘a olish uchun hamyonni ulang» degan notanish ilovaga ulanmang.\n- **«Hamyoningizga Gram tushdi, olish uchun tasdiqlang» degan xabarlar** ko‘pincha imzo yoki to‘lov so‘rash uchun yuboriladi. Bunday xabardagi havolani ochmang.\n- **Maxfiy ma’lumotni bermang.** SMS kod, bulutli parol va hamyon kalitlari hech qanday sovg‘a uchun kerak emas.\n- **Bot username’ini tekshiring.** Haqiqiy bot username’i «bot» bilan tugaydi. Batafsil: [«ai» yoki «app» bilan tugaydigan botlar](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/).\n\n## Bot API’dagi TON yangiliklari sovg‘a qiluvchi uchun nimani o‘zgartiradi?\n\n[Bot API o‘zgarishlar ro‘yxatiga](https://core.telegram.org/bots/api-changelog) TonWalletCard, TonWalletCardSticker, TonNft va TonNftAttribute klasslari, shuningdek TON hamyon o‘tkazmalari haqidagi xizmat xabarlari qo‘shilgan. Nomlaridan ko‘rinib turibdiki, ular hamyon kartasi va NFT ma’lumotlariga tegishli. Oddiy foydalanuvchi uchun aniq nima o‘zgarishi hali rasman tushuntirilmagan.\n\nSovg‘a qiluvchi uchun hozircha hech narsa o‘zgarmagan: gift, Stars, Premium va NFT gift avvalgidek @username orqali yuboriladi. Hamyonni username’ga bog‘lash haqidagi mish-mishlarni [shu maqolada](/blog/gram-hamyon-username-boglash-sovga-yuborish/) tahlil qilganmiz.\n\nYangiliklarni [SovgaTG kanalida](https://t.me/StarsPaymee) va telegram.org’da kuzatib boring. Kanal postini rasmiy tasdiqdan keyingina fakt deb qabul qiling.",
+  "faq": [
+    {
+      "q": "Do‘stimga Gram yuborsam, u profilida sovg‘a sifatida ko‘rinadimi?",
+      "a": "Gram o‘tkazmasi profilda sovg‘a kabi ko‘rinishi rasmiy manbalarda aytilmagan — bu tanga o‘tkazmasi, gift emas. Profilda turadigan narsa kerak bo‘lsa, oddiy yoki NFT gift tanlang."
+    },
+    {
+      "q": "Kanal «komissiyasiz» deydi — demak, Gram yuborganimda hech narsa ushlanmaydimi?",
+      "a": "Ushlanadi, faqat kam miqdorda. ton.org’da bitta Gram o‘tkazmasi uchun taxminan 0,00039 Gram, USDt uchun taxminan 0,001 Gram ko‘rsatilgan va bu summa tarmoq band bo‘lganda ham o‘zgarmaydi."
+    },
+    {
+      "q": "Do‘stimning Gram hamyoni bo‘lmasa, unga baribir yubora olamanmi?",
+      "a": "Telegram hujjatiga ko‘ra, hamyon foydalanuvchiga birinchi marta kerak bo‘lganda yaratiladi. Ammo eski ilovada yoki hamyon ishlamaydigan mamlakatda u umuman bo‘lmaydi, shuning uchun avval do‘stingizdan so‘rang."
+    },
+    {
+      "q": "Do‘stim ham O‘zbekistonda yashasa, Gram sovg‘asi unga yetib boradimi?",
+      "a": "Hamyon O‘zbekistonda mavjudmi yoki yo‘qmi, bu rasmiy manbalarda yozilmagan. Yuborishdan oldin do‘stingiz ilovasini yangilab, hamyon bor-yo‘qligini ko‘rib bersin."
+    },
+    {
+      "q": "Gram’ni telefondan yoki kompyuterdan yuborishimning farqi bormi?",
+      "a": "Bo‘lishi mumkin: to‘lovni aynan siz foydalanayotgan qurilmadagi hamyon amalga oshiradi. Zaxira nusxa o‘chiq bo‘lsa, telefon va kompyuterda alohida hamyon bo‘ladi va balansi ham har xil chiqadi."
+    },
+    {
+      "q": "Gram o‘rniga do‘stimga so‘mda Stars sovg‘a qilsam, qancha vaqtda yetadi?",
+      "a": "SovgaTG orqali Stars do‘stingizning @username’iga taxminan 10 soniyada yetadi. Agar yetkazilmasa, to‘lagan pulingiz bot balansiga to‘liq qaytadi."
+    },
+    {
+      "q": "Gram yuborish gift yuborishdan arzonroqmi?",
+      "a": "Bunday taqqoslash rasman qilinmagan. Gram komissiyasi kichik, lekin oldin Gram’ni sotib olishingiz kerak bo‘ladi; giftning so‘mdagi narxini esa botda ko‘rasiz."
+    }
+  ],
+  "keywords": [
+    "gram hamyon orqali sovga yuborish",
+    "gram yuborish telegram",
+    "dostga gram yuborish",
+    "telegram gram hamyon komissiya",
+    "gram yoki stars sovga",
+    "telegram gram wallet ozbekistonda",
+    "gram bilan stars sotib olish",
+    "как отправить грам другу в телеграм",
+    "gram кошелек телеграм подарок",
+    "перевод gram без комиссии телеграм",
+    "подарить звезды телеграм узбекистан"
+  ],
+  "related": [
+    "gram-wallet-telegram-faollashtirish",
+    "gram-hamyon-username-boglash-sovga-yuborish",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "chatdagi-ton-manzil-egasini-tekshirish-sovga"
+  ],
+  "sources": [
+    {
+      "url": "https://ton.org/",
+      "title": "TON — The Leading L1 Blockchain"
+    },
+    {
+      "url": "https://core.telegram.org/bots/widgets",
+      "title": "Telegram Widgets"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api-changelog",
+      "title": "Bot API changelog"
+    }
+  ],
+  "intent": "Kanalda «komissiyasiz Gram hamyon har bir Telegram foydalanuvchisiga» degan xabarni o‘qigan O‘zbekistondagi odam do‘stiga sovg‘a sifatida Gram yuborsa bo‘ladimi, bu gift yoki Stars’dan arzon va qulayroqmi deb bilmoqchi. U «gram hamyon orqali sovg‘a yuborish» deb qidiradi."
+}
