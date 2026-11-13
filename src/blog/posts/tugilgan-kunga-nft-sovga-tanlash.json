@@ -1,0 +1,78 @@
+{
+  "slug": "tugilgan-kunga-nft-sovga-tanlash",
+  "date": "2026-11-13",
+  "reviewed": "2026-11-13",
+  "category": "munosabatlar",
+  "title": "Tug‘ilgan kunga NFT sovg‘a: so‘rab tanlash yaxshimi yoki kutilmagani?",
+  "excerpt": "Nusxa qimmat bo‘lsa, do‘stingizdan bilintirmay so‘rab oling, arzonrog‘ini kutilmagan sovg‘a qiling. Model, fon va belgini uning didiga moslang, sovg‘ani @username orqali o‘sha kuni yetkazing.",
+  "content": "## Tug‘ilgan kunga NFT sovg‘a oddiy giftdan nimasi bilan farq qiladi?\n\nKolleksion NFT sovg‘a — bitta aniq nusxa. Uning o‘z raqami, modeli, foni va belgisi bor. Oddiy gift esa hammaga bir xil ko‘rinishda boradigan tabrik.\n\nHar bir kolleksion sovg‘aning «t.me/nft» formatidagi alohida havolasi bor ([Telegram blogi](https://telegram.org/blog/wear-gifts-blockchain-and-more)). Shuning uchun uni «aynan sen uchun tanlangan nusxa» deb taqdim qilsa bo‘ladi. Do‘stingiz havolani ochib, qaysi raqamli sovg‘ani olganini ko‘radi.\n\nSotib olingan sovg‘a do‘stingizda qoladi. Kolleksion giftni boshqa foydalanuvchiga o‘tkazish mumkin, ayrim hollarda buning uchun to‘lov olinmaydi ([Telegram Gifts API](https://core.telegram.org/api/gifts)). Telegram’ning ichki bozorida uni Stars’da narx qo‘yib sotsa ham bo‘ladi. Ya’ni do‘stingiz xohlasa saqlaydi, xohlasa keyinroq sotadi.\n\nQachon mos keladi:\n\n- yaqin do‘st yoki yubiley: 18, 25, 30 yosh;\n- kolleksion sovg‘alarga qiziqadigan, profilini bezab yuradigan odam;\n- ikkalangizga tushunarli ichki hazilga mos nusxa topilganda.\n\nQachon ortiqcha bo‘ladi: oluvchi Telegram’ni kam ishlatsa yoki bunday sovg‘aning qiymatini tushunmasa. Bunday odamga [Telegram Premium sovg‘a](/telegram-premium-sovga/) yoki oddiy gift ko‘proq foyda beradi.\n\n## Do‘stingizdan qaysi nusxa yoqishini so‘rash kerakmi?\n\nKanallarda Durov do‘stidan qaysi Plush Pepe yoqishini oldindan so‘ragani haqida gap tarqaldi. Buni tasdiqlovchi manba topilmadi. Lekin usulning o‘zi foydali: qimmat sovg‘ada adashmaslik uchun didni oldindan bilib olish.\n\n| Mezon | So‘rab tanlash | Kutilmagan sovg‘a |\n|---|---|---|\n| Adashish xavfi | Past: nusxani do‘stingiz o‘zi tanlagan | Bor: rang yoki model yoqmasligi mumkin |\n| Hayajon | Savol ochiq berilsa, kamroq | Ko‘proq |\n| Qimmat nusxa uchun | Mos | Tavakkal |\n| Arzonroq nusxa uchun | Ortiqcha bo‘lishi mumkin | Mos |\n| Nimani yashirish kerak | Nega so‘raganingizni | Xarid va yetkazish sanasini |\n\nNusxa qimmat bo‘lsa, so‘rang. Arzonroq bo‘lsa, kutilmagan sovg‘a qilavering.\n\nO‘rtacha yo‘l ham bor. Bitta kolleksiyadan 3–4 ta nusxaning havolasini tanlab, chatga «qaysi biri chiroyliroq?» deb tashlang. Buni tug‘ilgan kundan bir-ikki hafta oldin, oddiy suhbat orasida so‘rasangiz, do‘stingiz shubhalanmaydi. U tanlaydi, lekin savolning sababini bilmaydi.\n\nYana bir usul: do‘stingiz sovg‘alarini profilida ko‘rsatsa, ularga qarab chiqing. Qaysi kolleksiya va ranglar ko‘p uchrasa, uning didi o‘sha tomonda.\n\n## Model, fon va belgini qanday tanlash kerak?\n\nKolleksion sovg‘aning uchta xususiyati bor: model, fon va belgi (symbol). Har birining yonidagi foiz shu xususiyat kolleksiyada qanchalik ko‘p uchrashini bildiradi.\n\nFoizlar qanday yozilishini [Fragment’dagi Plush Pepe #834](https://fragment.com/gift/plushpepe-834) sahifasida ko‘rish mumkin: Donatello (1%), Navy Blue (2%), Bell Pepper (0,5%). Foiz qancha kichik bo‘lsa, xususiyat shuncha kam uchraydi. Bunday nusxalar qimmatroq bo‘lishi mumkin, lekin narxni har bir nusxa uchun alohida tekshirish kerak.\n\nTug‘ilgan kun sovg‘asi uchun nimaga qarash kerak:\n\n- **Model** do‘stingizning xarakteri yoki qiziqishiga mos bo‘lsin. Hazilkash odamga kulgili model, vazmin odamga sokinroq model yarashadi.\n- **Fon.** Sovg‘a profilda ko‘rinadi, shuning uchun fon rangi do‘stingizning avatari va profilining umumiy ko‘rinishiga mos bo‘lsin.\n- **Belgi.** Ichki hazil yoki umumiy xotiraga bog‘lansa, sovg‘a ma’noli chiqadi.\n- **Raqam.** Tug‘ilgan sana, yosh yoki tanishgan yilingizga o‘xshash raqam esda qoladi. Masalan, 25 yoshga to‘layotgan do‘stga #25 yoki #2501 — agar shunday raqamli nusxa sotuvda bo‘lsa.\n\nHamma xususiyati noyob bo‘lgan nusxa shart emas. Tug‘ilgan kunda foizdan ko‘ra rang va ma’noning do‘stingizga mos kelishi ko‘proq qadrlanadi. Plush Pepe tanlash bo‘yicha batafsil: [Plush Pepe’ni do‘stga sovg‘a qilish](/blog/plush-pepe-nft-dostga-sovga-qilish/).\n\n## NFT sovg‘ani qayerdan olgan qulay: Stars, TON yoki so‘m?\n\n| Yo‘l | Nima kerak | To‘lov | Kimga qulay |\n|---|---|---|---|\n| Telegram ichki bozori | Stars balansi | Stars | Stars’i bor odamga |\n| TON blokcheyni va tashqi auksion saytlari | TON hamyon | Kriptovalyuta | Hamyon bilan ishlay oladiganga |\n| SovgaTG kabi vositachi | Oluvchining @username’i | So‘m: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi | Kartasi faqat so‘mda bo‘lganga |\n\nIchki bozorda sotuvchi narxni Stars’da qo‘yadi ([Telegram blogi](https://telegram.org/blog/gift-marketplace-and-more)). Sovg‘ani TON hamyonga o‘tkazgach, uni auksion saytlari kabi tashqi xizmatlarga ulash mumkin ([Telegram blogi](https://telegram.org/blog/wear-gifts-blockchain-and-more)). API hujjatiga ko‘ra, qayta sotish narxi nanogramda ham belgilanishi mumkin ([Telegram Gifts API](https://core.telegram.org/api/gifts)). Shu sababli bitta nusxaning narxi turli joyda turli valyutada ko‘rsatilganini uchratishingiz mumkin.\n\nSovgaTG’da narx bozor narxi va xizmat haqidan iborat. Aniq summani botda tekshiring. Xalqaro karta, dollar hisobi yoki VPN kerak emas.\n\nIchki bozor, Portals va vositachi o‘rtasidagi farqlar alohida maqolada yozilgan: [NFT sovg‘a marketpleysi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/). Getgems ishlamay qolsa, boshqa yo‘llar bor: [Getgems ochilmasa qayerdan olish](/blog/getgems-ochilmasa-nft-sovga-olish/).\n\n## Sovg‘ani aynan tug‘ilgan kuni qanday yetkazish mumkin?\n\nSovg‘ani bir hafta oldin olib qo‘yib, o‘sha kuni yuborishni unutib qo‘yish oson. Bunday holatda rejalashtirilgan yetkazish yordam beradi.\n\n1. Do‘stingizning @username’ini profilidan nusxa qilib oling. Bitta harf xato bo‘lsa, sovg‘a boshqa odamga ketishi mumkin.\n2. Nusxani tanlang va havolasini saqlab qo‘ying, buyurtmada adashmaysiz.\n3. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)ni oching, kolleksion gift xaridini tanlang va narxni botda tekshiring.\n4. To‘lovni Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali qiling.\n5. Vaqtni belgilang. Rejalashtirilgan sovg‘ada pulni bugun to‘laysiz, sovg‘a esa belgilangan sana va daqiqada o‘zi yetadi. Narxga muddat ustamasi (0–12%) qo‘shiladi. Bu imkoniyat NFT uchun ham ochiqligini botda tekshiring. Batafsil: [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/).\n6. Rejangiz o‘zgarsa, sovg‘a yetkazilmasidan oldin buyurtmani bekor qilib, pulni qaytarib olasiz.\n7. Vaqtni o‘ylab tanlang: soat 00:00 da birinchi bo‘lib tabriklash yoki ertalab do‘stingiz uyg‘onadigan payt. U boshqa vaqt zonasida yashasa, farqni oldindan hisoblang.\n\n> Darhol yuborsangiz ham bo‘ladi: oddiy gift, Premium va Stars taxminan 10 soniyada yetadi. Kolleksion sovg‘ani yetkazish vaqtini botda ko‘ring.\n\n## Sovg‘aga tabrik so‘zi va ismingizni qanday qoldirasiz?\n\nTug‘ilgan kun sovg‘asida izoh tabrikning yarmi. Qisqa va shaxsiy yozing: ismi, yoshi, ikkalangiz tushunadigan hazil. «Tug‘ilgan kuning bilan!»ning o‘zi yetarli emas, unga bitta shaxsiy gap qo‘shing.\n\nIzoh va yuboruvchi ismi NFT sovg‘ada qanday saqlanishi, oluvchi ularni o‘chira olishi yoki yo‘qligi alohida maqolada tushuntirilgan: [NFT sovg‘adagi izoh va imzo](/blog/nft-sovga-izohi-va-yuboruvchi-imzosi/).\n\nKutilmagan sovg‘a qilmoqchi bo‘lsangiz, ismingizni yashirib yuborishni o‘ylab ko‘ring. Oddiy giftni SovgaTG anonim rejimda ham yuboradi, kolleksion sovg‘a uchun bu imkoniyatni botda tekshiring. Keyinroq «bu mendan edi» deb aytish ham o‘ziga xos hayajon beradi.\n\nIzohga sovg‘aning narxini yozmang: do‘stingiz summani emas, siz tanlagan nusxa va so‘zlarni eslab qoladi.\n\n## Byudjet yetmasa: NFT ijarasi yoki boshqa variant\n\nYoqqan nusxa qimmat bo‘lsa, quyidagi yo‘llar bor:\n\n- **Ijara.** SovgaTG’da NFT sovg‘ani 1 kundan boshlab ijaraga olish mumkin. Bu bayram kuni profilda chiroyli nusxa turishiga yetadi. Batafsil: [NFT sovg‘a ijarasi](/nft-sovga-ijara/).\n- **Ijarani ochiq aytish.** Ijaradagi nusxa do‘stingizda doim qolmaydi. Keyin xijolat bo‘lmaslik uchun buni tabrikda yashirmang.\n- **Arzonroq nusxa.** Foizi katta model va fonli nusxalar orasida ham chiroyli variantlar uchraydi. Bir nechtasining narxini botda solishtiring.\n- **Boshqa to‘plam.** Oddiy gift bilan Premium yoki Stars birga kamtarroq, lekin foydali sovg‘a bo‘ladi. G‘oyalar: [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/).\n\n## Tug‘ilgan kun NFT sovg‘asida qanday xatolar bo‘ladi?\n\n**Kanaldagi xabarni fakt deb bilish.** Fragment sahifasida kolleksion sovg‘aning egasi ism bilan emas, TON hamyon manzili bilan ko‘rsatiladi. Plush Pepe #834 sahifasida ham shunday: holati «Sold», oxirgi o‘tkazma «Oct 19» sanasida, narxi yozilmagan ([Fragment](https://fragment.com/gift/plushpepe-834)). Bunday sahifadan kim kimga sovg‘a qilganini bilib bo‘lmaydi.\n\n**Taklifni sotuv narxi deb o‘ylash.** Fragment’da taklif (bid) kiritish oynasi chiqsa, undagi summa amalga oshgan sotuv emas. Nusxaning qancha turishini bilish uchun joriy narxni xarid qiladigan joyingizda ko‘ring.\n\n**Notanish sotuvchiga ishonish.** Oldindan pul o‘tkazish, SMS kod yoki parol berish shart emas. SovgaTG faqat oluvchining @username’ini so‘raydi.\n\n**Username’ni xato yozish.** SovgaTG’da sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi. Ammo xato yozilgan username boshqa mavjud akkauntga tegishli bo‘lsa, unga borib qolgan sovg‘ani qaytarib olish mumkinligi tasdiqlanmagan. Shuning uchun username’ni ikki marta tekshiring.\n\n**Hamyonsiz bo‘lmaydi deb o‘ylash.** Kolleksion sovg‘ani TON’dagi NFT’ga aylantirib, Fragment’ga import qilish mumkin ([Telegram Gifts API](https://core.telegram.org/api/gifts)). Lekin tug‘ilgan kun sovg‘asi uchun bu shart emas, sovg‘a Telegram ichida @username orqali boradi. Batafsil: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).",
+  "faq": [
+    {
+      "q": "Do‘stimda Telegram Premium bo‘lmasa, unga NFT sovg‘a yuborsa bo‘ladimi?",
+      "a": "SovgaTG orqali buyurtma berish uchun faqat oluvchining @username’i kerak. Oluvchida Premium bo‘lishi shartligi bu maqoladagi rasmiy manbalarda ko‘rsatilmagan, aniq shartni botda tekshiring."
+    },
+    {
+      "q": "NFT sovg‘ani tug‘ilgan kundan bir hafta oldin sotib olib, o‘sha kuni yuborsa bo‘ladimi?",
+      "a": "Buning uchun rejalashtirilgan yetkazish bor: to‘lovni hozir qilasiz, sovg‘ani bot keyin siz aytgan vaqtda yuboradi. Muddat qanchalik uzoq bo‘lsa, ustama shunchalik oshishi mumkin (0–12%). Kolleksion sovg‘alar uchun bu imkoniyat ochiqmi, botda aniqlang."
+    },
+    {
+      "q": "Do‘stim sovg‘a qilingan NFT’ni keyin sotib yuborsa, menga bilinadimi?",
+      "a": "Sizga xabar borishi rasman tasdiqlanmagan. Blokcheynga chiqarilgan sovg‘aning Fragment sahifasida egalik tarixi ko‘rinadi, ammo egalar ism bilan emas, hamyon manzili bilan ko‘rsatiladi."
+    },
+    {
+      "q": "Qaysi foiz «noyob» hisoblanadi: 1% mi yoki 0,5% mi?",
+      "a": "0,5% li xususiyat 1% liga qaraganda kamroq uchraydi. Lekin qaysi foizdan boshlab xususiyat «noyob» sanalishi haqida rasmiy chegara yo‘q."
+    },
+    {
+      "q": "Bir nechta do‘st bo‘lib pul yig‘ib, bitta NFT sovg‘a qilsa bo‘ladimi?",
+      "a": "Bo‘ladi: pulni o‘zaro oldindan yig‘asiz, buyurtmani esa bir kishi beradi. Sovg‘a kimlardan ekani bilinishi uchun izohga hammaning ismini yozing — kolleksion sovg‘aga izoh qo‘shish mumkinmi, botda tekshiring."
+    },
+    {
+      "q": "Rejalashtirilgan NFT sovg‘ani bekor qilsam, pul qayerga qaytadi?",
+      "a": "Sovg‘a yetkazilmasidan oldin buyurtmani bekor qilsangiz, pulni qaytarib olasiz. Pul qaysi usulda qaytishini botda yoki @StarsPaymeeSupport yordam xizmatidan aniqlab oling."
+    },
+    {
+      "q": "Do‘stim chet elda yashasa, sovg‘a uning vaqti bilan yetadimi?",
+      "a": "Yetkazish vaqti qaysi vaqt zonasi bo‘yicha belgilanishini botda tekshiring. Kerak bo‘lsa, do‘stingiz yashaydigan joydagi vaqtni o‘zingiz hisoblab, sana va daqiqani shunga moslang."
+    }
+  ],
+  "keywords": [
+    "tug'ilgan kunga nft sovg'a",
+    "tug'ilgan kunga telegram nft sovg'a",
+    "do'stga nft gift sovg'a qilish",
+    "plush pepe sovg'a qilish",
+    "nft sovg'a model fon belgi tanlash",
+    "telegram kolleksion sovg'a tug'ilgan kun",
+    "nft sovg'ani so'mda olish",
+    "rejalashtirilgan nft sovg'a",
+    "nft подарок на день рождения телеграм",
+    "подарить nft подарок другу telegram",
+    "как выбрать модель фон и символ подарка telegram",
+    "купить коллекционный подарок telegram за сумы"
+  ],
+  "related": [
+    "plush-pepe-nft-dostga-sovga-qilish",
+    "nft-sovga-izohi-va-yuboruvchi-imzosi",
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "getgems-ochilmasa-nft-sovga-olish"
+  ],
+  "sources": [
+    {
+      "url": "https://fragment.com/gift/plushpepe-834",
+      "title": "Plush Pepe #834 (Fragment)"
+    },
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain… (Telegram blog)"
+    },
+    {
+      "url": "https://telegram.org/blog/gift-marketplace-and-more",
+      "title": "Gift Marketplace, Posting Several Stories at Once… (Telegram blog)"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts (API)"
+    }
+  ],
+  "intent": "Do'stining tug'ilgan kuniga Durov kabi kolleksion NFT sovg'a (masalan, Plush Pepe) qilmoqchi bo'lgan o'zbek foydalanuvchisi «tug'ilgan kunga nft sovg'a» deb qidiradi. U oluvchidan qaysi nusxa yoqishini so'rash kerakmi yoki kutilmagan sovg'a qilish yaxshimi, model, fon va belgini qanday tanlashni va sovg'ani o'z kunida qanday yetkazishni bilmoqchi."
+}
