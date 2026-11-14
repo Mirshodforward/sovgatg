@@ -1,0 +1,69 @@
+{
+  "slug": "ton-org-telegram-sovgalari-ton-nft-farqi",
+  "date": "2026-11-14",
+  "reviewed": "2026-11-14",
+  "category": "yangiliklar",
+  "title": "Qaysi Telegram sovg‘asi TON’da NFT bo‘ladi va bu yuborishga ta’sir qiladimi?",
+  "excerpt": "TON blokcheynida NFT’ga kolleksion (upgrade qilingan) gift aylantiriladi, oddiy gift Telegram ichida qoladi. Yuborish o‘zgarmaydi: do‘stingizning @username’i yetarli.",
+  "content": "TON’da NFT bo‘la oladigan sovg‘a — kolleksion gift. Uni blokcheynga egasining o‘zi chiqaradi. Oddiy gift Telegram ichida qoladi. Siz uchun yuborish tartibi bir xil: do‘stingizning @username’ini bilsangiz bo‘ldi.\n\n## ton.org’dagi sovg‘a haqidagi gap sovg‘a qiluvchiga nimani anglatadi?\n\n[ton.org](https://ton.org/) bosh sahifasida Telegram sovg‘alarini TON asosidagi NFT’ga aylantirish mumkinligi yozilgan. Bu gapni o‘qib, «endi har bir sovg‘a kriptoga aylanadimi» deb o‘ylash oson. Aslida unday emas.\n\nTelegram’ning [dasturchilar uchun hujjati](https://core.telegram.org/api/gifts) aniqroq aytadi: TON blokcheynida NFT’ga **kolleksion** sovg‘a aylantiriladi. Demak, ton.org’dagi umumiy gap hamma giftga emas, upgrade qilingan nusxalarga tegishli.\n\nSaytda «1B+» raqami ham bor. U TON hamyon egalarini emas, Telegram’ning faol foydalanuvchilarini bildiradi. TON tarmog‘i uchun ton.org boshqa raqamni ko‘rsatadi: oyiga 3,3 mln faol hamyon. Sovg‘a qiluvchi uchun xulosa oddiy: do‘stingizda TON hamyon bor deb hisoblamang, hamyonsiz ham qabul qilinadigan sovg‘ani tanlang.\n\n## Oddiy, kolleksion va blokcheyndagi gift: farqi nimada?\n\nBitta sovg‘a uch xil holatda bo‘lishi mumkin. Ular qayerda saqlanishi va oluvchidan nima talab qilishi bilan farq qiladi.\n\n| Sovg‘a holati | Qayerda turadi | Noyob t.me/nft havolasi | Oluvchidan nima talab qilinadi | Kimga mos |\n|---|---|---|---|---|\n| Oddiy gift | Telegram ichida | Yo‘q | Hech narsa | Har qanday tabrik, kichik e’tibor |\n| Kolleksion (upgrade qilingan) gift | Telegram ichida | Bor, har bir nusxada o‘zgacha | Hech narsa | Noyob narsani yoqtiradigan do‘st |\n| Blokcheynga chiqarilgan gift | TON blokcheynida, NFT ko‘rinishida | Bor | 2FA parol, keyin Fragment | Sovg‘asini o‘zi boshqarmoqchi bo‘lgan kolleksioner |\n\n[Telegram blogiga](https://telegram.org/blog/wear-gifts-blockchain-and-more) ko‘ra, sovg‘alarni ham kolleksion username va raqamlar kabi TON blokcheyni orqali o‘tkazish yoki auksionga qo‘yish mumkin.\n\nShuni yodda tuting: siz yuborgan sovg‘a yetib borgan zahoti NFT bo‘lib qolmaydi. Blokcheynga chiqarish — alohida qadam. Uni oluvchi o‘z akkauntidan, xohlasa, keyinroq bajaradi.\n\n## Bu farq qaysi sovg‘ani tanlashingizga ta’sir qiladimi?\n\nOddiy tabrikda deyarli ta’sir qilmaydi, kolleksioner do‘stga esa ta’sir qiladi. Misol: hamkasbingizning tug‘ilgan kuni bo‘lsa, oddiy gift yetadi. Do‘stingiz kolleksion sovg‘alarni yig‘sa va ularni sotib-almashtirsa, kolleksion nusxa oling, chunki faqat uni keyin blokcheynga chiqarish mumkin.\n\n- **Tug‘ilgan kun, bayram yoki shunchaki e’tibor.** Oddiy gift oluvchidan hech qanday qo‘shimcha harakat talab qilmaydi. G‘oyalarni [tug‘ilgan kunga sovg‘a](/tugilgan-kunga-sovga/) sahifasidan oling.\n- **Do‘stingiz NFT yig‘adi.** Tayyor kolleksion nusxani [NFT gift sotib olish](/nft-gift-sotib-olish/) sahifasidan olasiz. Modelni do‘stingizdan so‘rab tanlash kerakmi yoki kutilmagan sovg‘a qilish kerakmi — [tug‘ilgan kunga NFT sovg‘a tanlash](/blog/tugilgan-kunga-nft-sovga-tanlash/) maqolasini o‘qing.\n- **Qimmat nusxa qisqa muddatga kerak.** NFT sovg‘ani 1 kundan boshlab ijaraga olish mumkin. Shartlar [NFT sovg‘a ijarasi](/nft-sovga-ijara/) sahifasida.\n- **Buyum emas, imkoniyat sovg‘a qilmoqchisiz.** Premium (3, 6 yoki 12 oy) yoki Stars mos keladi. ton.org bularni Gram yoki kripto hamyon bilan olsa bo‘lishini yozadi, lekin ularni so‘mda va hamyonsiz ham sovg‘a qilsa bo‘ladi. Batafsil [Telegram Premium sovg‘a](/telegram-premium-sovga/) sahifasida.\n\nHar bir sovg‘aning aniq narxi botda ko‘rsatiladi, shuning uchun narxni botda tekshiring.\n\n## Do‘stga sovg‘a yuborish uchun TON hamyon yoki Gram kerakmi?\n\nYo‘q. SovgaTG orqali yuborish uchun faqat oluvchining @username’i kerak. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n\nton.org’ga ko‘ra, TON blokcheynining tangasi Gram deb ataladi, u Toncoin nomi bilan ham tanilgan. Sayt Telegram ilovasiga o‘rnatilgan hamyonni ham tilga oladi. Sovg‘a qiluvchi uchun bularning hech biri shart emas: tanga sotib olmaysiz, hamyon ochmaysiz.\n\nTo‘lov so‘mda qilinadi: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta, dollar hisobi yoki VPN kerak emas.\n\nHamyon kerakmi yoki yo‘qmi degan savol oluvchida keyinroq, sovg‘ani blokcheynga chiqarmoqchi bo‘lganda paydo bo‘ladi. Bu haqda batafsil: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n\n## SovgaTG orqali gift yoki NFT sovg‘ani qanday yuborasiz?\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching.\n2. Sovg‘a turini tanlang: oddiy gift, kolleksion NFT gift, NFT ijarasi, Premium yoki Stars.\n3. Do‘stingizning @username’ini kiriting. Ismingiz ko‘rinmasin desangiz, anonim rejimni yoqing.\n4. Sovg‘a aynan bayram daqiqasida yetishi kerak bo‘lsa, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/)dan foydalaning. Sana va daqiqani belgilaysiz, to‘lov bugun qilinadi, narxga muddat ustamasi (0–12%) qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin.\n5. Narxni botda tekshirib, so‘mda to‘lang. Oddiy gift uchun bu sovg‘a qiymati va xizmat haqi, NFT uchun bozor narxi va xizmat haqi bo‘ladi.\n6. Yetkazilishini kuting. Oddiy gift, Premium va Stars taxminan 10 soniyada yetadi. Bot sovg‘ani sizning Stars balansingizdan yuborsa, bu taxminan 1 daqiqa oladi, xizmat haqi esa 1 000 so‘mdan boshlanadi.\n7. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi. Savol tug‘ilsa, yordam xizmatiga yozing: [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport).\n\nKo‘p uchraydigan xato — @username’ni noto‘g‘ri yozish. Yuborishdan oldin uni do‘stingizning profilidan ko‘chirib oling.\n\n## Do‘stingiz sovg‘ani blokcheynga chiqarmoqchi bo‘lsa, nimani bilishi kerak?\n\nBu oluvchining qarori. Lekin kolleksion sovg‘a bilan birga quyidagi maslahatlarni ham aytib qo‘ysangiz, do‘stingiz bekorga qiynalmaydi.\n\n- **2FA parol kerak.** Telegram hujjatiga ko‘ra, sovg‘ani blokcheynga chiqarishda foydalanuvchining ikki bosqichli tekshiruv (bulutli) paroli so‘raladi. Parol yoqilmagan bo‘lsa, avval uni sozlash kerak.\n- **Ba’zi sovg‘alar darhol chiqmaydi.** Ayrim sovg‘alarni faqat belgilangan sanadan boshlab eksport qilish mumkin. Yangi olingan nusxa hozir chiqmasa, bu nosozlik bo‘lmasligi mumkin.\n- **Eksportdan keyin Fragment.** Hujjatga ko‘ra, eksport NFT’ni Fragment’ga import qilish uchun havola beradi. Hamyon va Fragment ulanishi xavfsizligi haqida [bu maqolada](/blog/wallet-fragment-ulanish-nft-sovga-xavfi/) yozilgan.\n- **Nazorat akkauntga bog‘liq bo‘lmay qoladi.** Telegram blogiga ko‘ra, blokcheyndagi sovg‘a ustidan egasining nazorati Telegram hisobiga kirish yo‘qolsa yoki hisob o‘chirilsa ham saqlanadi.\n\n## «TON sovg‘asi» degan takliflarda qanday aldovdan ehtiyot bo‘lish kerak?\n\nTON va sovg‘alar haqidagi xabarlar ko‘p tarqalgan paytda «sovg‘ani oling» degan begona havolalarga ehtiyot bo‘ling. ton.org’dagi gap sovg‘a yuborish tartibini o‘zgartirmagan: sovg‘a hamon @username orqali keladi.\n\n> Sovg‘a uchun hech kimga 2FA parol, SMS kod yoki hamyon kalitlarini bermang. Parolni sovg‘ani blokcheynga chiqarishda Telegram ilovasining o‘zi so‘raydi. Chatda yoki notanish saytda so‘rashsa, bu aldov belgisi.\n\n- Har bir kolleksion sovg‘aning t.me/nft ko‘rinishidagi noyob havolasi bor. Uni Telegram ichida ochib, sovg‘a sahifasini o‘zingiz ko‘ring, sotuvchining skrinshotiga ishonmang.\n- Blokcheynga chiqarilgan nusxani eksplorerda ko‘rish va gram.org’ga qanchalik ishonish mumkinligi [NFT sovg‘ani eksplorerda tekshirish](/blog/nft-sovga-gram-org-eksplorerda-tekshirish/) maqolasida yozilgan.\n- NFT sovg‘ani qayerdan olgan xavfsizroq ekanini [ichki bozor, Portals va vositachi farqi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/) maqolasida solishtirganmiz.\n\nSovgaTG mustaqil xizmat, u Telegram yoki TON nomidan ish yuritmaydi. Bot oluvchining faqat @username’ini so‘raydi.",
+  "faq": [
+    {
+      "q": "Do‘stimga yuborgan oddiy gift keyin o‘zidan-o‘zi NFT bo‘lib qoladimi?",
+      "a": "Yo‘q. Telegram hujjatida NFT’ga kolleksion sovg‘a aylantirilishi aytilgan, buni esa oluvchi o‘zi bajaradi. Oddiy gift blokcheynga chiqmaydi."
+    },
+    {
+      "q": "Do‘stimda TON hamyon bo‘lmasa, kolleksion sovg‘ani qabul qila oladimi?",
+      "a": "Ha. Kolleksion gift Telegram ichida @username’ga keladi, uni qabul qilish uchun hamyon kerak emas. Hamyon va Fragment masalasi faqat sovg‘ani blokcheynga chiqarmoqchi bo‘lsa paydo bo‘ladi."
+    },
+    {
+      "q": "NFT sovg‘a qilsam, do‘stim uni keyin sota oladimi?",
+      "a": "Telegram blogiga ko‘ra, blokcheyndagi sovg‘ani o‘tkazish yoki auksionga qo‘yish mumkin. Bunday savdoning shartlari va to‘lovlarini do‘stingiz Fragment’ning o‘zida tekshirsin."
+    },
+    {
+      "q": "Do‘stim sovg‘ani blokcheynga chiqara olmayapti — nima sabab bo‘lishi mumkin?",
+      "a": "Rasmiy hujjatda ikki shart bor: akkauntda 2FA paroli bo‘lishi kerak, ayrim sovg‘alar esa faqat belgilangan sanadan keyin chiqadi. Avval shu ikkalasini tekshirsin."
+    },
+    {
+      "q": "Kolleksion sovg‘ani Gram bilan emas, so‘mda olsa bo‘ladimi?",
+      "a": "Ha. SovgaTG botida NFT gift bozor narxi va xizmat haqi bilan so‘mda olinadi. Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali to‘laysiz, tanga sotib olish shart emas."
+    },
+    {
+      "q": "Do‘stim Telegram’ga kira olmay qolsa, blokcheyndagi sovg‘asi nima bo‘ladi?",
+      "a": "Telegram blogiga ko‘ra, sovg‘a blokcheynga chiqarilgan bo‘lsa, uning ustidan nazorat akkauntga kirish yo‘qolsa ham egasida qoladi. Telegram ichidagi sovg‘aga bu qoida tegishli emas."
+    }
+  ],
+  "keywords": [
+    "ton.org telegram sovg'alari",
+    "telegram sovg'a ton nft",
+    "telegram gift nft ga aylantirish",
+    "kolleksion sovg'a blokcheyn",
+    "nft sovg'a do'stga yuborish",
+    "telegram sovg'a fragment",
+    "подарки telegram ton.org",
+    "telegram подарки nft ton",
+    "конвертировать подарок в nft telegram",
+    "коллекционные подарки telegram блокчейн",
+    "вывести подарок в блокчейн ton"
+  ],
+  "related": [
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "nft-sovga-gram-org-eksplorerda-tekshirish",
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "wallet-fragment-ulanish-nft-sovga-xavfi"
+  ],
+  "sources": [
+    {
+      "url": "https://ton.org/",
+      "title": "TON — The Leading L1 Blockchain"
+    },
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    }
+  ],
+  "intent": "Do'stiga sovg'a qilmoqchi bo'lgan Telegram foydalanuvchisi «ton.org Telegram sovg'alari» haqidagi xabarni ko'rib, shunday qidiradi: qaysi sovg'a TON blokcheynida NFT bo'ladi, qaysi biri yo'q, bu sovg'ani tanlash va yuborishga ta'sir qiladimi."
+}
