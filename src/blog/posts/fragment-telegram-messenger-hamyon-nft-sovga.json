@@ -1,0 +1,69 @@
+{
+  "slug": "fragment-telegram-messenger-hamyon-nft-sovga",
+  "date": "2026-11-15",
+  "reviewed": "2026-11-15",
+  "category": "yangiliklar",
+  "title": "Fragment’da Telegram Messenger hamyoni: NFT sovg‘a yuborish o‘zgaradimi?",
+  "excerpt": "Yo‘q, o‘zgarmaydi: NFT gift, oddiy sovg‘a, Stars va Premium hamon do‘stingizning @username’i orqali yuboriladi. Fragment’dagi yangi yozuv rasman tasdiqlanmagan, uni ulashga shoshilmang.",
+  "content": "## Yangi «Telegram Messenger» yozuvi do‘stga NFT sovg‘a yuborishga ta’sir qiladimi?\n\nYo‘q. Oddiy gift, kolleksion NFT gift, Stars va Premium hamon oluvchining @username’i orqali yuboriladi. Buning uchun Fragment’dagi TON Connect ro‘yxatidan hamyon tanlash shart emas.\n\nFragment’dagi hamyonlar ro‘yxatida alohida «Telegram Messenger» yozuvi paydo bo‘lgani haqidagi xabar Telegram kanallaridan birida tarqalgan. Bu rasmiy manba emas. Fragment yoki Telegram sahifalarida bu yozuvni tasdiqlaydigan ma’lumot topilmadi.\n\nNega bu sovg‘a qiluvchi uchun muhim emas? Telegram ichidagi sovg‘a hamyonga bog‘lanmagan. Oddiy gift Telegram ichida qoladi. Upgrade qilingan kolleksion gift ham avval Telegram akkauntida turadi. Hamyon faqat uni TON blokcheyniga chiqarmoqchi bo‘lganingizda kerak bo‘ladi. Bu farq [qaysi sovg‘a TON’da NFT bo‘lishi haqidagi maqolada](/blog/ton-org-telegram-sovgalari-ton-nft-farqi/) batafsil yozilgan.\n\n## Kanal postidagi gaplardan qaysi biri sovg‘angizga tegishli?\n\nPostdagi da’volarni sovg‘a egasi va sovg‘a qiluvchi nuqtai nazaridan ajratib chiqdik.\n\n| Postdagi da’vo | Rasmiy manbada bormi | Sovg‘angiz uchun ma’nosi |\n|---|---|---|\n| Ro‘yxatda ikonkasi boshqacha, alohida «Telegram Messenger» yozuvi bor | Tasdiqlanmagan | Do‘stga sovg‘a yuborish tartibi o‘zgarmaydi |\n| Yozuv bosilganda @wallet ochiladi | Tasdiqlanmagan | Bunga suyanib NFT’ni chiqarmang |\n| Yozuvning texnik reyestr ma’lumotlari | Bu maqolada tekshirilmagan | Oddiy foydalanuvchi uchun amaliy ta’siri ko‘rinmaydi |\n| Mini App’lar hamyon bilan faqat TON Connect orqali ishlaydi | Ha, Telegram qoidalarida bor | TON bilan ishlaydigan sovg‘a ilovalari shu yo‘ldan foydalanadi |\n| Bot API’ga TON hamyon kartasi va o‘tkazmalari uchun klasslar qo‘shilgan | Ha, changelog’da bor | Bu bot yaratuvchilar uchun yangilik |\n\nXulosa shu: Telegram TON hamyonlar bilan ishlashni kengaytirayotgani rasmiy hujjatlarda ko‘rinadi. Fragment’dagi aynan shu yozuv haqida esa rasmiy tasdiq yo‘q.\n\n## Qachon sizga Fragment va TON hamyon umuman kerak bo‘ladi?\n\nHamyon kerak bo‘ladigan holatlar:\n\n- Kolleksion giftni Telegram’dan TON blokcheyniga chiqarmoqchisiz.\n- NFT giftni TON hamyon bilan ishlaydigan platformada sotmoqchi yoki sotib olmoqchisiz.\n\nHamyon kerak bo‘lmaydigan holatlar:\n\n- Do‘stingizga oddiy gift, NFT gift, Stars yoki Premium yuborasiz. Uning @username’i yetarli. Batafsil: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/).\n- Olgan sovg‘angizni profilda ko‘rsatmoqchisiz yoki do‘stingizga tabrik yozmoqchisiz.\n\nFragment o‘z sahifasida TON hamyoniga misol qilib TonKeeper va MyTonWallet’ni keltiradi ([Fragment qanday ishlaydi](https://fragment.com/about)). Telegram’ning [Blockchain Guidelines](https://core.telegram.org/bots/blockchain-guidelines) sahifasida Wallet, Tonkeeper va MyTonWallet tilga olingan. Lekin u yerdagi «Wallet» qaysi mahsulot ekani aytilmagan, shuning uchun undan Fragment’dagi yangi yozuv haqida xulosa chiqarib bo‘lmaydi.\n\n## NFT giftni blokcheynga chiqarishdan oldin hamyonni qanday ulaysiz?\n\nSovg‘ani rostdan ham blokcheynga chiqarmoqchi bo‘lsangiz, tartib quyidagicha:\n\n1. O‘zingiz ishlatib yurgan, seed iborasi qo‘lingizda saqlangan TON hamyonni tanlang. Masalan, Fragment misol qilib keltirgan hamyonlardan birini.\n2. Fragment sayti manzilini brauzerga qo‘lda yozing. Chat yoki reklamadagi havola orqali kirmang.\n3. Yuqori o‘ng burchakdagi «Connect TON» tugmasini bosing.\n4. Ro‘yxatdan aynan o‘zingiz tanlagan hamyonni bosing. Notanish yozuvni «sinab ko‘rish uchun» tanlamang.\n5. Hamyon ilovasida ulanishni tasdiqlang. Fragment’da ko‘rinayotgan manzil sizniki ekanini solishtiring — Fragment ham to‘g‘ri hamyon ulanganini qayta tekshirishni tavsiya qiladi.\n6. Shundan keyingina NFT giftni chiqarishga o‘ting.\n\nHamyon ulanishi bilan bog‘liq xavflar [Wallet va Fragment ulanishi haqidagi maqolada](/blog/wallet-fragment-ulanish-nft-sovga-xavfi/) alohida ko‘rib chiqilgan.\n\n## Yangi yozuvni hozir ulash kerakmi yoki kutgan ma’qulmi?\n\nShoshilish shart emas. Bu yozuv qanday ishlashi, kalitlar kimda saqlanishi va qaysi Telegram hamyonini tanlash kerakligi bo‘yicha rasmiy tavsiya topilmadi.\n\n> Fragment maxfiy kalitlarni saqlamaydi va ularga tegmaydi, shuning uchun hamyonni tiklab bera olmaydi. Uning sahifasiga ko‘ra, mablag‘ kalitlari faqat egasida bo‘ladi. Xato hamyonga chiqarilgan NFT bo‘yicha Fragment yordamiga umid qilmang.\n\nAmaliy maslahat oddiy: qimmat NFT’ni sinov tariqasida yangi yozuv orqali chiqarmang. Sovg‘a Telegram akkauntingizda tursa, uni chiqarishni rasmiy e’longacha kechiktirish mumkin. Yangilikni [Telegram](https://telegram.org) va [Fragment](https://fragment.com) saytlarida kuzating.\n\nTelegram hamyoni haqida boshqa mish-mishlar ham bor. Ular [GRAM Wallet’ni faollashtirish haqidagi maqolada](/blog/gram-wallet-telegram-faollashtirish/) tahlil qilingan.\n\n## Yozuvni bosib, hamyonni ulab qo‘ygan bo‘lsangiz nima qilasiz?\n\nUlanishning o‘zi NFT’ni ko‘chirmaydi: blokcheynga chiqarish alohida amal va uni alohida tasdiqlaysiz. Shunday bo‘lsa ham ehtiyot choralarini ko‘ring:\n\n- Fragment’da qaysi manzil ulanganini tekshiring. Sizga tanish bo‘lmasa, hamyonni uzing va o‘zingiznikini qayta ulang.\n- Hamyon ilovangizda ulangan saytlar ro‘yxati bo‘lsa, keraksiz ulanishlarni o‘chiring.\n- Tushunmagan so‘rovingizni hamyonda tasdiqlamang, ayniqsa o‘tkazma yoki imzo so‘ralsa.\n- Seed iborani hech qayerga kiritmagan bo‘lsangiz, hamyoningiz kalitlari sizda qoladi.\n\n## Bot API’dagi TON yangiliklari sovg‘a yuborishni o‘zgartiradimi?\n\nYo‘q, bular bot va ilova yaratuvchilar uchun texnik o‘zgarishlar. Rasmiy hujjatlarda shular bor:\n\n- [Blockchain Guidelines](https://core.telegram.org/bots/blockchain-guidelines) bo‘yicha Mini App’lar kripto hamyonlar bilan faqat TON Connect SDK orqali ishlaydi. Ilova ichida tranzaksiyani TON Connect orqali imzolashga ruxsat bor.\n- Xuddi shu qoidada TON Connect’da hamyon tanlovini cheklash taqiqlangan, faqat kerakli funksiya qo‘llab-quvvatlanmasa cheklash mumkin. Shuning uchun ro‘yxatda bir nechta hamyon ko‘rinishi tabiiy.\n- [Bot API changelog](https://core.telegram.org/bots/api-changelog)’ida TON hamyon kartasi uchun TonWalletCard, TonWalletCardSticker, TonNft va TonNftAttribute klasslari qo‘shilgani yozilgan. Message klassiga TonWalletTransfer klassi va ton_wallet_transfer maydoni qo‘shilgan.\n- Changelog’ga ko‘ra, botga keladigan so‘rovda foydalanuvchining TON hamyon kartasi va hamyonida imzolangan ma’lumot bo‘lishi mumkin.\n\nSovg‘a yuborish tartibi o‘zgargani haqida bu hujjatlarda hech narsa yo‘q. Kompyuterdagi hamyon bo‘yicha shunga o‘xshash savolga [Telegram Desktop’dagi @wallet haqidagi maqolada](/blog/telegram-desktop-wallet-ichki-hamyon-sovga/) javob berilgan.\n\n## Do‘stga NFT sovg‘ani hamyonsiz, so‘mda qanday yuborasiz?\n\nMaqsadingiz do‘stni tabriklash bo‘lsa, Fragment va TON Connect’ga kirmasangiz ham bo‘ladi. SovgaTG — Telegram’dan mustaqil xizmat, sovg‘ani so‘mda to‘lab yuborishga yordam beradi.\n\n1. Do‘stingizning @username’ini aniqlang. Parol, SMS kod va hamyon manzili kerak emas.\n2. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching.\n3. Tayyor kolleksion NFT giftni tanlang: u bozor narxi va xizmat haqi evaziga olinadi ([NFT gift sotib olish](/nft-gift-sotib-olish/)). Sovg‘a qisqa muddatga kerak bo‘lsa, NFT sovg‘ani 1 kundan boshlab [ijaraga olish](/nft-sovga-ijara/) mumkin.\n4. Tug‘ilgan kun yoki bayram uchun [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) qulay: bugun to‘laysiz, sovg‘a belgilangan sana va daqiqada yetadi. Narxga 0–12% muddat ustamasi qo‘shiladi, yetkazishdan oldin bekor qilib pulni qaytarib olsa bo‘ladi.\n5. So‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi. Xalqaro karta, dollar hisobi va VPN kerak emas. Aniq narxni botda tekshiring.\n6. Sovg‘a yetkazilmasa, summa balansingizga to‘liq qaytadi. Savol bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) yordam akkauntiga yozing.\n\n## «Yangi Telegram hamyoni» xabarlarida qanday tuzoqlar bo‘ladi?\n\nBunday yangiliklardan keyin firibgarlar ham faollashadi. Quyidagilarga e’tibor bering:\n\n- «Yangi Telegram hamyonini faollashtiring» yoki «NFT sovg‘angizni yangi hamyonga ko‘chiring» degan xabar va havolalarga ishonmang. Yangilikni Telegram va Fragment’ning rasmiy saytlarida tekshiring.\n- Seed iborasi va maxfiy kalitni hech qanday sayt yoki botga kiritmang. Fragment ularni saqlamaydi va ularga tegmaydi.\n- «Hamyonni ulasangiz, sovg‘a beriladi» degan va’da ko‘pincha aldov bo‘ladi. Bunday havolalar haqida [soxta sovg‘a havolasi bo‘yicha maqolada](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/) yozilgan.\n- Do‘stingizdan hamyon manzilini so‘rab, «sovg‘ani shu yerga yuboraman» demang. Telegram sovg‘asi uchun uning @username’i yetarli.",
+  "faq": [
+    {
+      "q": "Fragment’dagi «Telegram Messenger» yozuvini bossam, NFT sovg‘alarim yo‘qolib qoladimi?",
+      "a": "Faqat bosish sababli sovg‘a yo‘qolishi haqida rasmiy ma’lumot yo‘q: hamyonni ulash va NFT’ni chiqarish alohida tasdiqlanadi. Baribir notanish yozuv orqali kelgan o‘tkazma yoki imzo so‘rovini tasdiqlamang."
+    },
+    {
+      "q": "Yangi Telegram hamyoni chiqsa, do‘stimga yuborgan NFT gift unga avtomatik o‘tadimi?",
+      "a": "Bunday avtomatik o‘tkazma haqida rasmiy e’lon yo‘q. Yuborilgan gift do‘stingizning Telegram akkauntida qoladi, uni blokcheynga chiqarishni u o‘zi hal qiladi."
+    },
+    {
+      "q": "Do‘stimda TON hamyon bo‘lmasa, unga NFT sovg‘a qilsa bo‘ladimi?",
+      "a": "Ha. Kolleksion gift Telegram akkauntiga @username orqali yetadi, hamyon unga faqat keyinroq blokcheynga chiqarmoqchi bo‘lsa kerak bo‘ladi. SovgaTG botida bunday sovg‘ani so‘mda olish mumkin."
+    },
+    {
+      "q": "NFT giftni xato hamyonga chiqarib qo‘ysam, Fragment yordam beradimi?",
+      "a": "Bunga umid qilmang: Fragment maxfiy kalitlarni saqlamaydi va hamyonlarni tiklab bera olmaydi. Shuning uchun chiqarishdan oldin ulangan manzilni o‘zingiznikiga solishtiring."
+    },
+    {
+      "q": "Yangi hamyonni ulasam, sovg‘a uchun Stars yoki komissiya arzonlashadimi?",
+      "a": "Bunday imtiyoz rasmiy manbalarda topilmadi, shuning uchun bunday va’dalarga ishonmang. SovgaTG orqali yuboriladigan sovg‘aning aniq narxini botda ko‘ring."
+    },
+    {
+      "q": "Rejalashtirilgan sovg‘a uchun Fragment’ga hamyon ulash kerakmi?",
+      "a": "Kerak emas: rejalashtirilgan sovg‘a ham oluvchining @username’i bilan rasmiylashtiriladi va so‘mda to‘lanadi. Qaysi sovg‘alarni rejalashtirish mumkinligini @StarsPaymee_bot’da tekshiring."
+    }
+  ],
+  "keywords": [
+    "Fragment Telegram Messenger hamyoni NFT sovga",
+    "Fragment TON Connect yangi Telegram hamyon",
+    "Telegram Messenger hamyon Fragment ulash",
+    "NFT sovg'ani blokcheynga chiqarish hamyon",
+    "NFT sovga yuborish hamyonsiz username orqali",
+    "Wallet in Telegram Fragment NFT gift",
+    "Fragment Connect TON qanday ulanadi",
+    "Telegram Messenger кошелек Fragment",
+    "новый кошелек Telegram TON Connect Fragment",
+    "NFT подарок Telegram вывести на кошелек",
+    "отправить NFT подарок другу без кошелька"
+  ],
+  "related": [
+    "wallet-fragment-ulanish-nft-sovga-xavfi",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "telegram-desktop-wallet-ichki-hamyon-sovga",
+    "gram-wallet-telegram-faollashtirish"
+  ],
+  "sources": [
+    {
+      "url": "https://fragment.com/about",
+      "title": "How does Fragment work?"
+    },
+    {
+      "url": "https://core.telegram.org/bots/blockchain-guidelines",
+      "title": "Blockchain Guidelines"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api-changelog",
+      "title": "Bot API changelog"
+    }
+  ],
+  "intent": "Bu maqola O'zbekistondagi NFT sovg'a egasi yoki sovg'a qiluvchi uchun. U Fragment'da TON Connect ro'yxatida yangi «Telegram Messenger» hamyonini ko'radi va «Fragment Telegram Messenger hamyoni NFT sovg'a» deb qidiradi. Bilmoqchi bo'lgani: yangi yozuv orqali NFT giftni blokcheynga chiqarish yoki do'stga sovg'a yuborish o'zgaradimi, uni hozir ulash kerakmi."
+}
