@@ -1,0 +1,78 @@
+{
+  "slug": "kolleksion-username-sovga-qilish-limit",
+  "date": "2026-11-16",
+  "reviewed": "2026-11-16",
+  "category": "nft",
+  "title": "Do‘stga Telegram username sovg‘a qilish: profilida yana joy bormi?",
+  "excerpt": "Ha, do‘stingiz profiliga yoki kanaliga yangi kolleksion username biriktirsa bo‘ladi. Faqat faol username’lar soni cheklangan, «endi 20 ta» degan gap rasman tasdiqlanmagan.",
+  "content": "## Do‘stingiz profiliga yana bitta username sig‘adimi?\n\nHa. Telegram’ning [texnik hujjatiga](https://core.telegram.org/api/fragment) ko‘ra, Fragment’dan olingan bir nechta kolleksion username’ni o‘zingizga tegishli akkaunt, superguruh va kanalga biriktirish mumkin. [Fragment sahifasida](https://fragment.com/about) ham shunday deyilgan: profil, guruh yoki kanalda bitta oddiy username va bir nechta kolleksion username bo‘lishi mumkin.\n\nDemak, do‘stingizning hozir @ali bo‘lsa, siz olib bergan yangi manzil uning o‘rnini egallamaydi, yoniga qo‘shiladi.\n\nE’tibor beradigan joyi bitta: username biriktirilishi bilan ko‘rinib qolmaydi, uni alohida faol qilish kerak. Faol username’lar soni esa cheklangan. Chegaraga yetilganda Telegram USERNAMES_ACTIVE_TOO_MUCH xatosini qaytaradi. Bu [shaxsiy akkauntga](https://core.telegram.org/method/account.toggleUsername) ham, [kanal va superguruhga](https://core.telegram.org/method/channels.toggleUsername) ham tegishli. Chegaraning aniq raqami rasmiy manbalarda ko‘rsatilmagan.\n\n## «Endi 20 ta username» xabari sovg‘a rejangizni o‘zgartiradimi?\n\nYo‘q. Bu gap Telegram kanallaridagi postlardan tarqalgan: go‘yo profil yoki kanalga endi 20 tagacha username qo‘ysa bo‘ladi, avval 10 ta edi. Limit 10 dan 20 ga oshgani haqida rasmiy e’lon topilmadi.\n\nChalkashlik qayerdan chiqqani ma’lum. Telegram’ning [mijoz sozlamalarida](https://core.telegram.org/api/config) 10 va 20 raqamlari haqiqatan bor. Lekin ular foydalanuvchi ochishi mumkin bo‘lgan ochiq kanal va superguruhlar soniga tegishli: Premium’siz akkauntda 10 ta, Premium’da 20 ta. Username’ga bu raqamlarning aloqasi yo‘q.\n\n> «Hozir 20 taga ruxsat bor, ko‘proq olib qo‘y» degan maslahatga qarab bir nechta username sotib olmang. Do‘stingiz ularning hammasini faol qila olishi kafolatlanmagan.\n\nFaol username’lar chegarasi Premium bilan oddiy akkauntda yoki profil bilan kanalda farq qilishi haqida ham tasdiqlangan ma’lumot yo‘q.\n\n## Username’ni qayerga mo‘ljallaysiz: profilgami, kanalgami yoki botgami?\n\nSovg‘a tanlashdan oldin manzil qayerda ishlatilishini aniqlang. Asosiy shart bitta: username biriktirilayotgan chat do‘stingizga tegishli bo‘lishi kerak. Guruh va kanal ochiq (public) bo‘lishi kerak.\n\n| Mo‘ljal | Biriktirsa bo‘ladimi | Sovg‘a qiluvchi nimani hisobga oladi |\n|---|---|---|\n| Do‘stingizning shaxsiy profili | Ha | Ism yoki laqabga mos qisqa manzil tanlang |\n| Uning ochiq kanali | Ha | Kanal egasi aynan do‘stingiz bo‘lishi kerak |\n| Uning ochiq guruhi yoki superguruhi | Ha | Guruh unga tegishli bo‘lishi kerak |\n| Uning boti | Upgrade bilan | Bir martalik to‘lov olinadi, upgrade ortga qaytmaydi |\n\nBot uchun upgrade to‘lovining miqdori bu maqolada tasdiqlanmagan, uni Fragment’ning o‘zida ko‘ring.\n\nTanlov oxirgi qaror emas. Fragment’ga ko‘ra, username biriktirilgan chatni istalgan payt boshqasiga almashtirsa bo‘ladi. Siz manzilni profil uchun olgan bo‘lsangiz ham, do‘stingiz keyin uni kanaliga o‘tkaza oladi. Faqat botga upgrade qilingan username bundan mustasno: bu qadam doimiy.\n\n## Sirni ochmasdan do‘stingizdan nimani bilib olasiz?\n\nUsername kutilmagan sovg‘a bo‘lsa, ba’zi narsalarni gap orasida, bilintirmay so‘rab olish kerak bo‘ladi:\n\n- **Kanal kimning nomida.** Kanalni bir necha kishi yuritsa, egasi kimligini aniqlang. Ega bo‘lmagan admin username’ni biriktira olmaydi.\n- **Kanal ochiq qoladimi.** Kanal yoki superguruh yopiq qilinsa, undagi barcha kolleksion username’lar birdaniga nofaol bo‘lishi mumkin.\n- **Profilida nechta username bor.** Do‘stingiz allaqachon bir nechta manzildan foydalansa, yangisini yoqish uchun eskisidan birini o‘chirishiga to‘g‘ri kelishi mumkin.\n- **Botga ulash niyati bormi.** Bu pullik va ortga qaytmaydigan qadam. Buni sovg‘a qiluvchi emas, do‘stingiz o‘zi hal qilsin.\n- **Fragment’ga kirish imkoniyati.** Biriktirish Fragment orqali qilinadi. Ulanish tartibi haqida: [Fragment’ga hujjatsiz kirish](/blog/fragment-verifikatsiyasiz-akkaunt-ulash/).\n\nUsername’ni boshqa odamga o‘tkazish tartibi bu maqolada tasdiqlanmagan. To‘lashdan oldin uni [Fragment’da](https://fragment.com/about) tekshiring. Sotuvchiga ham ehtiyot bo‘ling: chatda «limit oshdi, tez ol, arzonga beraman» deb shoshiltirayotganlar xavfli. Shunga o‘xshash holat haqida: [arzon +888 raqam xavfi](/blog/floordan-arzon-888-raqam-sotib-olish-xavfi/). Kolleksion username’ni .tg domen bilan adashtirmang: [.tg domenni sovg‘a qilsa bo‘ladimi](/blog/tg-domen-nft-sovga-qilish-arziydimi/).\n\n## Username qo‘liga tekkach do‘stingiz nima qiladi?\n\nBiriktirilgan username avval nofaol turadi. [Telegram hujjatiga](https://core.telegram.org/api/fragment) ko‘ra, uni alohida faol qilish kerak. Sovg‘a bilan birga do‘stingizga quyidagi qisqa yo‘riqni yuboring:\n\n1. Fragment’da username’ni o‘z profiliga yoki kanaliga biriktiring.\n2. Telegram’da username’lar ro‘yxatini oching va yangisini faol qiling. Kanal uchun bu kanal sozlamalarida qilinadi.\n3. Yangi manzil asosiy bo‘lib ko‘rinsin desangiz, uni ro‘yxatda birinchi o‘ringa suring. Birinchi turgan username ilovada asosiy sifatida ko‘rsatiladi.\n4. Yoqishda xato chiqsa, faol username’lar chegarasiga yetgan bo‘lishingiz mumkin. Keyingi bo‘limdagi yo‘llardan birini tanlang.\n\nMenyu va tugmalar nomi ilova versiyasiga qarab farq qilishi mumkin.\n\n## Faol username’lar ro‘yxati to‘la bo‘lsa, sovg‘a nima bo‘ladi?\n\nSovg‘a yo‘qolmaydi. Username biriktirilganicha qoladi, faqat uni faol qilishda xato chiqadi. Do‘stingizda bir necha yo‘l bor:\n\n- **Kerak bo‘lmagan kolleksion username’ni o‘chiradi.** Ishlatilmayotgan manzillardan birini nofaol qilib, siz bergan username’ni yoqadi.\n- **Oddiy username’ga tegmaydi.** Oddiy (kolleksion bo‘lmagan) username’ni nofaol qilib bo‘lmaydi. Shuning uchun joy faqat kolleksionlar hisobidan bo‘shatiladi.\n- **Boshqa chatga ko‘chiradi.** Profilda joy topilmasa, username’ni o‘zining ochiq kanaliga o‘tkazish mumkin. Kanalda ham faol username’lar chegarasi borligini unutmang.\n\nMasalan, do‘stingizning profilida eski loyihadan qolgan kolleksion manzil turgan bo‘lsa, uni o‘chirib, o‘rniga sizning sovg‘angizni yoqadi.\n\n## Username o‘rniga tezroq yetadigan sovg‘a bormi?\n\nUsername sovg‘asi bir necha qadamdan iborat: Fragment, biriktirish, faollashtirish. Tabrik aynan bugun, ortiqcha harakatsiz yetishi kerak bo‘lsa, quyidagi variantlarni solishtiring:\n\n| Sovg‘a | Qayerda ko‘rinadi | Do‘stdan nima talab qilinadi | Qanday yuboriladi |\n|---|---|---|---|\n| Kolleksion username | Profil yoki kanal manzili | Fragment’da biriktirish va faol qilish | Fragment’da, topshirish tartibini o‘sha yerda tekshiring |\n| Kolleksion NFT gift | Profildagi sovg‘alar bo‘limi | Faqat @username | SovgaTG botida: bozor narxi + xizmat haqi |\n| Telegram Premium (3, 6, 12 oy) | Profildagi Premium belgisi | Faqat @username | Botda, taxminan 10 soniyada |\n| Oddiy gift | Sovg‘alar bo‘limi | Faqat @username | Botda, anonim rejimda ham bo‘ladi |\n| Stars | Stars balansi | Faqat @username | Botda, taxminan 10 soniyada |\n\nSovgaTG xizmatlari orasida kolleksion username sotish ko‘rsatilmagan. Bu haqda botda yoki yordam xizmatida so‘rang. NFT gift haqida: [NFT gift sotib olish](/nft-gift-sotib-olish/). Premium haqida: [Telegram Premium sovg‘a](/telegram-premium-sovga/). Tug‘ilgan kunga NFT tanlash bo‘yicha maslahatlar: [tug‘ilgan kunga NFT sovg‘a](/blog/tugilgan-kunga-nft-sovga-tanlash/).\n\nBu sovg‘alar uchun hamyon shart emas: [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/). To‘lov so‘mda qilinadi: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Aniq narxni botda tekshiring. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi.\n\nSovg‘a muayyan sanaga mo‘ljallangan bo‘lsa, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) qulay: bugun to‘laysiz, sovg‘a belgilangan kun va daqiqada o‘zi yetadi. Narxga muddatga qarab ustama qo‘shiladi. Yetkazilishidan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin.",
+  "faq": [
+    {
+      "q": "Do‘stimda allaqachon bir nechta username bor — yana bittasini olib bersam ishlaydimi?",
+      "a": "Biriktira oladi, lekin uni yoqish uchun faol manzillardan biri bo‘shatilishi kerak bo‘lishi mumkin. Faol username’lar chegarasining aniq soni rasman e’lon qilinmagan."
+    },
+    {
+      "q": "Postdagi «20 ta» raqamiga ishonib, birdaniga bir nechta username olsam bo‘ladimi?",
+      "a": "Bunga shoshilmang. Rasmiy hujjatdagi 10 va 20 raqamlari username’lar haqida emas, ochiq kanallar yaratish limiti haqida. Avval bitta manzil olib bering, do‘stingiz uni faol qilib ko‘rsin."
+    },
+    {
+      "q": "Sovg‘a qilgan username do‘stimning kanalida ko‘rinmayapti, nima qilsin?",
+      "a": "Ehtimol, u faqat biriktirilgan, lekin hali faol qilinmagan. Do‘stingiz kanal sozlamalaridagi username’lar ro‘yxatidan uni yoqsin. Xato chiqsa, keraksiz kolleksion manzildan birini o‘chirsin."
+    },
+    {
+      "q": "SovgaTG botida kolleksion username sotib olsa bo‘ladimi?",
+      "a": "Xizmatlar ro‘yxatida kolleksion username yo‘q, shuning uchun buni @StarsPaymeeSupport orqali aniqlang. Botda esa NFT gift, Premium, Stars va oddiy gift so‘mda, @username orqali yuboriladi."
+    },
+    {
+      "q": "Do‘stim username’ni botiga ulamoqchi — buni sovg‘adan oldin bilishim kerakmi?",
+      "a": "Ha, bilib qo‘ygan yaxshi. Botga ulash uchun bir martalik to‘lov olinadi va upgrade ortga qaytmaydi. Bu qarorni do‘stingiz o‘zi qabul qilsin."
+    },
+    {
+      "q": "Do‘stim kanalini keyinroq yopiq qilmoqchi — unga username sovg‘a qilish arziydimi?",
+      "a": "Yopiq kanalda kolleksion username’lar nofaol bo‘lib qolishi mumkin. Unday holda manzilni do‘stingizning shaxsiy profili uchun olgan ma’qul, kerak bo‘lsa, u keyin boshqa chatga o‘tkaza oladi."
+    }
+  ],
+  "keywords": [
+    "kolleksion username sovg‘a qilish",
+    "telegram username sovg‘a qilish",
+    "do‘stga username sovg‘a",
+    "profilga 20 ta username",
+    "fragment username biriktirish",
+    "kanalga username biriktirish",
+    "collectible username limit",
+    "подарить username телеграм",
+    "коллекционный юзернейм в подарок",
+    "привязать 20 юзернеймов к профилю",
+    "лимит юзернеймов телеграм",
+    "fragment юзернейм подарок"
+  ],
+  "related": [
+    "tg-domen-nft-sovga-qilish-arziydimi",
+    "fragment-verifikatsiyasiz-akkaunt-ulash",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "floordan-arzon-888-raqam-sotib-olish-xavfi"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/api/fragment",
+      "title": "Fragment collectibles"
+    },
+    {
+      "url": "https://fragment.com/about",
+      "title": "How does Fragment work?"
+    },
+    {
+      "url": "https://core.telegram.org/method/account.toggleUsername",
+      "title": "account.toggleUsername"
+    },
+    {
+      "url": "https://core.telegram.org/method/channels.toggleUsername",
+      "title": "channels.toggleUsername"
+    },
+    {
+      "url": "https://core.telegram.org/api/config",
+      "title": "Client configuration"
+    }
+  ],
+  "intent": "Do‘stiga yoki uning kanaliga Fragment’dan kolleksion username sovg‘a qilmoqchi bo‘lgan foydalanuvchi «Telegram username sovg‘a qilish» yoki «profilga 20 ta username» deb qidiradi. U do‘stining profilida yangi username uchun joy bor-yo‘qligini va limit rostdan 20 taga oshganini bilmoqchi."
+}
