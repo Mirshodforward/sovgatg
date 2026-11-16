@@ -147,6 +147,10 @@ Sitemap: ${site.origin}/sitemap.xml
 `
   );
 
+  // 5b. IndexNow kaliti (Bing, Yandex): avtoblogyoz yangi maqolani chiqishi bilan yuboradi.
+  //     Kalit maxfiy emas — sayt ildizida turishi shart.
+  await out("272044938ab5d4de9eb4aa04e47cd125.txt", "272044938ab5d4de9eb4aa04e47cd125");
+
   // 6. manifest
   await out(
     "site.webmanifest",
