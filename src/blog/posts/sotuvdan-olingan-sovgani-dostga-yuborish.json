@@ -1,0 +1,77 @@
+{
+  "slug": "sotuvdan-olingan-sovgani-dostga-yuborish",
+  "date": "2026-11-16",
+  "reviewed": "2026-11-16",
+  "category": "sovgalar",
+  "title": "Sotuvdan olingan Telegram sovg‘asi do‘stga ketmasa, o‘rniga nima yuborasiz?",
+  "excerpt": "Sovg‘a «Send a Gift» ro‘yxatida bo‘lmasa yoki to‘lovda xato chiqsa, uni yubora olmaysiz. O‘rniga sotuvdagi gift, kolleksion NFT, Premium yoki Stars yuboring — @username yetadi.",
+  "content": "## Sotuvdan olingan sovg‘ani do‘stga yuborsa bo‘ladimi?\n\nSovg‘a «Send a Gift» oynasida ko‘rinmasa yoki to‘lovda xato chiqsa, uni hozir yubora olmaysiz. Telegram’da do‘stga gift yuborish aslida uni do‘kondan sotib olish demakdir. Texnik hujjatga ko‘ra, foydalanuvchi [yuborish mumkin bo‘lgan va sotuvi tugamagan sovg‘ani](https://core.telegram.org/api/gifts) tanlagandan keyingina uni sotib oladi. Xarid amalga oshmasa, sovg‘a ham do‘stingizga yetib bormaydi.\n\nKanallarda Telegram avval chiqarib, keyin sotuvdan olgan cheksiz sovg‘alarni yuborishni o‘chirib qo‘ygani haqida gap tarqaldi. Bu haqda rasmiy e’lon ham, o‘zgarishlar ro‘yxatida yozuv ham topilmadi, sababi ham aytilmagan. Texnik hujjatda sovg‘a «sotuvdan olingan»ini bildiradigan alohida belgi ham yo‘q. Shuning uchun bu gapni hozircha norasmiy xabar deb qabul qiling.\n\nTabrik kuni yaqin bo‘lsa, eski sovg‘a qaytib kelishini kutib o‘tirmang. Muqobilini hozirdan tanlab qo‘ygan ma’qul.\n\n## Sovg‘ani qaysi cheklov to‘xtatishi mumkin?\n\nSovg‘alar har xil sababga ko‘ra yuborilmay qolishi mumkin. Telegram’ning [starGift obyekti](https://core.telegram.org/constructor/starGift) va [sovg‘alar bo‘limi](https://core.telegram.org/api/gifts) hujjatlarida bir nechta cheklov yozilgan. Ularni bilsangiz, boshqa sovg‘aga o‘tish kerakmi yoki ozgina kutish yetarlimi, tezroq tushunasiz.\n\n| Cheklov | Hujjatda nima deyilgan | Sovg‘a qiluvchi uchun yo‘l |\n|---|---|---|\n| Sotilib tugagan | Sovg‘ani endi sotib olib bo‘lmaydi | Boshqa gift yoki kolleksion nusxa |\n| Soni cheklangan | Yana nechtasini sotib olish mumkinligi ko‘rsatiladi | Qolgani tugagan bo‘lsa, boshqasini tanlash |\n| Bir kishiga limit | Limit tugagan foydalanuvchi uni sotib ololmaydi | Boshqa sovg‘a tanlash |\n| Sanagacha yopiq | Ba’zi sovg‘ani ko‘rsatilgan sanagacha yuborib bo‘lmasligi mumkin | Sanani kutish yoki tabrikni o‘sha kunga rejalashtirish |\n| Faqat Premium uchun | Uni Premium obunasi bor foydalanuvchi sotib oladi | Premium’ni tekshirish yoki boshqa sovg‘a |\n\nTo‘lov bosqichida xato chiqishi ham mumkin. [payments.getPaymentForm hujjatida](https://core.telegram.org/method/payments.getPaymentForm) ikki xato bor: berilgan sovg‘a yaroqsiz va ko‘rsatilgan sovg‘a topilmadi. Ikkalasining tavsifi umumiy, aniq sababni aytmaydi. Bu xato aynan sotuvdan olingan sovg‘alarda chiqishi ham tasdiqlanmagan. Sovg‘a qiluvchi uchun natija bitta: bu sovg‘a hozir yuborilmaydi.\n\n## Bayramdan oldin sovg‘ani qanday tekshirib olaman?\n\nTabrik kunini kutmasdan, bir-ikki kun oldin tekshirib qo‘ying. Shunda muqobil tanlashga vaqtingiz qoladi.\n\n1. Do‘stingiz profilini oching, ⋮ yoki ⋯ tugmasini bosing va [«Send a Gift»ni tanlang](https://telegram.org/blog/gifts-verification-platform).\n2. Ochilgan ro‘yxatdan kerakli sovg‘ani qidiring. Hujjatga ko‘ra, ilova [mavjud sovg‘alar ro‘yxatini](https://core.telegram.org/method/payments.getStarGifts) alohida so‘rov orqali oladi. Sovg‘a bu ro‘yxatda bo‘lmasa, uni shu oynadan yuborishni kutmang.\n3. Ilova sovg‘a haqida qo‘shimcha shart ko‘rsatsa (qolgan soni, Premium talabi yoki sana), uni o‘qib chiqing.\n4. To‘lov oynasi ochilmasa yoki xato chiqsa, qayta-qayta bosmang. Boshqa sovg‘aga o‘ting.\n5. Stars balansingiz tarixiga qarang: yechilgan-yechilmaganini shundan bilasiz.\n\n> Telegram’da sovg‘a yuborilmay qolsa, Stars balansga qaytishi rasmiy manbalarda aniq yozilmagan. Balansni ko‘rmasdan qayta to‘lamang.\n\nTekshiruvni kechqurun emas, kunduzi qilgan qulay: muammo chiqsa, muqobilni tinch tanlab, kerak bo‘lsa yordam xizmatiga yozishga ulgurasiz.\n\n## Eski sovg‘a o‘rniga do‘stga nima sovg‘a qilish mumkin?\n\nAvval o‘ylab ko‘ring: o‘sha eski sovg‘a do‘stingiz uchun nimasi bilan qadrli edi? Noyobligi muhim bo‘lsa, kolleksion sovg‘aga qarang. Shunchaki e’tibor ko‘rsatmoqchi bo‘lsangiz, sotuvdagi oddiy gift ham yetadi.\n\n| Variant | Kimga mos | Sizdan nima kerak |\n|---|---|---|\n| Sotuvdagi oddiy gift | Tez tabrik, kutilmagan e’tibor | Do‘stingizning @username’i, xohlasangiz anonim rejim |\n| Kolleksion NFT gift | Noyob, esda qoladigan sovg‘ani qadrlaydigan do‘st | @username; narx: bozor narxi va xizmat haqi |\n| NFT sovg‘a ijarasi | Bir kunlik bayram, profilni qisqa muddat bezash | @username va ijara muddati (1 kundan) |\n| Telegram Premium | Telegram’da ko‘p vaqt o‘tkazadigan do‘st | @username va muddat: 3, 6 yoki 12 oy |\n| Stars | Sovg‘ani o‘zi tanlashni yoqtiradigan do‘st | @username va Stars miqdori |\n\nOddiy gift [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) sahifasi orqali taxminan 10 soniyada yetadi. Noyobroq narsa kerak bo‘lsa, [NFT gift sotib olish](/nft-gift-sotib-olish/) yoki [NFT sovg‘a ijarasi](/nft-sovga-ijara/) sahifasini oching. Amaliy sovg‘a istasangiz, [Telegram Premium sovg‘a](/telegram-premium-sovga/) mos keladi. Har bir variantning joriy narxini botda tekshiring.\n\nKolleksion sovg‘a tug‘ilgan kunga olinayotgan bo‘lsa, [so‘rab tanlash yoki kutilmagan sovg‘a qilish](/blog/tugilgan-kunga-nft-sovga-tanlash/) haqidagi maqola qaror qilishga yordam beradi.\n\n## Do‘stingizga aynan o‘sha dizayn yoqsa, nima qilish kerak?\n\nDo‘konda yo‘q sovg‘aning kolleksion (NFT) nusxasini qidirib ko‘rish mumkin. SovgaTG’da kolleksion gift bozor narxida, ustiga xizmat haqi qo‘shib sotib olinadi va do‘stingizning @username’iga yuboriladi. Kerakli dizaynning nusxasi hozir bozorda bor-yo‘qligi bu maqolada tasdiqlanmagan — buni va narxni botda tekshiring.\n\nKolleksion sovg‘ani qayerdan va qanday olish mumkinligi, har bir yo‘lning xavfi [NFT sovg‘a marketpleysi](/blog/nft-sovga-marketpleysdan-olish-xavfsizmi/) maqolasida yozilgan. Egasi ko‘rinmaydigan nusxa yoqib qolsa, [bunday sovg‘ani olish tartibi](/blog/egasi-yashirin-nft-sovgani-sotib-olish/) haqida alohida maqola bor.\n\nEsda tuting: kolleksion nusxa sotuvdan olingan oddiy sovg‘aning aynan o‘zi emas. Do‘stingiz uchun aynan o‘xshashlik muhim bo‘lsa, unga oldindan bilintirmay so‘rab oling.\n\n## Do‘stingiz yangi sovg‘ani olgach, uni nima qila oladi?\n\nSovg‘a tanlashda oluvchining imkoniyatlarini ham hisobga oling. Telegram blogiga ko‘ra, sovg‘ani olgan kishi undan voz kechib, [uning Stars’ining bir qismini boshqa joyda sarflashi](https://telegram.org/blog/gifts-verification-platform) mumkin.\n\nDemak, do‘stingizga sovg‘a yoqmay qolsa ham, u butunlay foydasiz bo‘lmaydi. Lekin bunda sovg‘aning to‘liq qiymati emas, faqat bir qismi qaytadi. Shuning uchun didini bilsangiz, aniq sovg‘a tanlang. Bilmasangiz, Stars’ning o‘zini yuborish soddaroq yo‘l bo‘lishi mumkin.\n\nAvval yuborgan sovg‘alaringiz bilan Telegram biror o‘zgarish qilishi haqida rasmiy e’lon yo‘q. Ularning qadri tushadi yoki narxi oshadi, degan gaplar taxmin. Yangi sovg‘ani tanlashda ularga tayanmang.\n\n## Muqobil sovg‘ani SovgaTG orqali qanday yuborish mumkin?\n\nSovgaTG — Telegram’dan mustaqil xizmat, uning nomidan ish ko‘rmaydi. Sovg‘a so‘mda to‘lanadi va faqat do‘stingizning @username’i bilan yuboriladi.\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot)ni oching.\n2. Sovg‘a turini tanlang: oddiy gift, NFT gift, NFT ijarasi, Premium yoki Stars.\n3. Do‘stingizning @username’ini kiriting. Ismingiz ko‘rinmasin desangiz, anonim rejimni tanlang.\n4. So‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta, dollar hisobi yoki VPN kerak emas.\n5. Oddiy gift, Premium va Stars taxminan 10 soniyada yetadi. Sovg‘a yetkazilmasa, to‘langan summa balansingizga to‘liq qaytadi.\n\nTabrik aniq kunga to‘g‘ri kelsa, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/) qulay: bugun to‘laysiz, sovg‘a esa belgilangan sana va daqiqada o‘zi yetadi. Narxga 0–12% muddat ustamasi qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olsa bo‘ladi.\n\nO‘zingizda Stars balansi bo‘lsa, bot sovg‘ani o‘z akkauntingizdan yuboradi. Bu taxminan 1 daqiqa oladi, xizmat haqi 1 000 so‘mdan boshlanadi.\n\n> Notanish chatda kimdir sotuvdan olingan sovg‘ani «baribir yuborib beraman» desa, ehtiyot bo‘ling. Oldindan to‘lov, kod, parol yoki SMS so‘ralsa, gapni to‘xtating. Arzon Stars bilan bog‘liq xavflar [Stars refund sxemasi](/blog/stars-refund-sxemasi-sovga-bloklanishi/) maqolasida yozilgan.\n\nSavol tug‘ilsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport)ga yozing.",
+  "faq": [
+    {
+      "q": "Sotilib tugagan sovg‘a keyinroq do‘konga qaytadimi?",
+      "a": "Qaytishi haqida rasmiy ma’lumot yo‘q. Hozirgi hujjatda bunday sovg‘ani endi sotib olib bo‘lmasligi yozilgan, shuning uchun bayram rejasini unga bog‘lamang."
+    },
+    {
+      "q": "Sovg‘a ma’lum sanagacha yopiq bo‘lsa, uni tug‘ilgan kunga rejalashtirsa bo‘ladimi?",
+      "a": "SovgaTG’da rejalashtirilgan sovg‘a bugun to‘lanib, tanlangan kun va daqiqada yetadi. Aynan sanagacha yopiq sovg‘ani shu tarzda yuborish mumkinligini buyurtmadan oldin botda aniqlang."
+    },
+    {
+      "q": "Premium’im yo‘q: faqat Premium uchun chiqarilgan sovg‘ani do‘stga ola olamanmi?",
+      "a": "Telegram hujjatiga ko‘ra, bunday sovg‘ani Premium obunachisi sotib oladi. Boshqa yo‘l bormi, botda so‘rang yoki do‘stingizga Premium’ning o‘zini 3, 6 yoki 12 oyga sovg‘a qiling."
+    },
+    {
+      "q": "Do‘stim sovg‘amni Stars’ga almashtirsa, menga xabar boradimi?",
+      "a": "Yuboruvchiga xabar borishi rasmiy manbalarda tasdiqlanmagan. Ma’lumi shu: oluvchi sovg‘adan voz kechib, uning Stars’ining bir qismini olishi mumkin."
+    },
+    {
+      "q": "Sovg‘ani ismimni ko‘rsatmasdan yuborsam bo‘ladimi?",
+      "a": "Ha, SovgaTG botida gift anonim rejimda ham yuboriladi. Buning uchun ham faqat do‘stingizning @username’i kerak."
+    },
+    {
+      "q": "Eski sovg‘a o‘rniga NFT sovg‘ani ijaraga olsam bo‘ladimi?",
+      "a": "Bir kunlik bayram yoki profilni qisqa vaqt bezash uchun mos: ijara 1 kundan boshlanadi. Sovg‘a do‘stingizda doim qolishini istasangiz, kolleksion nusxani sotib oling."
+    }
+  ],
+  "keywords": [
+    "sotuvdan olingan telegram sovg'asini yuborish",
+    "telegram eski sovg'ani yuborib bo'lmayapti",
+    "sold out sovg'a telegram",
+    "telegram sovg'a yuborilmayapti",
+    "telegram yashirin sovg'alar",
+    "do'stga telegram sovg'a yuborish",
+    "STARGIFT_INVALID",
+    "подарок снят с продажи телеграм отправить",
+    "телеграм скрытые подарки не отправляются",
+    "как подарить распроданный подарок telegram",
+    "telegram gift sold out"
+  ],
+  "related": [
+    "egasi-yashirin-nft-sovgani-sotib-olish",
+    "nft-sovga-marketpleysdan-olish-xavfsizmi",
+    "stars-refund-sxemasi-sovga-bloklanishi",
+    "tugilgan-kunga-nft-sovga-tanlash"
+  ],
+  "sources": [
+    {
+      "url": "https://telegram.org/blog/gifts-verification-platform",
+      "title": "Gifts, Verification Platform and More"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    },
+    {
+      "url": "https://core.telegram.org/method/payments.getStarGifts",
+      "title": "payments.getStarGifts"
+    },
+    {
+      "url": "https://core.telegram.org/method/payments.getPaymentForm",
+      "title": "payments.getPaymentForm"
+    },
+    {
+      "url": "https://core.telegram.org/constructor/starGift",
+      "title": "starGift"
+    }
+  ],
+  "intent": "Do'stiga sotuvdan olingan eski Telegram sovg'asini yubormoqchi bo'lgan, lekin yubora olmagan foydalanuvchi «sotuvdan olingan telegram sovg'asini do'stga yuborish mumkinmi» deb qidiradi va uning o'rniga nima sovg'a qilishni bilmoqchi."
+}
