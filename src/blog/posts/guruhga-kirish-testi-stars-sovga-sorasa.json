@@ -1,0 +1,74 @@
+{
+  "slug": "guruhga-kirish-testi-stars-sovga-sorasa",
+  "date": "2026-11-17",
+  "reviewed": "2026-11-17",
+  "category": "xavfsizlik",
+  "title": "Guruhga kirish testi Stars yoki sovg‘a so‘rayapti: bu firibgarlikmi?",
+  "excerpt": "Kirish arizasini AI bot tekshirishi haqiqiy Telegram funksiyasi. Ammo rasmiy manbalarda arizadan o‘tish uchun Stars, sovg‘a, kod yoki to‘lov so‘ralmaydi: bunday talab chiqsa, to‘xtang.",
+  "content": "## Guruhga kirish testi Stars yoki sovg‘a so‘rasa, bu Telegram funksiyasimi?\n\nKirish arizasini bot tekshirishi haqiqiy Telegram funksiyasi. Ammo rasmiy manbalarda arizadan o‘tish uchun Stars, sovg‘a, kod yoki to‘lov so‘raladigan qadam yo‘q. Test sizdan shunday narsa talab qilsa, to‘xtang.\n\nTelegram 2026-yil 11-iyunda guruhlar uchun «AI Guardians», ya’ni AI qo‘riqchilar funksiyasini [e’lon qildi](https://telegram.org/blog/watch-apps-and-more). Guruh egasi AI botni admin qilib, yangi a’zolarning kirish arizalarini tekshirishni unga topshirishi mumkin. Egasi xohlasa, bot chatga qoidabuzar xabar yozganlarga ham chora ko‘radi.\n\nTelegram kanallarida bu yangilik «guruhlarga kirish uchun IQ-testlar paydo bo‘ldi» degan sarlavha bilan tarqaldi. Ko‘p odam buni «yangi qoida» deb o‘ylaydi va test paytida nima so‘ralsa, o‘ylab o‘tirmay bajaradi. «Tekshiruv uchun Stars o‘tkazing» yoki «tasdiq sifatida sovg‘a yuboring» degan talablar aynan shu ishonchni nishonga oladi.\n\n## Haqiqiy kirish tekshiruvi qanday ishlaydi?\n\nTelegram blogi, [Telegram FAQ](https://telegram.org/faq) va [Bot API hujjati](https://core.telegram.org/bots/api)ga ko‘ra, jarayon taxminan shunday:\n\n- Siz havola orqali guruhga ariza yuborasiz. Guruh egasi havola orqali kiradigan har bir kishi uchun admin tasdig‘ini majburiy qilib qo‘yishi mumkin.\n- Qo‘riqchi bot sizga mini-ilova ko‘rsatib, arizani shu orqali ko‘rib chiqishi mumkin. Ilovada savol yoki qisqa test bo‘lishi mumkin.\n- Bot arizani qabul qiladi, rad etadi yoki qarorni boshqa adminlarga qoldiradi. Demak, ba’zan arizangizni oxirida odam-admin ko‘radi.\n- Telegramning tayyor test to‘plami yo‘q: mini-ilovada nima chiqishi guruhga ulangan botga bog‘liq. Blogdagi IQ-test faqat hazil tarzidagi misol edi va u guruhga kirishga emas, izoh yozishga bog‘lab aytilgan.\n\nHujjatlarda botning ishi arizani ko‘rib chiqish bilan cheklangan. Arizachidan to‘lov olish qadami tasvirlanmagan. Shuning uchun «testdan o‘tish pullik» degan gapni rasmiy qoida deb qabul qilmang.\n\n## Aldovli test qanday boshlanadi: bir misol\n\nTasavvur qiling: siz tanishingiz yuborgan havola orqali viloyatdagi ish e’lonlari guruhiga ariza qoldirdingiz. Bir necha daqiqadan keyin shaxsiy chatga «Guruh qo‘riqchisi» degan akkaunt yozadi:\n\n1. Avval guruh haqida oddiy savollar beradi. Hammasi rasmiy tekshiruvga o‘xshaydi.\n2. Keyin «spam-bot emasligingizni tasdiqlash uchun» Stars o‘tkazishni yoki biror kishiga sovg‘a yuborishni so‘raydi. «Testdan keyin qaytaramiz» deydi.\n3. Bu bajarilmasa, «telefoningizga kod keldi, shu yerga yozing» deb so‘raydi.\n\nBirinchi bosqich zararsiz. Ikkinchi bosqichda pulingiz ketadi, uchinchisida esa akkauntingiz xavf ostida qoladi. Asosiy farq shundaki, haqiqiy tekshiruvda bot faqat sizni guruhga kiritish yoki kiritmaslikni hal qiladi. Sizdan biror narsa undirish uning vazifasi emas.\n\n## Qaysi so‘rov normal, qaysi biri aldov belgisi?\n\nKirish testi guruh haqida savol berishi mumkin. Akkauntingiz, pulingiz yoki sovg‘alaringizga tegadigan narsa so‘ralsa, bu boshqa gap.\n\n| Test nima so‘rayapti | Baho | Nima qilasiz |\n|---|---|---|\n| Guruh qoidalari bilan tanishib, rozilik bildirish | Odatiy | Bajaring |\n| Guruh mavzusi bo‘yicha savol yoki oddiy test | Odatiy | Javob bering |\n| Ismingiz yoki guruhga nima uchun kirayotganingiz | Odatiy | Qisqa yozing |\n| Telefon raqamingiz | Shubhali | Bermang, admindan sababini so‘rang |\n| Telegram’dan kelgan login kodi yoki SMS kod | Aldov belgisi | Kiritmang, botni bloklang |\n| Ikki bosqichli tekshiruvning bulutli paroli | Aldov belgisi | Hech qayerga yozmang |\n| Stars o‘tkazish, «depozit» yoki «faollik to‘lovi» | Aldov belgisi | To‘lamang, adminga yozing |\n| «Tasdiq uchun» sovg‘a yoki NFT yuborish | Aldov belgisi | Yubormang |\n| Karta raqami, amal qilish muddati, CVV | Aldov belgisi | Kiritmang |\n| TON hamyonni ulash yoki tranzaksiyani imzolash | Aldov belgisi | Rad eting |\n| Tashqi saytga o‘tib, Telegram’ga «qayta kirish» | Aldov belgisi | Sahifani yoping |\n\n«Sovg‘a olish uchun bosing» kabi havolalar ham xuddi shunday ishlaydi. Ular haqida [soxta sovg‘a havolasi va akkaunt cheklovi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/) maqolasida batafsil yozganmiz.\n\n## Test botini va guruhni qanday tekshirasiz?\n\nTestga javob berishdan oldin bir necha daqiqa ajratib, quyidagilarni tekshiring:\n\n1. **Bot username’iga qarang.** O‘zini bot deb tanishtirgan akkaunt haqiqatan botmi yoki oddiy profilmi, aniqlang. Buni qanday tekshirishni [sovg‘a boti username’i haqidagi maqolada](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/) yozganmiz.\n2. **Test qayerda ochilayotganiga e’tibor bering.** Haqiqiy qo‘riqchi bot arizani Telegram ichida mini-ilova orqali ko‘rib chiqishi mumkin. Sizni brauzerdagi notanish saytga olib chiqib, Telegram akkauntiga kirishni so‘rasa, bu xavf belgisi.\n3. **Guruh adminidan so‘rang.** Bot API hujjatiga ko‘ra, chatda arizalarni qaysi bot ko‘rib chiqayotgani haqidagi ma’lumot faqat adminlarga ochiq. Admin kontaktini guruh tavsifidan yoki guruhdagi tanishingizdan oling va botni tasdiqlating.\n4. **Shaxsiy chatdagi «men adminman» degan gapga ishonmang.** Arizani qabul qilish yoki rad etish uchun bot guruhda admin bo‘lishi va foydalanuvchi taklif qilish huquqiga (can_invite_users) ega bo‘lishi kerak. Bu ishni faqat shu imkoniyatni qo‘llaydigan bot bajara oladi. Sizga o‘zi yozgan akkaunt bularning birortasini isbotlamaydi.\n5. **To‘lov, kod yoki sovg‘a so‘ralsa, to‘xtang.** Testni yoping, botni bloklang, unga shikoyat yuboring va guruh egasiga xabar bering.\n\n## Stars yoki sovg‘ani yuborib qo‘ygan bo‘lsangiz nima qilasiz?\n\nVahimaga tushmang, lekin ikkinchi xatoga yo‘l qo‘ymang:\n\n1. **Boshqa to‘lov qilmang.** «Ikkinchi bosqich», «qaytarish uchun komissiya» yoki «hisobni ochish to‘lovi» degan so‘rovlar o‘sha aldovning davomi.\n2. **Dalillarni saqlang.** Bot yoki akkaunt nomi, chat va to‘lov sahifasini skrinshot qiling.\n3. **Shikoyat yuboring.** Botga va guruhga Telegram ichidan shikoyat qiling, guruh adminini ogohlantiring. Boshqa a’zolar ham tuzoqqa tushmasin.\n4. **«Qaytarib beramiz» degan va’daga ishonmang.** Yuborilgan Stars yoki sovg‘ani qaytarib olish tartibi bu maqolada tasdiqlanmagan. Pulni qaytarishni taklif qilib yozganlar ko‘pincha yana to‘lov so‘raydi.\n\nStars’ni noma’lum joydan arzonga olishning ham o‘z xavfi bor. Bu haqda [shubhali Stars va NFT bilan sovg‘a](/blog/stars-refund-sxemasi-sovga-bloklanishi/) maqolasini o‘qing.\n\n## Kod yoki parolni kiritib qo‘ygan bo‘lsangiz-chi?\n\nBu Stars yo‘qotishdan ham xavfliroq: login kodi bilan begona odam akkauntingizga kirishi mumkin.\n\n> **Darhol shunday qiling.** Telegram sozlamalarida faol seanslar ro‘yxatini oching va o‘zingiz tanimagan barcha seanslarni yakunlang. Ikki bosqichli tekshiruv parolini yoqing, yoqilgan bo‘lsa, almashtiring. Akkauntingizdan do‘stlaringizga g‘alati xabar yoki «sovg‘a» havolasi ketgan bo‘lsa, ularni ogohlantiring.\n\nKirish tekshiruvi faqat sizni guruhga qabul qilish yoki qilmaslikni hal qiladi. Buning uchun akkauntingizga kirish kodi kerak emas. Kod akkauntga kirish uchun beriladi. Uni so‘ragan har qanday «test» aslida akkauntingizni egallashga urinmoqda.\n\n## Do‘stga Stars yoki sovg‘a kerak bo‘lsa, xavfsiz yo‘l qaysi?\n\nGuruhdagi «sovg‘a yuboring» talabini oddiy sovg‘a qilish bilan adashtirmang. Haqiqiy sovg‘a aniq bir odamga, uning @username’i orqali yuboriladi. U testdan o‘tish yoki guruhga kirish uchun emas, tabrik uchun beriladi.\n\nDo‘stingizga Stars, gift yoki Premium sovg‘a qilmoqchi bo‘lsangiz, SovgaTG’da jarayon shunday:\n\n- Faqat qabul qiluvchining @username’i kerak. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n- To‘lov so‘mda: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta va VPN kerak emas.\n- Gift, Stars va Premium taxminan 10 soniyada yetadi. Sovg‘a yetkazilmasa, to‘langan summa balansga to‘liq qaytadi.\n- Aniq narxni [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botida tekshiring. Savol bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) orqali yordam so‘rang.\n\nBatafsil: [Telegram sovg‘a yuborish](/telegram-sovga-yuborish/) va [Telegram Premium sovg‘a qilish](/telegram-premium-sovga/). Sizga notanish odamdan NFT kelgan bo‘lsa, avval [bu sovg‘ami yoki spammi](/blog/notanish-nft-sovga-yoki-spam-farqi/) ekanini aniqlang.",
+  "faq": [
+    {
+      "q": "Test boti «keyin qaytarib beraman» deb Stars so‘rasa, ishonsa bo‘ladimi?",
+      "a": "Yo‘q. Rasmiy hujjatlarda arizachidan Stars olib, keyin qaytaradigan qadam yo‘q. «Qaytariladigan depozit» degan va’da pul undirishning bahonasi bo‘lishi mumkin."
+    },
+    {
+      "q": "Guruh adminiman deb shaxsiy chatga yozgan odam haqiqiy adminligini qanday bilaman?",
+      "a": "Admin bilan guruh tavsifidagi kontakt yoki guruhdagi tanishingiz orqali bog‘laning. Arizalarni guruhda admin huquqi bor bot ko‘radi. Sizga o‘zi yozib kelgan akkaunt buni hech qanday isbotlamaydi."
+    },
+    {
+      "q": "Testdan o‘tolmadim — endi guruhga umuman kira olmaymanmi?",
+      "a": "Bot arizani rad etishi yoki qarorni boshqa adminlarga qoldirishi mumkin. Sababini guruh egasidan so‘rang. «Pul to‘lasangiz kiritamiz» degan taklifga rozi bo‘lmang."
+    },
+    {
+      "q": "Test Telegram ichidagi mini-ilovada ochilsa, demak xavfsizmi?",
+      "a": "Har doim ham emas. Mini-ilovani guruhga ulangan bot ko‘rsatadi, ichidagi savollar ham shu botga bog‘liq. Unda kod, karta ma’lumoti yoki to‘lov so‘ralsa, ilovani yoping."
+    },
+    {
+      "q": "Test mendan kimgadir sovg‘a yuborishimni so‘rayapti. Oddiy sovg‘adan nimasi bilan farq qiladi?",
+      "a": "Oddiy sovg‘ani o‘zingiz tanlagan odamga, xohlagan paytda tabrik sifatida yuborasiz. Testdagi talabda esa sovg‘a guruhga kirish sharti bo‘lib, notanish akkauntga ketadi — bunday sovg‘ani yubormang."
+    },
+    {
+      "q": "Testda «faqat Premium a’zolar uchun, obuna oling» deyilsa-chi?",
+      "a": "AI qo‘riqchilar Premium yoki to‘lov talab qilishi haqida rasmiy ma’lumot topilmadi. Obunani test ichidagi havola orqali sotib olmang, avval guruh adminidan aniqlang."
+    }
+  ],
+  "keywords": [
+    "guruhga kirish testi stars sovga sorasa",
+    "telegram guruhga kirish testi stars",
+    "guruhga kirish uchun sovg‘a so‘rayapti",
+    "telegram ai bot admin firibgarlik",
+    "telegram kirish arizasi bot kod so‘rayapti",
+    "telegram guruh testi aldov",
+    "AI Guardians telegram",
+    "тест для вступления в группу телеграм просит звезды",
+    "бот просит stars для входа в чат",
+    "AI-страж телеграм заявка на вступление",
+    "мошенничество телеграм бот просит подарок",
+    "бот просит код для вступления в группу"
+  ],
+  "related": [
+    "bot-username-ai-app-sovga-boti-haqiqiymi",
+    "soxta-sovga-havolasi-akkaunt-cheklovi",
+    "stars-refund-sxemasi-sovga-bloklanishi",
+    "notanish-nft-sovga-yoki-spam-farqi"
+  ],
+  "sources": [
+    {
+      "url": "https://telegram.org/blog/watch-apps-and-more",
+      "title": "Smartwatch Apps, Rich Text for Bots, AI Guardians for Groups, and Much More"
+    },
+    {
+      "url": "https://telegram.org/faq",
+      "title": "Telegram FAQ"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api-changelog",
+      "title": "Bot API changelog"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api",
+      "title": "Telegram Bot API"
+    }
+  ],
+  "intent": "Guruhga qo‘shilmoqchi bo‘lgan Telegram foydalanuvchisiga AI bot yoki kirish testi Stars, sovg‘a, kod yoki to‘lov so‘raydi. U bu haqiqiy Telegram funksiyasimi yoki firibgarlikmi, bilmoqchi bo‘ladi va «guruhga kirish testi stars so‘rayapti» kabi so‘zlar bilan qidiradi."
+}
