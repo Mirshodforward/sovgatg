@@ -1,0 +1,77 @@
+{
+  "slug": "botlarda-faqat-stars-tolov-bloklanish",
+  "date": "2026-11-18",
+  "reviewed": "2026-11-18",
+  "category": "yangiliklar",
+  "title": "Botlar bloklanadimi? Telegram va Durov Stars haqida nima dedi",
+  "excerpt": "Yo‘q, hamma botlar emas. Telegram ogohlantirishiga ko‘ra, pullik raqamli xizmatga Stars o‘rniga karta yoki boshqa yo‘l bilan to‘lov olayotgan botlar ogohlantirishsiz yopilishi mumkin.",
+  "content": "## Qaysi botlar xavf ostida, qaysilari emas?\n\nXavf faqat bitta toifadagi botlarga tegishli: ular pullik raqamli xizmatni sotadi, lekin pulni Stars bilan emas, karta, tashqi sayt yoki boshqa provayder orqali oladi. Telegram xabariga ko‘ra, bunday bot yoki mini-ilova ogohlantirishsiz bloklanishi mumkin.\n\nTalabning o‘zi Telegram hujjatlarida allaqachon yozilgan. [Botlardagi to‘lovlar sahifasiga](https://core.telegram.org/bots/payments-stars) ko‘ra, Telegram ilovalari ichida raqamli mahsulot uchun bot yoki mini-ilova orqali qilinadigan har bir to‘lov faqat Stars bilan bo‘lishi shart. [Bot dasturchilari shartlarida](https://telegram.org/tos/bot-developers) esa bunday to‘lovni uchinchi tomon to‘lov provayderi orqali o‘tkazib bo‘lmasligi aytilgan.\n\nNoyabr voqeasida yangi narsa shu: Telegram dasturchilarga to‘lovlar tekshirilayotganini aytib, ogohlantirish yubordi. Pavel Durov esa 17-noyabrda o‘z kanalida qoidani qisqa izohladi.\n\nTo‘lov olmaydigan botlar, masalan, ob-havo, eslatma yoki guruh boshqaruvi botlari xabarda umuman tilga olinmagan. Ular haqida vahimaga asos yo‘q.\n\nOddiy foydalanuvchi uchun o‘zgarish bitta: botdagi pullik raqamli xizmatga endi Stars bilan to‘lanadi.\n\n## Telegram xabari va Durov posti: kim nima dedi?\n\n| Manba | Kimga qaratilgan | Asosiy mazmun |\n|---|---|---|\n| Telegram jamoasining xabari (2026-yil noyabr) | Bot va mini-ilova egalari | Raqamli mahsulot faqat Stars evaziga sotiladi. To‘lovlar shu hafta tekshirilmoqda. Qoidani buzgan bot ogohlantirishsiz bloklanishi mumkin |\n| Durov posti (17-noyabr) | Hamma foydalanuvchilar | Raqamli xizmat uchun faqat Stars. Sababi Apple va Google qoidalari. Stars’ni Fragment’da olish mumkin. VPN botlar istisno |\n\nTelegram xabarida yozilishicha, talabni buzgan bot «may be blocked at any time, without warning», ya’ni istalgan vaqtda ogohlantirishsiz bloklanishi mumkin. Xabarda keyin alohida ogohlantirish bo‘lmasligi ham aytilgan: «There will be no further notice».\n\n> Ikkala matn ham telegram.org va core.telegram.org saytlarida topilmadi: biri dasturchilarga yuborilgan xabar, ikkinchisi kanal posti. Shuning uchun ularni «xabarda yozilishicha», «Durov yozishicha» deb keltiramiz. Stars talabining o‘zini esa yuqoridagi rasmiy sahifalar tasdiqlaydi.\n\n## Nimaga endi faqat Stars bilan to‘lanadi?\n\nTelegram xabarida raqamli xizmatga misollar sanab o‘tilgan. Bu ro‘yxat rasmiy sahifalarda alohida berilmagan. Dasturchilar shartlarida esa Telegram raqamli mahsulot nima ekanini Apple va Google ta’riflariga qarab belgilashi yozilgan.\n\n| To‘lov nima uchun | Qanday to‘lanadi | Manba |\n|---|---|---|\n| Botning o‘ziga obuna, masalan oylik tarif | Faqat Stars | Telegram xabari |\n| Botning Telegram ichidagi pullik vositalari | Faqat Stars | Telegram xabari |\n| Uchinchi tomon AI modellaridan foydalanish | Faqat Stars | Telegram xabari |\n| Shu xizmatlar uchun kredit va tokenlar | Faqat Stars | Telegram xabari |\n| Jismoniy tovar yoki xizmat, masalan, do‘kon buyurtmasi | Boshqa valyuta va provayder ham mumkin | Rasmiy to‘lov sahifasi |\n| Kripto bilan amallar (saqlash, almashtirish va swap’dan tashqari) | Faqat GRAM | Telegram xabari |\n\nJismoniy tovar haqida shartlarda yana bir gap bor: bunday to‘lovlarni Telegram o‘zi o‘tkazmaydi. Pul bot egasi tanlagan provayder orqali o‘tadi.\n\nGRAM sharti faqat Telegram xabarida bor. Tanganing nomi haqida batafsil: [Toncoin Gram bo‘ldi](/blog/toncoin-gram-nomi-nft-sovgaga-tasiri/). «GRAM Wallet» haqidagi gaplar haqida: [GRAM Wallet sovg‘a uchun kerakmi](/blog/gram-wallet-telegram-faollashtirish/).\n\n## Bot ichida endi qanday to‘laysiz va Stars’ni qayerdan olasiz?\n\n1. Botda kerakli pullik xizmatni tanlang. Talabga mos botda to‘lov oynasidagi narx Stars’da ko‘rsatiladi.\n2. Telegram’dagi Stars balansingizni tekshiring.\n3. Stars yetmasa, balansni to‘ldiring. Birinchi yo‘l — [Fragment’dagi Stars sahifasi](https://fragment.com/stars/buy). Durov yozishicha, u yerda Stars Gram bilan olinadi. Sahifada o‘zingizdan tashqari do‘stingiz yoki hamkasbingiz balansini ham to‘ldirsa bo‘ladi.\n4. Ikkinchi yo‘l — so‘mda, [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) orqali. Faqat @username kerak bo‘ladi. Uzcard, Humo, Click, Payme, Paynet yoki bot balansi bilan to‘laysiz, Stars taxminan 10 soniyada keladi. Aniq narxni botda tekshiring.\n5. Botga qaytib, to‘lovni tasdiqlang va xizmat ochilganini tekshiring.\n\n> Narxi g‘ayritabiiy arzon Stars sotadigan notanish odamlardan olmang: refund sxemasida balansdagi Stars yechib olinishi mumkin. Batafsil: [arzon Stars va bloklanish](/blog/stars-refund-sxemasi-sovga-bloklanishi/), [Bag orqali arzon Premium xavfi](/blog/bag-arzon-premium-stars-dostga-sovga-xavfi/).\n\nSovgaTG mustaqil xizmat, Telegram kompaniyasiga aloqasi yo‘q. Savolingiz bo‘lsa, yordam xizmatiga yozing: [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport).\n\n## Shubhali to‘lov so‘rayotgan botni qanday tanish mumkin?\n\nBot raqamli xizmat uchun pulni Telegram’dan tashqariga so‘rasa, bu xabardagi talabga zid. Bunday bot birdan yopilib qolishi mumkin. Shunda oldin to‘lagan pulingiz nima bo‘lishi noma’lum.\n\n| Bot nima qiladi | Nimani anglatadi | Nima qilasiz |\n|---|---|---|\n| AI obunasi uchun karta raqamiga o‘tkazma so‘raydi | Raqamli xizmatga Stars’siz to‘lov | Shoshilmang, to‘lamang |\n| «Menejerga yozing» deb chatdan tashqariga yuboradi | To‘lov Telegram’dan chetda | Hech qanday karta ma’lumoti bermang |\n| Narxni Stars’da ko‘rsatib, Telegram to‘lov oynasini ochadi | Talabga mos yo‘l | Balansni tekshirib, to‘lang |\n| Ovqat yoki tovar uchun karta bilan to‘lov oladi | Jismoniy mahsulot, bu yerda boshqa provayder mumkin | Odatdagidek ehtiyot bo‘ling |\n\nXabarda Telegram shu hafta barcha bot va mini-ilovalardagi to‘lovlarni tekshirayotgani aytilgan. Durov yozishicha, avtoritar davlatlardagi VPN botlar bu talabdan ozod. Bu istisno rasmiy hujjatlarda yo‘q, u faqat postda bor.\n\nHali noma’lum narsalar: tekshiruv qachon tugashi, qaysi botlar bloklanishi va bloklangan botdagi obuna nima bo‘lishi. Bular haqida xabarda ham, rasmiy sahifalarda ham ma’lumot yo‘q.\n\nBotning xabari chiroyli bezatilgan bo‘lsa ham, unga [bezagiga qarab ishonmang](/blog/sovga-boti-rich-xabar-ishonsa-boladimi/). Botning [username’ini ham tekshiring](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/).\n\n## Apple va Google’ning bunga nima aloqasi bor?\n\nTelegram xabarida yozilishicha, Apple va Google ilova ichida sotiladigan raqamli mahsulotga o‘z do‘konidagi ilova ichi xaridlari (in-app purchase) orqali to‘lanishini talab qiladi. Xabar App Review Guidelines’ning 3.1.1 va 4.7-bandlariga hamda Google Play to‘lov siyosatiga tayanadi. Bu hujjatlarni biz alohida tekshirmadik.\n\nMantiq shunday: Stars aynan shu ilova ichi xaridlari orqali sotiladi. Bot Stars olsa, do‘kon talabi bajariladi. Bot kartadan to‘g‘ridan-to‘g‘ri pul olsa, talab chetlab o‘tiladi. Bu esa Telegram ilovasining do‘konlardagi holatiga xavf soladi.\n\nDurov ham sababni qisqa aytgan: «Apple and Google rules require Stars», ya’ni Apple va Google qoidalari Stars’ni talab qiladi.\n\n## Durov nima qilmoqchi: postda aynan nima yozilgan?\n\nDurov 17-noyabrda o‘z kanalida qisqa post yozdi. Unda to‘rtta gap bor:\n\n- **Talab.** «Telegram bots and mini apps can accept only Stars (*Grams) for digital services». Qavs ichidagi «*Grams» nimani anglatishini Durov izohlamagan.\n- **Sabab.** Apple va Google qoidalari.\n- **Foydalanuvchiga yo‘l.** «users can buy Stars with Grams on Fragment», ya’ni Stars’ni Fragment’da Gram bilan olish mumkin.\n- **Istisno.** «VPN bots in authoritarian countries are exempt». Qaysi davlatlar shu toifaga kirishini u sanamagan.\n\nPostda yangi funksiya, sana yoki boshqa reja haqida gap yo‘q. Undan ikki narsa bilinadi: talab qat’iy qo‘llanadi, foydalanuvchiga esa Stars olish yo‘li ko‘rsatilgan. «Durov aslida boshqa narsani nazarda tutgan» degan har qanday izoh taxmin.\n\n## AI bot ishlatadigan do‘stga Stars sovg‘a qilsa bo‘ladimi?\n\nBo‘ladi. Endi botlardagi pullik raqamli xizmatga Stars bilan to‘langani uchun bu foydali sovg‘a. Do‘stingiz AI yordamchi, rasm yaratadigan bot yoki boshqa pullik vositadan foydalansa, Stars balansi unga to‘g‘ridan-to‘g‘ri yaraydi.\n\nKimga mos: diplom ishi yozayotgan talaba, dizayner yoki dasturchi do‘st. Qachon: tug‘ilgan kun, imtihon oldi yoki yangi loyiha boshi.\n\nQanday yuborasiz: SovgaTG botida Stars miqdorini tanlaysiz, do‘stingizning @username’ini yozasiz va so‘mda to‘laysiz. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi. Sovg‘a yetkazilmasa, to‘langan summa balansingizga to‘liq qaytadi.\n\nBoshqa variantlar:\n\n- Uzoqroq muddatga — [Telegram Premium sovg‘asi](/telegram-premium-sovga/), 3, 6 yoki 12 oyga.\n- Aniq sana va daqiqaga — [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/). Bugun to‘laysiz, sovg‘a belgilangan vaqtda o‘zi yetadi. Narxga muddat ustamasi (0–12%) qo‘shiladi. Yetkazishdan oldin bekor qilsangiz, pul qaytariladi.\n\n## Bot egasi to‘lovni Stars’ga qanday o‘tkazadi va daromadni yechadi?\n\nQuyida qisqa yo‘riqnoma bor. To‘liq tafsilot [rasmiy hujjatda](https://core.telegram.org/bots/payments-stars).\n\n1. Raqamli mahsulot uchun invoice yaratganda currency maydoniga XTR yozing.\n2. Raqamli to‘lovlarda provider_token ishlatmang: u faqat jismoniy tovar va xizmat uchun kerak. Jismoniy mahsulot uchun oldingi valyuta va provayder qolishi mumkin.\n3. Xaridorga pul qaytarish kerak bo‘lsa, Bot API’dagi refundStarPayment metodidan foydalaning.\n4. Botingiz kripto bilan ishlasa, Telegram xabaridagi GRAM shartini va [dasturchilar shartlarini](https://telegram.org/tos/bot-developers) qayta o‘qib chiqing.\n5. Daromadni yechish uchun [Stars API hujjatidagi](https://core.telegram.org/api/stars) metodni chaqiring. U noyob Fragment sahifasi havolasini qaytaradi. Balans stars_revenue_withdrawal_min qiymatidan kam bo‘lmasligi kerak. Bu chegaraning aniq raqami hujjatda berilmagan.\n6. Fragment’da Telegram akkaunt va TON hamyonni ulab, mukofotni olasiz.\n\nYechishdan oldin bilib qo‘ying:\n\n- Bot balansidagi Stars Telegram’ga tegishli va o‘z-o‘zidan qiymatga ega emas.\n- Shartlarga ko‘ra, har bir Star uchun 0,013 USD ekvivalentida mukofot olish mumkin.\n- Mukofot qaysi kriptovalyutada berilishini Fragment o‘zi belgilaydi.\n- Mukofot olingach, tranzaksiya blokcheynga yoziladi va uni bekor qilib bo‘lmaydi.\n- [Fragment shartlariga](https://fragment.com/terms) ko‘ra, Fragment mukofot olish imkoniyatini vaqtincha yoki butunlay o‘chirib qo‘yishi mumkin.",
+  "faq": [
+    {
+      "q": "Har kuni ishlatadigan oddiy botim ham yopilib qoladimi?",
+      "a": "Bot hech narsa sotmasa, Telegram xabarida u haqida gap yo‘q. Xavf raqamli xizmat uchun Stars’siz to‘lov olayotgan botlarga tegishli."
+    },
+    {
+      "q": "Do‘kon botida tovar uchun karta bilan to‘lasam, bu qoidabuzarlikmi?",
+      "a": "Yo‘q, jismoniy tovar uchun bot egasi boshqa valyuta va to‘lov provayderidan foydalanishi mumkin. Stars talabi raqamli mahsulotga tegishli."
+    },
+    {
+      "q": "«Stars (*Grams)» degani Stars endi Gram deb ataladimi?",
+      "a": "Buni hech kim rasman tasdiqlamagan. Durov yulduzchani izohlamagan, Telegram hujjatlarida esa hozircha «Telegram Stars» nomi turibdi."
+    },
+    {
+      "q": "AI botda Stars bilan to‘lagan xizmatim ishlamasa, nima qilaman?",
+      "a": "Telegram’da bot egasi Stars’ni maxsus metod orqali qaytara oladi. Avval o‘sha botning yordam bo‘limiga yozing."
+    },
+    {
+      "q": "Do‘stimga sovg‘a qilgan Stars’ni u botlarda sarflay oladimi?",
+      "a": "Ha, Stars uning umumiy balansiga tushadi va u ularni botlardagi pullik xizmatlarga ishlata oladi. SovgaTG orqali yuborish uchun uning @username’i yetarli."
+    },
+    {
+      "q": "Bot egasi daromadni to‘g‘ridan-to‘g‘ri so‘mda oladimi?",
+      "a": "Hujjatlarda tasvirlangan yo‘l boshqa: daromad Fragment orqali kriptovalyutada olinadi, buning uchun Telegram akkaunt va TON hamyon ulanadi. Valyutani Fragment belgilaydi."
+    }
+  ],
+  "keywords": [
+    "botlarda faqat stars bilan tolov",
+    "telegram botlari bloklanadimi",
+    "durov stars botlar",
+    "telegram bot tolov stars",
+    "mini ilova stars bilan tolov",
+    "stars qayerdan olish somda",
+    "telegram bot XTR tolov",
+    "боты телеграм только звезды",
+    "телеграм боты блокировка оплата",
+    "дуров оплата в ботах stars",
+    "оплата в мини-приложениях telegram stars"
+  ],
+  "related": [
+    "stars-refund-sxemasi-sovga-bloklanishi",
+    "bag-arzon-premium-stars-dostga-sovga-xavfi",
+    "sovga-boti-rich-xabar-ishonsa-boladimi",
+    "gram-wallet-telegram-faollashtirish"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/bots/payments-stars",
+      "title": "Bot Payments API for Digital Goods and Services"
+    },
+    {
+      "url": "https://telegram.org/tos/bot-developers",
+      "title": "Telegram Bot Platform Developer Terms of Service"
+    },
+    {
+      "url": "https://core.telegram.org/api/stars",
+      "title": "Telegram Stars API"
+    },
+    {
+      "url": "https://fragment.com/terms",
+      "title": "Fragment Terms of Service"
+    },
+    {
+      "url": "https://fragment.com/stars/buy",
+      "title": "Fragment — Buy Stars"
+    }
+  ],
+  "intent": "O‘zbekistondagi Telegram foydalanuvchisi va bot egasi «botlarda faqat Stars bilan to‘lov, Telegram botlari bloklanadimi, Durov nima dedi» deb qidiradi. U Telegram ogohlantirishi va Durov posti nimani anglatishini, endi bot ichida qanday to‘lashni va Stars’ni qayerdan olishni bilmoqchi."
+}
