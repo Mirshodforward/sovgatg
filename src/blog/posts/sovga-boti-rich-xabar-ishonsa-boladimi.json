@@ -1,0 +1,66 @@
+{
+  "slug": "sovga-boti-rich-xabar-ishonsa-boladimi",
+  "date": "2026-11-18",
+  "reviewed": "2026-11-18",
+  "category": "xavfsizlik",
+  "title": "Sovg‘a boti jadval va slaydshouli xabar yubordi: unga ishonsa bo‘ladimi?",
+  "excerpt": "Bezagiga qarab ishonmang: Bot API 10.1’dan beri jadval, rasm va slaydshouli xabarni istalgan bot yubora oladi. Botni username’i, to‘lov usuli va so‘ragan ma’lumotiga qarab tekshiring.",
+  "content": "## Chiroyli jadval va slaydshou botning ishonchli ekanini bildiradimi?\n\nYo‘q. Bunday bezatilgan xabarni hozir istalgan bot yubora oladi. Bu Telegram botni tekshirgani yoki tasdiqlagani degani emas.\n\nBot API 10.1 yangilanishi 2026-yil 11-iyunda chiqdi va botlarga Rich Messages imkoniyatini qo‘shdi. Endi botlar puxta tuzilgan matn yubora oladi, sun’iy intellekt yozgan javoblarni esa oqim tarzida chiqara oladi. Bu [Bot API changelog](https://core.telegram.org/bots/api-changelog) sahifasida yozilgan.\n\nSovg‘a qiluvchi uchun buning ma’nosi oddiy. Katalog, narx jadvali yoki «chek» endi oddiy matndan ko‘ra rasmiyroq ko‘rinadi. Ammo firibgarning boti ham xuddi shu imkoniyatlardan foydalana oladi, chunki API hamma uchun bir xil. Chiroyli xabar faqat bot egasi dizaynga vaqt sarflaganini ko‘rsatadi.\n\nMavzu Telegram kanallarida tarqalgan bir xabardan olindi. Unda yangilanish haqidagi gap bilan birga bitta Stars botining reklamasi ham bor edi. Reklamadagi maqtovlar mustaqil tekshiruv natijasi emas.\n\n## Bot chatida qanday bezatilgan xabarlar chiqishi mumkin?\n\nChangelog’da rich xabarlar uchun bir nechta yangi blok sanab o‘tilgan. Jadvalda har bir blok sovg‘a botida qanday ishlatilishi mumkinligi va unda nimaga qarash kerakligi berilgan.\n\n| Blok | Sovg‘a botida qanday ko‘rinishi mumkin | Nimaga e’tibor berasiz |\n|---|---|---|\n| RichBlockTable, RichBlockTableCell | Premium tariflari yoki Stars paketlarining narx jadvali | Yakuniy summani to‘lov oynasida yana bir bor solishtiring |\n| RichBlockPhoto, RichBlockSlideshow, RichBlockAnimation | Sovg‘alar yoki NFT nusxalarining almashinib turadigan rasmlari | Rasm o‘sha sovg‘a sotuvda borligini isbotlamaydi |\n| RichBlockDetails | «Batafsil» yoki «Shartlar» degan yig‘iladigan bo‘lim | Albatta ochib o‘qing: pul qaytarish sharti shu yerda bo‘lishi mumkin |\n| RichBlockMap, RichBlockAudio | Sovg‘a botida kam uchraydi | Sovg‘a xaridiga deyarli aloqasi yo‘q |\n| Qalin, kursiv, tagiga chizilgan, ustidan chizilgan, spoyler matn va izoh (caption) | Ustidan chizilgan «eski narx», spoyler ostidagi shart | Chizilgan narx chegirma haqiqiyligini bildirmaydi |\n\nRich xabarlarning cheklovlari, masalan bloklar soni yoki matn uzunligi, bu maqolada tasdiqlanmagan.\n\n## Botdagi «chek» yoki «to‘lov tasdiqlandi» xabariga ishonsa bo‘ladimi?\n\nTo‘liq ishonmang. Bot rich xabarni sendRichMessage metodi bilan yuboradi. Keyin editMessageText metodidagi rich_message parametri bilan uni tahrirlay oladi. Demak, chatdagi chiroyli «chek»ni bot egasi tuzgan va u to‘lov dalili emas.\n\nMisol: bot ramkali jadval chiqaradi — «Buyurtma №…, to‘lov qabul qilindi, sovg‘a yo‘lda». Bank ilovangizda esa yechib olingan summa yo‘q yoki boshqa summa yechilgan. Bunday holatda bank yozuviga ishoning.\n\n| Bot chatidagi xabar | Haqiqiy tekshiruv |\n|---|---|\n| «To‘lov qabul qilindi» degan chek | Bank, Click yoki Payme ilovasidagi tranzaksiya yozuvi |\n| «Sovg‘a yuborildi» degan xabar | Sovg‘a do‘stingiz profilida chiqqani |\n| Slaydshoudagi sovg‘a rasmi | Do‘stingizga kelgan sovg‘aning o‘zi |\n\nBot xabari keyin o‘zgarishi mumkin. Shuning uchun buyurtma raqami, summa va sana yozilgan xabarni darhol skrinshot qiling. Muammo chiqsa, yordam xizmatiga shu rasm va bank yozuvi bilan murojaat qilasiz.\n\nYana bir metod — sendRichMessageDraft. U xabarni bo‘laklab chiqaradi va matn ko‘z oldingizda yozilayotgandek ko‘rinadi. Bu «operator hozir javob yozyapti» degan taassurot beradi. Aslida bu ham xabar formati, javobni odam yozayotganini bildirmaydi.\n\n## Sovg‘a botini to‘lovdan oldin qanday tekshirasiz?\n\n1. **Username’ni ko‘ring.** Telegram qoidasiga ko‘ra bot username’i «bot» bilan tugaydi. Oxiri «ai», «app» yoki boshqa so‘z bo‘lsa, bu oddiy akkaunt bo‘lishi mumkin. Batafsil: [bot username’i haqidagi maqola](/blog/bot-username-ai-app-sovga-boti-haqiqiymi/).\n2. **Botni ishonchli havoladan oching.** Qidiruvda nomi o‘xshash botlar chiqishi mumkin. Xizmatning o‘z saytidagi havolani ishlating.\n3. **Nima so‘ralayotganiga qarang.** Do‘stingizga sovg‘a yuborish uchun uning @username’i yetarli. Parol, SMS kod yoki ikki bosqichli tekshiruv paroli so‘ralsa, shu yerda to‘xtang.\n4. **To‘lov usulini tekshiring.** Karta raqami va amal qilish muddatini chatga yozish yoki notanish odamning kartasiga pul o‘tkazish so‘ralsa, ehtiyot bo‘ling.\n5. **Tugma qayerga olib borishini o‘qing.** «Sovg‘ani olish» tugmasi begona saytga olib borishi mumkin. Bu haqda [soxta sovg‘a havolasi](/blog/soxta-sovga-havolasi-akkaunt-cheklovi/) maqolasida yozganmiz.\n6. **Avval kichik buyurtma bering.** Arzonroq sovg‘a yuborib, u do‘stingiz profilida chiqqanini tekshiring. Shundan keyin qimmatrog‘ini oling.\n\n## Bot chiroyli bo‘lsa ham, qaysi belgilar xavfni ko‘rsatadi?\n\n- **Bozordagidan ancha arzon Stars yoki Premium.** Bunday paketlar refund sxemasiga bog‘liq bo‘lishi mumkin va zarar sovg‘ani olgan do‘stingizga ham tegishi mumkin. Batafsil: [arzon Stars va bloklanish](/blog/stars-refund-sxemasi-sovga-bloklanishi/).\n- **Kirish kodi yoki parol so‘rash.** Ko‘pincha «akkauntni tasdiqlash uchun» degan bahona bilan so‘raladi.\n- **Oldindan Stars yoki sovg‘a talab qilish.** Masalan, «tasdiqlash to‘lovi» yoki «faollashtirish uchun bitta gift».\n- **Shoshiltirish.** «Taklif bir necha daqiqada tugaydi» degan taymer, spoyler ostiga yashirilgan shartlar.\n- **Pul qaytarish tartibi yo‘q.** Sovg‘a yetmasa nima bo‘lishi yozilmagan, yordam xizmati aloqasi ko‘rsatilmagan.\n- **Faqat maqtov.** Botning o‘zi haqidagi «ishonchli» va «tezkor» degan so‘zlari tekshiruv o‘rnini bosmaydi.\n\n## Yangilanish sovg‘a, Stars yoki Premium yuborishni o‘zgartirdimi?\n\nYo‘q. 11-iyundagi changelog yozuvlari botlarning xabar formatiga tegishli. Ularda sovg‘a, Stars yoki Premium yuborish tartibi haqida hech narsa yozilmagan.\n\nSovg‘a avvalgidek oluvchining @username’i orqali yuboriladi. Buning uchun hamyon ham, parol ham kerak emas.\n\nKeyingi texnik o‘zgarishlar ham faqat xabar ko‘rinishiga oid:\n\n- Message klassiga qo‘shilgan rich_message maydoni xabar bezatilganini bildiradi. U sovg‘a holatini yoki to‘lov natijasini ko‘rsatmaydi.\n- 2026-yil 14-iyulda chiqqan Bot API 10.2 rich xabarlar uchun ro‘yxat elementini (InputRichBlockListItem) qo‘shdi.\n\nRich xabarlar qaysi chatlarda va ilovaning qaysi versiyalarida ko‘rinishi bu maqolada tasdiqlanmagan. Bot xabari g‘alati ko‘rinsa yoki ochilmasa, avval Telegram’ni yangilang. Beta versiyalar haqidagi boshqa gaplar bo‘yicha: [Telegram beta yangiliklari](/blog/telegram-beta-profil-balans-qr-kod-sovga/).\n\n## SovgaTG botida sovg‘ani qanday yuborasiz?\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching. Uning username’i «bot» bilan tugaydi.\n2. Sovg‘a turini tanlang: [oddiy gift](/telegram-sovga-yuborish/) (anonim ham yuborsa bo‘ladi), [kolleksion NFT gift](/nft-gift-sotib-olish/), [3, 6 yoki 12 oylik Premium](/telegram-premium-sovga/) yoki Stars. NFT sovg‘ani [1 kundan boshlab ijaraga](/nft-sovga-ijara/) olish ham mumkin.\n3. Faqat do‘stingizning @username’ini kiriting. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n4. Narxni botda tekshirib, so‘mda to‘lang: Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali. Xalqaro karta ham, VPN ham kerak emas.\n5. Gift, Premium va Stars taxminan 10 soniyada yetadi. Sovg‘ani o‘z Stars balansingizdan yuborsangiz, bu taxminan 1 daqiqa oladi. Sovg‘a yetkazilmasa, to‘langan summa balansingizga to‘liq qaytariladi.\n\nTug‘ilgan kunni oldindan rejalashtirmoqchi bo‘lsangiz, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/)dan foydalaning. Pulni bugun to‘laysiz, sovg‘a esa siz belgilagan sana va daqiqada yetadi. Narxga muddatga qarab 0–12% ustama qo‘shiladi. Yetkazishdan oldin buyurtmani bekor qilib, pulni qaytarib olsa bo‘ladi.\n\nSavol bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) orqali yozing. SovgaTG mustaqil xizmat va Telegram bilan hamkorlikni da’vo qilmaydi.",
+  "faq": [
+    {
+      "q": "Botdagi chiroyli «to‘lov qabul qilindi» cheki to‘lov dalili bo‘ladimi?",
+      "a": "Yo‘q, bunday chekni bot egasi o‘zi tuzadi. Pul haqiqatan yechilganini bankingiz, Click yoki Payme ilovasidagi tranzaksiya ko‘rsatadi."
+    },
+    {
+      "q": "Botdagi buyurtma summasi keyin boshqacha bo‘lib qolsa nima qilaman?",
+      "a": "Botlar rich xabarni yuborgandan keyin ham tahrirlay oladi. Shuning uchun summa va buyurtma raqami bor xabarni darhol skrinshot qiling, muammo chiqsa bank yozuvi bilan birga yordam xizmatiga yuboring."
+    },
+    {
+      "q": "Rich xabarlarni ko‘rish uchun ilovani yangilash kerakmi?",
+      "a": "Ilovaning qaysi versiyasi kerakligi rasman aniq aytilmagan. Bot xabari to‘g‘ri chiqmasa, Telegram’ni so‘nggi versiyaga yangilab, chatni qayta oching."
+    },
+    {
+      "q": "Rasmiy ko‘rinishdagi sovg‘a boti parol yoki SMS kod so‘rasa nima qilish kerak?",
+      "a": "Hech narsa yubormang va botdan chiqing. Sovg‘a yuborish uchun parol ham, kod ham kerak emas — do‘stingizning @username’i yetarli."
+    },
+    {
+      "q": "Bot javobi asta-sekin yozilib chiqyapti — demak, uni odam yozyaptimi?",
+      "a": "Shart emas. Yangilanishdan keyin botlar javobni bo‘laklab, oqim tarzida chiqara oladi. Bu jonli operator javob yozayotganini bildirmaydi."
+    },
+    {
+      "q": "Do‘stimga sovg‘a yuborish uchun SovgaTG botiga nima berishim kerak?",
+      "a": "Faqat do‘stingizning @username’ini kiritasiz va so‘mda to‘laysiz. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi."
+    }
+  ],
+  "keywords": [
+    "sovg‘a boti rich xabar",
+    "sovg‘a boti ishonchlimi",
+    "telegram bot chiroyli xabar ishonsa bo‘ladimi",
+    "stars boti firibgarlik",
+    "telegram bot jadval slaydshou",
+    "bot api 10.1 rich messages",
+    "soxta stars bot qanday aniqlash",
+    "telegram sovg‘a bot tekshirish",
+    "бот подарков телеграм можно ли доверять",
+    "rich messages telegram бот",
+    "как проверить бот звезд телеграм",
+    "мошеннический бот telegram stars"
+  ],
+  "related": [
+    "bot-username-ai-app-sovga-boti-haqiqiymi",
+    "soxta-sovga-havolasi-akkaunt-cheklovi",
+    "stars-refund-sxemasi-sovga-bloklanishi",
+    "telegram-beta-profil-balans-qr-kod-sovga"
+  ],
+  "sources": [
+    {
+      "url": "https://core.telegram.org/bots/api-changelog",
+      "title": "Bot API changelog — June 11, 2026, Bot API 10.1"
+    },
+    {
+      "url": "https://core.telegram.org/bots/api",
+      "title": "Telegram Bot API (Message → rich_message)"
+    }
+  ],
+  "intent": "Telegram’da do‘stiga sovg‘a, Stars yoki Premium olmoqchi bo‘lgan foydalanuvchi bot jadval, rasm va slaydshou bilan chiroyli xabar (katalog, chek) yuborganda unga ishonsa bo‘ladimi va yangilanish sovg‘a yuborishni o‘zgartirdimi, shuni «sovg‘a boti chiroyli xabar ishonsa bo‘ladimi» kabi so‘zlar bilan qidiradi."
+}
