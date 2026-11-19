@@ -1,0 +1,77 @@
+{
+  "slug": "gram-wallet-ilovasi-nft-sovga-xavfi",
+  "date": "2026-11-19",
+  "reviewed": "2026-11-19",
+  "category": "xavfsizlik",
+  "title": "Gram Wallet ilovasiga NFT sovg‘ani ulash xavfsizmi, sovg‘a uchun kerakmi?",
+  "excerpt": "Yo‘q, NFT sovg‘a yuborish yoki olish uchun Gram Wallet kerak emas: do‘stingizning @username’i yetadi. Ilovaning egasi va xavfsizligi tasdiqlanmagan, unga kalit va NFT ulamang.",
+  "content": "## Do‘stga NFT sovg‘a qilish uchun Gram Wallet kerakmi?\n\nYo‘q. Kolleksion NFT sovg‘a, oddiy gift, Stars va Premium do‘stingizning @username’iga yuboriladi. Bu jarayonda hamyon ilovasi kerak emas: na sizga, na do‘stingizga.\n\nHamyon faqat bitta holatda kerak bo‘ladi: sovg‘a egasi uni Telegram’dan TON blokcheyniga chiqarmoqchi bo‘lsa. Buni sovg‘ani olgan odam o‘zi xohlasa qiladi, yuboruvchiga bu qadamning aloqasi yo‘q. Telegram bu imkoniyatni [o‘z blogida](https://telegram.org/blog/wear-gifts-blockchain-and-more) tasvirlagan.\n\nRasmiy manbalarda sovg‘a berish yoki olish uchun aynan Gram Wallet kerakligi haqida hech qanday gap yo‘q. Telegram ichidagi hamyon haqidagi mish-mishlar haqida [GRAM Wallet’ni faollashtirish](/blog/gram-wallet-telegram-faollashtirish/) maqolasini o‘qing.\n\nSovgaTG’da kolleksion NFT sovg‘a so‘mda sotib olinadi va oluvchining @username’iga yuboriladi. Hamyon, parol yoki SMS kod so‘ralmaydi.\n\n## Gram Wallet haqida nimasi tasdiqlangan, nimasi yo‘q?\n\nTelegram kanallarida App Store’da «Gram Wallet» nomli yangi hamyon ilovasi paydo bo‘lgani haqida xabar tarqaldi. Rasmiy manbalarni tekshirganimizda quyidagi manzara chiqdi.\n\n| Da’vo | Holati | Sovg‘a qiluvchi uchun ma’nosi |\n|---|---|---|\n| Ilovani kim ishlab chiqqan | Tasdiqlanmagan, ma’lumotlar bir-biriga zid | Muallif nomi aytilgani ishonchga asos emas |\n| Kalitlarni kim saqlaydi | Tasdiqlanmagan | Seed-iborani kiritishga shoshilmang |\n| Telegram sovg‘alari va NFT’ni qo‘llaydimi | Rasmiy ma’lumot yo‘q | Sovg‘ani shu ilovada ko‘rish mumkinligi va’da qilinmagan |\n| «Telegram orqali ikki bosqichli himoya» | Tasdiqlanmagan | Shu gapga qarab ilovani xavfsiz deb hisoblamang |\n| Sovg‘a uchun majburiymi | Rasmiy gap yo‘q | @username orqali yuborish o‘zgarmagan |\n\nNom va belgi ham chalg‘itishi mumkin. [TON media sahifasida](https://ton.org/media) Gram tokenining standart belgisi ko‘k olmos ustidagi oq yulduz deb ko‘rsatilgan. Bu ma’lumot faqat tokenga tegishli. Ilovaning nomi yoki belgisi shu tokenni eslatsa ham, bu uning rasmiy yoki xavfsiz ekanini isbotlamaydi.\n\n## Sovg‘a Telegram ichida turganda hamyonga bog‘liqmi?\n\nYo‘q. Do‘stingiz olgan kolleksion sovg‘a uning Telegram hisobida turadi. Rasmiy hujjatlarga ko‘ra, uni Telegram ichida [boshqa foydalanuvchiga o‘tkazish mumkin](https://core.telegram.org/api/gifts). Bunday o‘tkazish ba’zan to‘lovsiz bo‘ladi, ba’zan Stars to‘lashni talab qiladi. Ikkala holatda ham tashqi hamyon ilovasi kerak emas.\n\nMasalan, do‘stingiz tug‘ilgan kunida olgan NFT sovg‘ani profilida ko‘rsatishi, statusga qo‘yishi yoki keyinroq boshqa do‘stiga uzatishi mumkin. Bularning hech biri uchun sovg‘ani biror ilovaga «ulash» shart emas.\n\nKimdir «sovg‘ani ko‘rish yoki saqlash uchun Gram Wallet’ga ulang» desa, bu ogohlantiruvchi belgi. Hamyon ulanishi va NFT o‘g‘irligi haqidagi gaplar [Wallet va Fragment ulanishi](/blog/wallet-fragment-ulanish-nft-sovga-xavfi/) maqolasida batafsil yozilgan.\n\n## NFT sovg‘a blokcheynga rasmiy yo‘l bilan qanday chiqariladi?\n\nDo‘stingiz sovg‘ani baribir TON’ga chiqarmoqchi bo‘lsa, rasmiy yo‘l Telegram ilovasidan boshlanadi:\n\n1. Profil → Sovg‘alar bo‘limini ochib, kerakli sovg‘ani tanlang.\n2. Transfer → Send via Blockchain tugmasini bosing ([Telegram blogi](https://telegram.org/blog/wear-gifts-blockchain-and-more)).\n3. Telegram’dagi ikki bosqichli tekshiruv parolingizni kiriting. Bu parolni [Telegram ilovasining o‘zi](https://core.telegram.org/api/gifts) so‘raydi, tashqi hamyon emas.\n4. Keyingi qadamlarni ilovadagi ko‘rsatmalar bo‘yicha bajaring. NFT faqat o‘zingiz boshqaradigan TON hamyonga o‘tsin.\n5. Tugma ishlamasa, sanani tekshiring: ba’zi sovg‘alarni faqat belgilangan sanadan keyin chiqarish mumkin.\n\nFragment TON hamyon sifatida [TonKeeper yoki MyTonWallet kabi ilovalarni](https://fragment.com/about) misol qilib keltiradi. Gram Wallet bu misollar orasida yo‘q. Hamyon qachon kerak bo‘lishi [NFT sovg‘a uchun TON hamyon kerakmi](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) maqolasida tushuntirilgan.\n\nSovg‘ani faqat profilda ko‘rsatish uchun olgan bo‘lsangiz, uni chiqarishga shoshilmang. Telegram ichida turgan sovg‘a uchun hamyon kalitlarini saqlab yurishning keragi yo‘q.\n\n## Notanish hamyon ilovasiga NFT ulashning xavfi nimada?\n\n- **Kalit hamyonning o‘zi demak.** Fragment tushuntirishicha, kalit saqlamaydigan hamyonlarda kalitlar faqat egasida bo‘ladi, shuning uchun zaxira nusxasini ham egasi saqlaydi. Seed-iborani boshqa ilovaga kiritsangiz, hamyon ustidan nazoratni ham shu ilovaga berib qo‘yasiz.\n- **NFT tez ko‘chadi.** [Fragment ma’lumotiga ko‘ra](https://fragment.com/about), kolleksion buyumni hamyon ilovasi orqali boshqa odamga yoki hamyonga to‘lovsiz o‘tkazish mumkin. Misol uchun, Tonkeeper’ning «NFT» bo‘limida shunday qilinadi. Kalit begona qo‘lga tushsa, sovg‘ani boshqa manzilga bir zumda o‘tkazib yuborishlari mumkin.\n- **Telegram paroli faqat Telegram’da kiritiladi.** 2FA parol sovg‘ani chiqarish paytida Telegram ichida so‘raladi. Hamyon ilovasi uni so‘rasa, kiritmang.\n- **Tanish belgi xavfsizlikni isbotlamaydi.** Rasmiy brendga o‘xshash nom yoki belgi ilovaning xavfsizligini isbotlamaydi.\n- **Sinash uchun alohida hamyon oching.** Yangi ilovani sinab ko‘rmoqchi bo‘lsangiz, qimmat NFT turgan asosiy hamyonning kalitlarini emas, bo‘sh sinov hamyonini ishlating.\n\n## Do‘stingiz sovg‘angizni notanish ilovaga ulab qo‘ygan bo‘lsa, nima qilish kerak?\n\nDo‘stingiz siz yuborgan sovg‘a haqida «Gram Wallet’ga ulab qo‘ydim» desa, vahima qilmasdan holatni aniqlang:\n\n1. Sovg‘a hali Telegram profilidami yoki blokcheynga chiqarilganmi, shuni bilib oling.\n2. Sovg‘a profilda bo‘lsa, u Telegram hisobida turibdi. Do‘stingiz Telegram hisobini himoyalashi kerak: 2FA parolni qo‘yishi yoki almashtirishi va notanish ilovaga nima kiritganini eslashi kerak.\n3. NFT blokcheynda bo‘lsa va seed-ibora notanish ilovaga kiritilgan bo‘lsa, NFT’ni darhol yangi manzilga o‘tkazishni maslahat bering. Yangi manzil do‘stingizning o‘zi boshqaradigan, Fragment misol qilgan turdagi hamyonda bo‘lsin.\n4. Yangi kalitlarning zaxira nusxasi oflayn, xavfsiz joyda saqlansin.\n\nBu qadamlar natija berishiga kafolat yo‘q. NFT allaqachon boshqa manzilga o‘tib ketgan bo‘lsa, uni qaytarish yo‘li bu maqolada tasdiqlanmagan. Qimmat sovg‘alarni himoyalash bo‘yicha qo‘shimcha maslahatlar [+888 akkauntdagi NFT himoyasi](/blog/888-akkaunt-nft-sovgalarni-himoya-qilish/) maqolasida bor.\n\n## Hamyonsiz NFT sovg‘ani qanday xavfsiz yuborish mumkin?\n\nDo‘stingizga NFT sovg‘a qilish uchun hamyon ochish ham, yangi ilova o‘rnatish ham shart emas:\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching.\n2. Kolleksion NFT sovg‘ani tanlang. Narxi bozor narxi va xizmat haqidan iborat. Aniq summani botda tekshiring.\n3. Do‘stingizning @username’ini kiriting.\n4. Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali so‘mda to‘lang.\n\nBatafsil tartib [NFT gift sotib olish](/nft-gift-sotib-olish/) sahifasida yozilgan. Boshqa variantlar ham bor:\n\n- **Ijara.** NFT sovg‘ani 1 kundan boshlab [ijaraga olish](/nft-sovga-ijara/) mumkin. Bu profilni qisqa muddatga bezash uchun qulay.\n- **Rejalashtirilgan sovg‘a.** Bugun to‘laysiz, sovg‘a [belgilangan sana va daqiqada](/rejalashtirilgan-sovga/) o‘zi yetadi. Narxga 0–12% muddat ustamasi qo‘shiladi. Sovg‘a yetkazilmasdan oldin buyurtmani bekor qilib, pulni qaytarib olish mumkin.\n\nSovg‘a yetkazilmasa, to‘langan summa bot balansiga to‘liq qaytadi. Savol yoki muammo bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport)’ga yozing. Gram hamyonni username’ga bog‘lash haqidagi gaplarga javob [kutish kerakmi](/blog/gram-hamyon-username-boglash-sovga-yuborish/) maqolasida bor.\n\nSovgaTG Telegram’dan mustaqil ishlaydigan xizmat.",
+  "faq": [
+    {
+      "q": "Gram Wallet’ni o‘rnatmasam, do‘stim yuborgan NFT sovg‘a kelmay qoladimi?",
+      "a": "Kelaveradi. Telegram sovg‘asi akkauntingizga @username orqali tushadi va profildagi Sovg‘alar bo‘limida ko‘rinadi. Buning uchun hamyon ilovasi o‘rnatish shart emas."
+    },
+    {
+      "q": "Do‘stimga yuborgan sovg‘am Gram Wallet ilovasida ko‘rinadimi?",
+      "a": "Bu ilova Telegram sovg‘alari yoki NFT bilan ishlashi haqida rasmiy ma’lumot yo‘q. Sovg‘ani Telegram profilidan qidirish ishonchliroq."
+    },
+    {
+      "q": "Do‘stim sovg‘ani saqlash uchun seed-iborasini yangi ilovaga kiritmoqchi. Uni to‘xtataymi?",
+      "a": "Ha, to‘xtating. Seed-iborani olgan ilova hamyonni ham, undagi NFT’ni ham boshqara oladi, Telegram ichidagi sovg‘ani saqlash uchun esa bunga umuman ehtiyoj yo‘q."
+    },
+    {
+      "q": "Hamyon ilovasi Telegram 2FA parolimni so‘rasa, kiritaymi?",
+      "a": "Yo‘q. Sovg‘ani blokcheynga chiqarishda bu parolni faqat Telegram ilovasining o‘zi so‘raydi. Tashqi ilova uni bilishi shart emas."
+    },
+    {
+      "q": "Blokcheynga chiqarilgan NFT sovg‘ani qayta do‘stga sovg‘a qilsa bo‘ladimi?",
+      "a": "Ha, Fragment ma’lumotiga ko‘ra, kolleksion buyumni hamyon ilovasi orqali boshqa odamga to‘lovsiz o‘tkazish mumkin. Buning uchun do‘stingizning TON manzili kerak bo‘ladi, uni chatdan ko‘chirmasdan, do‘stingizning o‘zidan qayta so‘rab tasdiqlang."
+    },
+    {
+      "q": "Do‘stimda hamyon yo‘q bo‘lsa, unga NFT sovg‘ani qanday yuboraman?",
+      "a": "@StarsPaymee_bot orqali NFT sovg‘ani so‘mda sotib olib, do‘stingizning @username’ini ko‘rsatasiz. Hamyon na sizga, na unga kerak bo‘ladi."
+    },
+    {
+      "q": "Sovg‘ani anonim yubormoqchiman, bunda hamyon kerak bo‘ladimi?",
+      "a": "Yo‘q. SovgaTG’da Telegram sovg‘asini anonim rejimda ham @username orqali yuborsa bo‘ladi. Narxi va shartlarini botda tekshiring."
+    }
+  ],
+  "keywords": [
+    "gram wallet ilovasi nft sovga",
+    "gram wallet xavfsizmi",
+    "gram wallet nft sovga ulash",
+    "nft sovga uchun hamyon kerakmi",
+    "telegram nft sovga blokcheynga chiqarish",
+    "gram wallet app store",
+    "gram wallet безопасно ли",
+    "gram wallet nft подарок telegram",
+    "нужен ли кошелек для nft подарка телеграм",
+    "gram wallet mytonwallet",
+    "вывести подарок telegram в блокчейн"
+  ],
+  "related": [
+    "gram-wallet-telegram-faollashtirish",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "wallet-fragment-ulanish-nft-sovga-xavfi",
+    "gram-hamyon-username-boglash-sovga-yuborish"
+  ],
+  "sources": [
+    {
+      "url": "https://telegram.org/blog/wear-gifts-blockchain-and-more",
+      "title": "Wear Collectible Gifts, Move Gifts to the Blockchain, Send Gifts to Channels, and More"
+    },
+    {
+      "url": "https://core.telegram.org/api/gifts",
+      "title": "Telegram Gifts"
+    },
+    {
+      "url": "https://fragment.com/about",
+      "title": "How does Fragment work?"
+    },
+    {
+      "url": "https://ton.org/media",
+      "title": "TON Media Assets"
+    }
+  ],
+  "intent": "Do‘stiga NFT sovg‘a qilmoqchi yoki NFT sovg‘a olgan foydalanuvchi App Store’da yangi «Gram Wallet» ilovasini ko‘rib, «Gram Wallet ilovasiga NFT sovg‘ani ulash xavfsizmi, sovg‘a uchun u kerakmi» deb qidiradi."
+}
