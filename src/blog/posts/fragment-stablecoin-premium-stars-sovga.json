@@ -1,0 +1,73 @@
+{
+  "slug": "fragment-stablecoin-premium-stars-sovga",
+  "date": "2026-11-19",
+  "reviewed": "2026-11-19",
+  "category": "premium-stars",
+  "title": "Fragment’da USDC bilan Premium sovg‘a qilish: do‘stga ishlaydimi?",
+  "excerpt": "Ha, ishlaydi: Fragment’ning Premium sovg‘a sahifasida do‘stga obunani USDC yoki USDT bilan olish mumkin, lekin kripto hamyon kerak. Kriptosiz yo‘l bor: SovgaTG botida so‘mda, @username bilan.",
+  "content": "## Fragment’da do‘stga Premium’ni USDC bilan sovg‘a qilsa bo‘ladimi?\n\nHa. Fragment’ning [Premium sovg‘a sahifasida](https://fragment.com/premium/gift) USDC (ETH, Base, POL tarmoqlari) va USDT (ETH, TON, POL, BSC, TRX tarmoqlari) bilan to‘lash mumkinligi ko‘rsatilgan.\n\nSahifadagi yozuvga ko‘ra, obunani kripto hamyon orqali o‘zingizga ham, do‘stingiz yoki hamkasbingizga ham olsa bo‘ladi. Sovg‘a uchun alohida yo‘l qidirmaysiz: oluvchi sifatida do‘stingizni ko‘rsatasiz.\n\nStars’da ham shunday. [Stars sotib olish sahifasida](https://fragment.com/stars/buy) to‘lov uchun GRAM (TON), USDT va USDC ko‘rsatilgan. Balansni do‘stlarga ham to‘ldirish mumkinligi yozilgan.\n\nShart bitta: bu yo‘lda sizga kripto hamyon va undagi stablecoin kerak. Hamyoningiz bo‘lmasa, so‘mda to‘lash yo‘li quyida yozilgan.\n\n## «Testda qo‘shilib, olib tashlandi» degan gap rostmi?\n\nTelegram kanallarida tarqalgan xabarga ko‘ra, stablecoin bilan to‘lov avval Fragment’ning test versiyasida paydo bo‘lgan, keyin olib tashlanib, yana qaytarilgan. Bu xabarning qaysi qismi tasdiqlangani jadvalda:\n\n| Da’vo | Holat | Sovg‘a qiluvchi uchun ma’nosi |\n|---|---|---|\n| Fragment sahifalarida USDT va USDC bor | Rasmiy sahifada ko‘rinadi | Premium va Stars’ni stablecoin bilan to‘lash mumkin |\n| Usul test versiyada qo‘shilib, keyin olib tashlangan | Rasmiy e’lon topilmadi | Bu gap faqat kanal postiga asoslangan |\n| Usul ishga tushgan aniq sana | Rasmiy manbalarda ko‘rsatilmagan | Qachondan beri ishlayotganini aytib bo‘lmaydi |\n| Fragment — Stars uchun to‘lov yo‘llaridan biri | Telegram API hujjatida yozilgan | Fragment orqali kattaroq xarid ham qilsa bo‘ladi |\n\nTelegram’ning [Stars bo‘yicha API hujjatida](https://core.telegram.org/api/stars) Fragment orqali to‘lov alohida yo‘l sifatida ko‘rsatilgan va u kattaroq xaridlarga ham imkon beradi.\n\nTo‘lov variantlari ro‘yxati o‘zgarishi mumkin. Shuning uchun kanal xabariga emas, to‘lov oynasining o‘ziga qarang: kerakli valyuta va tarmoq o‘sha yerda bo‘lsa, undan foydalansa bo‘ladi.\n\n## Do‘stga Fragment orqali sovg‘a qilish uchun nima kerak?\n\n- **Kripto hamyon.** U Fragment’ga ulana olishi va stablecoin saqlay olishi kerak.\n- **Mos tarmoqdagi USDC yoki USDT.** Premium uchun USDT’da ETH, TON, POL, BSC va TRX tarmoqlari bor, USDC’da esa faqat ETH, Base va POL. Hamyoningizdagi tanga shulardan birida turishi kerak.\n- **Tarmoq to‘lovi uchun zaxira.** Stars sahifasida tarmoq to‘lovi alohida ko‘rsatiladi. Tekshirilgan paytda u $2.71 edi, lekin bu summa o‘zgarib turadi. Hamyonda faqat obuna narxicha pul bo‘lsa, to‘lov o‘tmay qolishi mumkin.\n- **Do‘stingizning Telegram username’i.** Uni o‘zidan so‘rab, yozilishini aniq bilib oling.\n\nByudjetni taxminan hisoblash uchun: sahifa ochilgan paytda Fragment’da Premium 3 oyga $11.99, 6 oyga $15.99, 1 yilga $28.99 edi. Bu narxlar o‘zgarishi mumkin, shuning uchun to‘lov oynasidagi summaga qarang.\n\n## Fragment’da do‘stga Premium qanday sovg‘a qilinadi?\n\n1. [Premium sovg‘a sahifasini](https://fragment.com/premium/gift) oching.\n2. Do‘stingizning username’ini kiriting va muddatni tanlang: 3 oy, 6 oy yoki 1 yil.\n3. Ekranda chiqqan oluvchi aynan do‘stingiz ekanini tekshiring.\n4. To‘lov valyutasi va tarmog‘ini tanlang, masalan USDC (Base).\n5. Hamyonni ulang. Hamyonda ham aynan shu tarmoq tanlanganini tekshiring.\n6. To‘lov summasi va tarmoq to‘lovini ko‘rib chiqing, keyin tasdiqlang.\n7. Do‘stingizdan Premium yoqildimi, yo‘qmi, so‘rang.\n\n> Bu qadamlar sahifada ko‘rinadigan variantlar asosida yozilgan. Fragment interfeysi bo‘yicha rasmiy qo‘llanma bu maqolada tasdiqlanmagan, tugmalar nomi boshqacha bo‘lishi mumkin.\n\nStars uchun Fragment’da [alohida sahifa](https://fragment.com/stars/buy) bor. U yerda ham balansni do‘stga to‘ldirish mumkin.\n\n## Kripto bilan sovg‘a qilganda nimadan ehtiyot bo‘lish kerak?\n\nFragment orqali sovg‘a qilsangiz, hamyon, tarmoq va komissiyani o‘zingiz nazorat qilasiz. To‘lashdan oldin quyidagilarni hisobga oling.\n\n- **Tarmoq to‘lovi.** Summasi o‘zgarib turadi. Arzon tarifga qo‘shilsa, sezilarli bo‘lishi mumkin.\n- **Noto‘g‘ri tarmoq va kechikish.** Noto‘g‘ri tarmoqqa yuborilgan pul qaytadimi, to‘lov qancha vaqtda tushadi — bu haqda rasmiy qo‘llanma topilmadi. Tarmoqni ikki marta tekshiring va pul qaytadi, deb hisob-kitob qilmang.\n- **Username’dagi xato.** Bitta harf adashsa, sovg‘a boshqa odamga ketishi mumkin. Bunday holatda qaytarish yo‘li bu maqolada tasdiqlanmagan.\n- **Bitimdagi tomonlar.** Telegram’ning [uchinchi tomon to‘lovlari shartlarida](https://telegram.org/tos/third-party-payments) aytilishicha, ba’zi to‘lovlarda sotuvchi Telegram litsenziyasi bilan o‘z nomidan ishlaydigan vakolatli reseler bo‘lishi mumkin. Telegram esa bunday bitimda tomon hisoblanmaydi. Muammo chiqsa kimga murojaat qilishni oldindan bilib oling.\n- **«Arzon Premium» takliflari.** Chatda kimdir USDC evaziga arzon obuna taklif qilsa, pul o‘tkazmang. Bunday sovg‘a do‘stingizning akkauntiga ham zarar yetkazishi mumkin. Batafsil: [arzon Premium sovg‘asi xavfi haqidagi maqola](/blog/bag-arzon-premium-stars-dostga-sovga-xavfi/).\n\nSahifadagi GRAM (TON) yozuvi chalg‘itsa, [Toncoin’ning Gram deb atalishi haqidagi maqolani](/blog/toncoin-gram-nomi-nft-sovgaga-tasiri/) o‘qing. Fragment’dagi hamyon yozuvlari haqida [Telegram Messenger hamyoni bo‘yicha maqola](/blog/fragment-telegram-messenger-hamyon-nft-sovga/) bor.\n\n## USDC bilan Fragment yoki so‘mda SovgaTG: qaysi biri sizga qulay?\n\n| Mezon | Fragment (USDT/USDC) | SovgaTG (so‘m) |\n|---|---|---|\n| Nima kerak | Kripto hamyon va stablecoin | Faqat do‘stning @username’i |\n| To‘lov usuli | USDT, USDC yoki GRAM | Uzcard, Humo, Click, Payme, Paynet yoki bot balansi |\n| Qo‘shimcha xarajat | Tarmoq to‘lovi | Tarif narxiga xizmat haqi qo‘shiladi |\n| Yetkazish vaqti | Rasmiy ma’lumot topilmadi | Taxminan 10 soniya |\n| Sovg‘a yetmasa | Pul qaytishi bo‘yicha rasmiy qo‘llanma topilmadi | To‘langan summa balansga to‘liq qaytadi |\n| Narx | Dollarda, sahifada | So‘mda, aniq narx botda |\n| Belgilangan vaqtga yetkazish | Bu maqolada tasdiqlanmagan | Rejalashtirilgan sovg‘a bor |\n\nHamyoningizda mos tarmoqda USDC tayyor tursa va kripto bilan ishlashga o‘rgangan bo‘lsangiz, Fragment sizga to‘g‘ri keladi.\n\nKriptongiz bo‘lmasa, Uzcard yoki Humo kartasi bilan to‘lamoqchi bo‘lsangiz yoki sovg‘a tug‘ilgan kunga aniq vaqtda yetishi kerak bo‘lsa, so‘mda to‘lash qulayroq. Xalqaro karta, dollar hisobi yoki VPN kerak bo‘lmaydi.\n\n## Hamyonsiz, karta bilan do‘stga Premium yoki Stars qanday yuborasiz?\n\n1. [@StarsPaymee_bot](https://t.me/StarsPaymee_bot) botini oching.\n2. Premium (3, 6 yoki 12 oy) yoki Stars’ni tanlang.\n3. Do‘stingizning @username’ini kiriting. Ro‘yxatdan o‘tish, parol yoki SMS kod so‘ralmaydi.\n4. Narxni botda ko‘ring va Uzcard, Humo, Click, Payme, Paynet yoki bot balansi orqali to‘lang.\n5. Sovg‘a taxminan 10 soniyada yetadi. Savol bo‘lsa, [@StarsPaymeeSupport](https://t.me/StarsPaymeeSupport) ga yozing.\n\nPremium sovg‘a qilish haqida [Telegram Premium sovg‘a qilish](/telegram-premium-sovga/) sahifasida ham o‘qishingiz mumkin. SovgaTG — Telegram’dan mustaqil xizmat.\n\nSovg‘a aniq bir vaqtda yetishi kerak bo‘lsa, masalan do‘stingizning tug‘ilgan kunida yarim tunda, [rejalashtirilgan sovg‘a](/rejalashtirilgan-sovga/)ni tanlang. Bugun to‘laysiz, sovg‘a belgilangan sana va daqiqada o‘zi yetib boradi. Muddatga qarab narxga 0–12% ustama qo‘shiladi. Yetkazilishidan oldin buyurtmani bekor qilib, pulni qaytarib olsa bo‘ladi. Bu usul qaysi sovg‘alarga ishlashini botda tekshiring.\n\nSovg‘a uchun hamyon shartmi, degan savolga [TON hamyon haqidagi maqolada](/blog/nft-sovga-uchun-ton-hamyon-kerakmi/) javob bor: @username orqali so‘mda yuborish uchun hamyon kerak emas.",
+  "faq": [
+    {
+      "q": "Do‘stimga Stars’ni USDT bilan olsam, qaysi tarmoqni tanlayman?",
+      "a": "Fragment’ning Stars sahifasida USDT uchun ETH, TON, POL, BSC va TRX tarmoqlari ko‘rsatilgan. Hamyoningizdagi tanga qaysi tarmoqda tursa, to‘lov oynasida ham o‘shani tanlang."
+    },
+    {
+      "q": "Kanaldagi xabarga ishonib, USDC bilan to‘lasam bo‘ladimi?",
+      "a": "Xabarga emas, Fragment to‘lov oynasiga qarang: USDC va kerakli tarmoq u yerda ko‘rinsa, to‘lash mumkin. To‘lov test rejimida qo‘shilib-olib tashlangani haqida rasmiy e’lon topilmadi."
+    },
+    {
+      "q": "Do‘stimga Premium sovg‘a qilish uchun uning telefon raqami kerakmi?",
+      "a": "Yo‘q. SovgaTG botida do‘stingizning @username’ini kiritasiz, xolos. Parol yoki SMS kod ham so‘ralmaydi."
+    },
+    {
+      "q": "Fragment’da dollarda ko‘rsatilgan Premium narxi so‘mda qancha bo‘ladi?",
+      "a": "Stablecoin’ni qayerdan va qaysi kursda olganingizga bog‘liq, ustiga tarmoq to‘lovi ham qo‘shiladi. SovgaTG’da narx darhol so‘mda chiqadi — uni botda tekshiring."
+    },
+    {
+      "q": "Kripto bilan yuborgan Premium do‘stimga yetmasa, pulim qaytadimi?",
+      "a": "Fragment’da kripto to‘lovni qaytarish bo‘yicha rasmiy qo‘llanma topilmadi, shuning uchun bu borada va’da berib bo‘lmaydi. SovgaTG orqali yuborilgan sovg‘a yetib bormasa, to‘langan summa bot balansiga to‘liq qaytadi."
+    },
+    {
+      "q": "Premium’ni do‘stimning tug‘ilgan kuniga aniq vaqtda yetkazsa bo‘ladimi?",
+      "a": "SovgaTG’da rejalashtirilgan sovg‘a bor: pulni oldindan to‘laysiz, sovg‘a siz tanlagan sana va daqiqada yetadi, narxga 0–12% muddat ustamasi qo‘shiladi. Premium uchun bu usul bormi, botda tekshiring."
+    }
+  ],
+  "keywords": [
+    "fragment usdc bilan premium sovga",
+    "fragment usdt bilan premium sovga qilish",
+    "fragment stablecoin tolov stars",
+    "dostga telegram premium sovga qilish kriptosiz",
+    "telegram premium somda sovga",
+    "fragment usdc base premium",
+    "fragment оплата usdc premium",
+    "fragment usdt купить premium другу",
+    "подарить telegram premium через fragment",
+    "купить звезды fragment usdt",
+    "премиум в подарок без крипты узбекистан"
+  ],
+  "related": [
+    "fragment-telegram-messenger-hamyon-nft-sovga",
+    "nft-sovga-uchun-ton-hamyon-kerakmi",
+    "bag-arzon-premium-stars-dostga-sovga-xavfi",
+    "toncoin-gram-nomi-nft-sovgaga-tasiri"
+  ],
+  "sources": [
+    {
+      "url": "https://fragment.com/stars/buy",
+      "title": "Fragment (Buy Telegram Stars)"
+    },
+    {
+      "url": "https://fragment.com/premium/gift",
+      "title": "Buy Telegram Premium"
+    },
+    {
+      "url": "https://core.telegram.org/api/stars",
+      "title": "Telegram Stars"
+    },
+    {
+      "url": "https://telegram.org/tos/third-party-payments",
+      "title": "Third-Party Payments and Authorized Resellers"
+    }
+  ],
+  "intent": "Do'stiga Telegram Premium yoki Stars sovg'a qilmoqchi bo'lgan o'zbekistonlik foydalanuvchi Fragment'da USDT/USDC bilan to'lov paydo bo'lganini eshitib, «fragment usdc bilan premium sovga» deb qidiradi. U bu usul rostdan ishlaydimi, sovg'a uchun yaraydimi va kriptosiz, so'mda qanday yo'l borligini bilmoqchi."
+}
